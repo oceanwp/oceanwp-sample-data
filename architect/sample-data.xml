@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7" created="2016-12-18 23:29" -->
+<!-- generator="WordPress/4.7" created="2016-12-20 13:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Architect</title>
 	<link>https://oceanwp.org/architect</link>
 	<description>Demo for the free WordPress theme Ocean</description>
-	<pubDate>Sun, 18 Dec 2016 23:29:50 +0000</pubDate>
+	<pubDate>Tue, 20 Dec 2016 13:02:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
@@ -1743,26 +1743,18 @@
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<guid isPermaLink="false">https://oceanwp.org/architect/oceanwp/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* Transparent header */
-#site-header.transparent-header { background-color: rgba(255, 255, 255, 0.3); }
-#site-header.transparent-header.dark-style { border-color: rgba(57, 57, 57, 0.1); }
-#site-header.transparent-header.dark-style #site-navigation .dropdown-menu &gt; li &gt; a,
-#site-header.transparent-header.dark-style #searchform-header-replace-close { color: #555; }
-#site-header.transparent-header.dark-style #site-navigation .dropdown-menu &gt; li &gt; a:hover,
-#site-header.transparent-header.dark-style #searchform-header-replace-close:hover { color: #6e8fef; }
-
-/* Big title - Text margin left */
-.elementor-element.big-margin &gt; .elementor-element-populated { margin-left: 80px; }
+		<content:encoded><![CDATA[/* Big title - Text margin left */
+.elementor-element.big-margin > .elementor-element-populated { margin-left: 80px; }
 
 /* Full width buttons on the last section */
 .elementor-element.full-btn .elementor-button { display: block; }
 
 /* Add simple line icons to the header social menu */
-#ocean-social-menu span { font-family: simple-line-icons; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
-#ocean-social-menu .fa-twitter:before { content: "\e009"; }
-#ocean-social-menu .fa-facebook:before { content: "\e00b"; }
-#ocean-social-menu .fa-google-plus:before { content: "\e60d"; }
-#ocean-social-menu .fa-instagram:before { content: "\e609"; }
+#oceanwp-social-menu span { font-family: simple-line-icons; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+#oceanwp-social-menu .fa-twitter:before { content: "\e009"; }
+#oceanwp-social-menu .fa-facebook:before { content: "\e00b"; }
+#oceanwp-social-menu .fa-google-plus:before { content: "\e60d"; }
+#oceanwp-social-menu .fa-instagram:before { content: "\e609"; }
 
 /* Blog entries */
 .blog-entry.large-entry { max-width: 833px; margin: 0 auto 30px auto; text-align: center; }
@@ -1787,12 +1779,12 @@ ul.page-numbers { padding: 30px 0 0; }
 
 /* Responsive */
 @media (max-width: 959px) {
-    .elementor-element.title-row &gt; .elementor-element-populated { padding: 20px; }
+    .elementor-element.title-row > .elementor-element-populated { padding: 20px; }
     .elementor-element.big-title .elementor-heading-title { font-size: 24px; }
-    .elementor-element.big-margin &gt; .elementor-element-populated { margin-left: 40px; }
+    .elementor-element.big-margin > .elementor-element-populated { margin-left: 40px; }
 }
 @media (max-width: 767px) {
-    .elementor-element.big-margin &gt; .elementor-element-populated { margin-top: 20px; margin-left: 0; }
+    .elementor-element.big-margin > .elementor-element-populated { margin-top: 20px; margin-left: 0; }
 }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>334</wp:post_id>
