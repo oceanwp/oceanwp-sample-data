@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7" created="2016-12-18 23:16" -->
+<!-- generator="WordPress/4.7.2" created="2017-02-25 19:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Lingerie</title>
 	<link>https://oceanwp.org/underwear</link>
 	<description>Demo for the free WordPress theme Ocean</description>
-	<pubDate>Sun, 18 Dec 2016 23:16:54 +0000</pubDate>
+	<pubDate>Sat, 25 Feb 2017 19:31:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
@@ -237,10 +237,10 @@
 	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
-	<url>https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon-150x150.png</url>
+	<url>https://cdn.oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon-150x150.png</url>
 	<title>Lingerie</title>
 	<link>https://oceanwp.org/underwear</link>
 	<width>32</width>
@@ -425,12 +425,12 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/04/underwear-product2a.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:572;s:6:"height";i:764;s:4:"file";s:31:"2016/04/underwear-product2a.png";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"underwear-product2a-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"underwear-product2a-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:31:"underwear-product2a-572x640.png";s:5:"width";i:572;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:30:"underwear-product2a-90x120.png";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:31:"underwear-product2a-265x352.png";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:31:"underwear-product2a-433x578.png";s:5:"width";i:433;s:6:"height";i:578;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/04/underwear-product2a.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:572;s:6:"height";i:764;s:4:"file";s:31:"2016/04/underwear-product2a.png";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"underwear-product2a-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"underwear-product2a-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:31:"underwear-product2a-572x640.png";s:5:"width";i:572;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:30:"underwear-product2a-90x120.png";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:31:"underwear-product2a-265x352.png";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:31:"underwear-product2a-433x578.png";s:5:"width";i:433;s:6:"height";i:578;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1761,6 +1761,254 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>News</title>
+		<link>https://oceanwp.org/underwear/77/</link>
+		<pubDate>Sun, 24 Apr 2016 17:19:29 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=77</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 17:19:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 17:19:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[77]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Store</title>
+		<link>https://oceanwp.org/underwear/store-2/</link>
+		<pubDate>Mon, 25 Apr 2016 18:35:45 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=150</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>150</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-25 18:35:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-25 18:35:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[store-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>favicon</title>
+		<link>https://oceanwp.org/underwear/favicon/</link>
+		<pubDate>Mon, 07 Nov 2016 21:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/favicon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>254</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-07 21:49:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-07 21:49:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[favicon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/favicon.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/11/favicon.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:19:"2016/11/favicon.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"favicon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:19:"favicon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"favicon-90x120.png";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"favicon-265x352.png";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:19:"favicon-433x512.png";s:5:"width";i:433;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cropped-favicon.png</title>
+		<link>https://oceanwp.org/underwear/cropped-favicon-png/</link>
+		<pubDate>Mon, 07 Nov 2016 21:49:45 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>257</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-07 21:49:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-07 21:49:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-favicon-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/11/cropped-favicon.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+			<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:27:"2016/11/cropped-favicon.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"cropped-favicon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:27:"cropped-favicon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"cropped-favicon-90x120.png";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:27:"cropped-favicon-265x352.png";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:27:"cropped-favicon-433x512.png";s:5:"width";i:433;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>img_03214562</title>
 		<link>https://oceanwp.org/underwear/img_03214562/</link>
 		<pubDate>Tue, 08 Nov 2016 01:29:02 +0000</pubDate>
@@ -1947,281 +2195,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>News</title>
-		<link>https://oceanwp.org/underwear/77/</link>
-		<pubDate>Sun, 24 Apr 2016 17:19:29 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=77</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>77</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 17:19:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 17:19:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[77]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[75]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>lingerie-logo</title>
-		<link>https://oceanwp.org/underwear/lingerie-logo/</link>
-		<pubDate>Wed, 09 Nov 2016 14:10:31 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-logo.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>314</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-09 14:10:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-09 14:10:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[lingerie-logo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-logo.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/11/lingerie-logo.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:126;s:6:"height";i:18;s:4:"file";s:25:"2016/11/lingerie-logo.png";s:5:"sizes";a:1:{s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"lingerie-logo-90x18.png";s:5:"width";i:90;s:6:"height";i:18;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>lingerie-retina-logo</title>
-		<link>https://oceanwp.org/underwear/lingerie-retina-logo/</link>
-		<pubDate>Wed, 09 Nov 2016 14:10:35 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-retina-logo.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>315</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-09 14:10:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-09 14:10:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[lingerie-retina-logo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-retina-logo.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/11/lingerie-retina-logo.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:252;s:6:"height";i:36;s:4:"file";s:32:"2016/11/lingerie-retina-logo.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"lingerie-retina-logo-150x36.png";s:5:"width";i:150;s:6:"height";i:36;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:30:"lingerie-retina-logo-90x36.png";s:5:"width";i:90;s:6:"height";i:36;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Store</title>
-		<link>https://oceanwp.org/underwear/store-2/</link>
-		<pubDate>Mon, 25 Apr 2016 18:35:45 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=150</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>150</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-25 18:35:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-25 18:35:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[store-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>favicon</title>
-		<link>https://oceanwp.org/underwear/favicon/</link>
-		<pubDate>Mon, 07 Nov 2016 21:49:14 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/favicon.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>254</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-07 21:49:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-07 21:49:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favicon]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/favicon.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/11/favicon.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:19:"2016/11/favicon.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"favicon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:19:"favicon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"favicon-90x120.png";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"favicon-265x352.png";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:19:"favicon-433x512.png";s:5:"width";i:433;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>img_21450321</title>
 		<link>https://oceanwp.org/underwear/home/img_21450321/</link>
 		<pubDate>Tue, 08 Nov 2016 18:16:43 +0000</pubDate>
@@ -2250,41 +2223,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:600;s:4:"file";s:24:"2016/04/img_21450321.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_21450321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_21450321-300x113.jpg";s:5:"width";i:300;s:6:"height";i:113;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_21450321-768x288.jpg";s:5:"width";i:768;s:6:"height";i:288;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"img_21450321-1024x384.jpg";s:5:"width";i:1024;s:6:"height";i:384;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_21450321-640x600.jpg";s:5:"width";i:640;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"img_21450321-90x120.jpg";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:24:"img_21450321-265x352.jpg";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:24:"img_21450321-433x578.jpg";s:5:"width";i:433;s:6:"height";i:578;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>cropped-favicon.png</title>
-		<link>https://oceanwp.org/underwear/cropped-favicon-png/</link>
-		<pubDate>Mon, 07 Nov 2016 21:49:45 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon.png]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>257</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-07 21:49:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-07 21:49:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-favicon-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/cropped-favicon.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/11/cropped-favicon.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-			<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:27:"2016/11/cropped-favicon.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"cropped-favicon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:27:"cropped-favicon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"cropped-favicon-90x120.png";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:27:"cropped-favicon-265x352.png";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:27:"cropped-favicon-433x512.png";s:5:"width";i:433;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2378,6 +2316,68 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:800;s:4:"file";s:24:"2016/04/img_21305486.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_21305486-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_21305486-300x150.jpg";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_21305486-768x384.jpg";s:5:"width";i:768;s:6:"height";i:384;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"img_21305486-1024x512.jpg";s:5:"width";i:1024;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_21305486-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"img_21305486-90x120.jpg";s:5:"width";i:90;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:24:"img_21305486-265x352.jpg";s:5:"width";i:265;s:6:"height";i:352;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:24:"img_21305486-433x578.jpg";s:5:"width";i:433;s:6:"height";i:578;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>lingerie-logo</title>
+		<link>https://oceanwp.org/underwear/lingerie-logo/</link>
+		<pubDate>Wed, 09 Nov 2016 14:10:31 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>314</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-09 14:10:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-09 14:10:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[lingerie-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/11/lingerie-logo.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:126;s:6:"height";i:18;s:4:"file";s:25:"2016/11/lingerie-logo.png";s:5:"sizes";a:1:{s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"lingerie-logo-90x18.png";s:5:"width";i:90;s:6:"height";i:18;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>lingerie-retina-logo</title>
+		<link>https://oceanwp.org/underwear/lingerie-retina-logo/</link>
+		<pubDate>Wed, 09 Nov 2016 14:10:35 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-retina-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>315</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-09 14:10:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-09 14:10:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[lingerie-retina-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/underwear/wp-content/uploads/sites/6/2016/11/lingerie-retina-logo.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/11/lingerie-retina-logo.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:252;s:6:"height";i:36;s:4:"file";s:32:"2016/11/lingerie-retina-logo.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"lingerie-retina-logo-150x36.png";s:5:"width";i:150;s:6:"height";i:36;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:30:"lingerie-retina-logo-90x36.png";s:5:"width";i:90;s:6:"height";i:36;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2560,32 +2560,32 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_disable_breadcrumbs]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2751,254 +2751,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Footer Callout</title>
-		<link>https://oceanwp.org/underwear/footer-callout/</link>
-		<pubDate>Sun, 24 Apr 2016 13:11:51 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=30</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="underwear-callout oceanwp-row clr">
-<div class="span_1_of_4 col col-1 clr">
-<div class="callout-content">
-<a href="#">
-<div class="icon-box-icon clr"><span class="icon-globe-alt"></span></div>
-<div class="icon-box-heading clr">Worldwide shipping</div>
-</a>
-</div>
-</div>
-<div class="span_1_of_4 col clr">
-<div class="callout-content">
-<a href="#">
-<div class="icon-box-icon clr"><span class="icon-anchor"></span></div>
-<div class="icon-box-heading clr">Fast delivery</div>
-</a>
-</div>
-</div>
-<div class="span_1_of_4 col clr">
-<div class="callout-content">
-<a href="#">
-<div class="icon-box-icon clr"><span class="icon-lock"></span></div>
-<div class="icon-box-heading clr">Secure payment</div>
-</a>
-</div>
-</div>
-<div class="span_1_of_4 col clr">
-<div class="callout-content">
-<a href="#">
-<div class="icon-box-icon clr"><span class="icon-heart"></span></div>
-<div class="icon-box-heading clr">Fashion destination</div>
-</a>
-</div>
-</div>
-</div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 13:11:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 13:11:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer-callout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Catalog</title>
-		<link>https://oceanwp.org/underwear/catalog/</link>
-		<pubDate>Wed, 27 Apr 2016 20:01:41 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=157</guid>
-		<description></description>
-		<content:encoded><![CDATA[[product_categories orderby="" order="" columns="4" ids=""]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-27 20:01:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-27 20:01:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[catalog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_slide_order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[ASC]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_posts_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_slider_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[one]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>https://oceanwp.org/underwear/247/</link>
-		<pubDate>Mon, 07 Nov 2016 20:55:56 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/underwear/?p=247</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>247</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-07 20:55:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-07 20:55:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[247]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[157]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Velusce suscipit quis luctus</title>
 		<link>https://oceanwp.org/underwear/velusce-suscipit-quis-luctus/</link>
 		<pubDate>Sun, 24 Apr 2016 17:04:21 +0000</pubDate>
@@ -3087,6 +2839,94 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Sociosqu ad litora torquent</title>
+		<link>https://oceanwp.org/underwear/sociosqu-ad-litora-torquent/</link>
+		<pubDate>Sun, 24 Apr 2016 17:04:34 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/class-aptent-taciti-sociosqu-copy-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.
+
+Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.
+<h3>Vestibulum lacinia arcu</h3>
+Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.
+<blockquote>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</blockquote>
+Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 17:04:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 17:04:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sociosqu-ad-litora-torquent]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[285]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Blog</title>
 		<link>https://oceanwp.org/underwear/blog/</link>
 		<pubDate>Sun, 24 Apr 2016 17:13:45 +0000</pubDate>
@@ -3138,33 +2978,33 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 	</item>
 	<item>
 		<title></title>
-		<link>https://oceanwp.org/underwear/163/</link>
-		<pubDate>Wed, 27 Apr 2016 20:21:29 +0000</pubDate>
+		<link>https://oceanwp.org/underwear/156/</link>
+		<pubDate>Wed, 27 Apr 2016 18:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=163</guid>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=156</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>163</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-27 20:21:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-27 20:21:29]]></wp:post_date_gmt>
+		<wp:post_id>156</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-27 18:50:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-27 18:50:47]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[163]]></wp:post_name>
+		<wp:post_name><![CDATA[156]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
@@ -3172,11 +3012,11 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[161]]></wp:meta_value>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -3228,6 +3068,72 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Catalog</title>
+		<link>https://oceanwp.org/underwear/catalog/</link>
+		<pubDate>Wed, 27 Apr 2016 20:01:41 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=157</guid>
+		<description></description>
+		<content:encoded><![CDATA[[product_categories orderby="" order="" columns="4" ids=""]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-27 20:01:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-27 20:01:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[catalog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_posts_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_slider_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[one]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_slide_order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ASC]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Contact Us</title>
 		<link>https://oceanwp.org/underwear/contact-us/</link>
 		<pubDate>Wed, 27 Apr 2016 20:20:40 +0000</pubDate>
@@ -3273,12 +3179,12 @@ ante dapibus diam nisi.
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -3293,10 +3199,6 @@ ante dapibus diam nisi.
 			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
@@ -3307,6 +3209,10 @@ ante dapibus diam nisi.
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[pluton_disable_margins]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
@@ -3327,33 +3233,33 @@ ante dapibus diam nisi.
 	</item>
 	<item>
 		<title></title>
-		<link>https://oceanwp.org/underwear/156/</link>
-		<pubDate>Wed, 27 Apr 2016 18:50:47 +0000</pubDate>
+		<link>https://oceanwp.org/underwear/163/</link>
+		<pubDate>Wed, 27 Apr 2016 20:21:29 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=156</guid>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=163</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-27 18:50:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-27 18:50:47]]></wp:post_date_gmt>
+		<wp:post_id>163</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-27 20:21:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-27 20:21:29]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[156]]></wp:post_name>
+		<wp:post_name><![CDATA[163]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
+		<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
@@ -3361,11 +3267,11 @@ ante dapibus diam nisi.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+			<wp:meta_value><![CDATA[161]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -3575,18 +3481,6 @@ ante dapibus diam nisi.
 			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_posts_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_slider_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[one]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_slide_order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[ASC]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
@@ -3601,6 +3495,18 @@ ante dapibus diam nisi.
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[pluton_disable_title]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_posts_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_slider_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[one]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_slide_order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ASC]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
@@ -3628,6 +3534,188 @@ ante dapibus diam nisi.
 		</wp:postmeta>
 	</item>
 	<item>
+		<title></title>
+		<link>https://oceanwp.org/underwear/172/</link>
+		<pubDate>Wed, 27 Apr 2016 20:44:53 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=172</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>172</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-27 20:44:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-27 20:44:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[172]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[170]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://oceanwp.org/underwear/247/</link>
+		<pubDate>Mon, 07 Nov 2016 20:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/underwear/?p=247</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>247</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-07 20:55:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-07 20:55:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[247]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[157]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Privacy &#038; Cookies</title>
 		<link>https://oceanwp.org/underwear/privacy-cookies/</link>
 		<pubDate>Mon, 07 Nov 2016 23:05:25 +0000</pubDate>
@@ -3649,6 +3737,14 @@ ante dapibus diam nisi.
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3709,14 +3805,6 @@ ante dapibus diam nisi.
 			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>Terms &#038; Conditions</title>
@@ -3740,30 +3828,6 @@ ante dapibus diam nisi.
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -3808,6 +3872,30 @@ ante dapibus diam nisi.
 			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Accessibility</title>
@@ -3832,43 +3920,27 @@ ante dapibus diam nisi.
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[272]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3876,28 +3948,44 @@ ante dapibus diam nisi.
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[272]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3923,43 +4011,27 @@ ante dapibus diam nisi.
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[273]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3967,28 +4039,44 @@ ante dapibus diam nisi.
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[273]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4014,115 +4102,24 @@ ante dapibus diam nisi.
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[274]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>https://oceanwp.org/underwear/172/</link>
-		<pubDate>Wed, 27 Apr 2016 20:44:53 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=172</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-27 20:44:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-27 20:44:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[172]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[170]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -4138,7 +4135,7 @@ ante dapibus diam nisi.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
@@ -4299,100 +4296,12 @@ This e-mail was sent from a contact form on Underwear (https://plutonwp.com/unde
 			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:88:"http://contactform7.com/configuration-errors/#mail.sender:error_email_not_in_site_domain";}}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sociosqu ad litora torquent</title>
-		<link>https://oceanwp.org/underwear/sociosqu-ad-litora-torquent/</link>
-		<pubDate>Sun, 24 Apr 2016 17:04:34 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/class-aptent-taciti-sociosqu-copy-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
-Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.
-
-Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.
-<h3>Vestibulum lacinia arcu</h3>
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.
-<blockquote>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</blockquote>
-Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 17:04:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 17:04:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sociosqu-ad-litora-torquent]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[285]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy-2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4426,22 +4335,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -4482,6 +4375,22 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[288]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Vestibulum sapin prin quam</title>
@@ -4514,10 +4423,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -4555,6 +4460,14 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy-4]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[287]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
@@ -4563,12 +4476,8 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[287]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4639,24 +4548,24 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy-5]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[284]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4685,35 +4594,31 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="product_tag" nicename="underwear"><![CDATA[Underwear]]></category>
 		<category domain="product_cat" nicename="bras"><![CDATA[Bras]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[33.90]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
+			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
 			<wp:meta_value><![CDATA[no]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4721,32 +4626,36 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
 			<wp:meta_value><![CDATA[no]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
-			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[33.90]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
@@ -4963,20 +4872,20 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[104]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[winsom-hipster-copy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -5207,10 +5116,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="product_cat" nicename="soft-bras"><![CDATA[Soft Bras]]></category>
 		<category domain="product_cat" nicename="string"><![CDATA[String]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -5331,20 +5236,24 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[112]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[winsom-hipster-copy-3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -5404,10 +5313,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="product_tag" nicename="underwear"><![CDATA[Underwear]]></category>
 		<category domain="product_cat" nicename="bras"><![CDATA[Bras]]></category>
 		<category domain="product_cat" nicename="string"><![CDATA[String]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -5529,20 +5434,24 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[116]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[winsom-hipster-copy-4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -5558,12 +5467,12 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>1</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1461690848.2784130573272705078125;s:5:"event";s:9:"check-ham";s:4:"user";s:4:"Nick";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
 				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1461690848.2784130573272705078125;s:5:"event";s:9:"check-ham";s:4:"user";s:4:"Nick";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
@@ -5602,10 +5511,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="product_tag" nicename="underwear"><![CDATA[Underwear]]></category>
 		<category domain="product_cat" nicename="soft-bras"><![CDATA[Soft Bras]]></category>
 		<category domain="product_cat" nicename="string"><![CDATA[String]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -5727,20 +5632,24 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:4;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[121]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[winsom-hipster-copy-5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:4;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
@@ -6133,10 +6042,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="product_cat" nicename="bras"><![CDATA[Bras]]></category>
 		<category domain="product_cat" nicename="string"><![CDATA[String]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -6257,20 +6162,24 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:4;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[135]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[winsom-hipster-copy-8]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:4;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
