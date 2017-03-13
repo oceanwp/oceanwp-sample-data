@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7" created="2016-12-18 23:14" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-13 22:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Travel</title>
 	<link>https://oceanwp.org/travel</link>
 	<description>Demo for the free OceanWP WordPress theme</description>
-	<pubDate>Sun, 18 Dec 2016 23:14:49 +0000</pubDate>
+	<pubDate>Mon, 13 Mar 2017 22:42:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
 	<wp:base_blog_url>https://oceanwp.org/travel</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Nick]]></wp:author_login><wp:author_email><![CDATA[oceanwptheme@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Nicolas]]></wp:author_display_name><wp:author_first_name><![CDATA[Nicolas]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Nick]]></wp:author_login><wp:author_email><![CDATA[oceanwptheme@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Nicolas Lecocq]]></wp:author_display_name><wp:author_first_name><![CDATA[Nicolas]]></wp:author_first_name><wp:author_last_name><![CDATA[Lecocq]]></wp:author_last_name></wp:author>
 
 	<wp:category>
 		<wp:term_id>4</wp:term_id>
@@ -93,10 +93,10 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
-	<url>https://oceanwp.org/travel/wp-content/uploads/sites/4/2016/10/cropped-site-icon-32x32.png</url>
+	<url>https://cdn.oceanwp.org/travel/wp-content/uploads/sites/4/2016/10/cropped-site-icon-32x32.png</url>
 	<title>Travel</title>
 	<link>https://oceanwp.org/travel</link>
 	<width>32</width>
@@ -223,12 +223,12 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:attachment_url><![CDATA[https://oceanwp.org/travel/wp-content/uploads/sites/4/2016/10/john.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:125;s:6:"height";i:125;s:4:"file";s:16:"2016/10/john.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/10/john.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:125;s:6:"height";i:125;s:4:"file";s:16:"2016/10/john.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -254,12 +254,12 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:attachment_url><![CDATA[https://oceanwp.org/travel/wp-content/uploads/sites/4/2016/10/travel.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:400;s:4:"file";s:18:"2016/10/travel.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"travel-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:18:"travel-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/10/travel.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:400;s:4:"file";s:18:"2016/10/travel.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"travel-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:18:"travel-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -742,7 +742,7 @@ body #footer-widgets .social-widget li a:hover { color: #8cba29; }
 		<link>https://oceanwp.org/travel/class-aptent-taciti-sociosqu/</link>
 		<pubDate>Thu, 14 Apr 2016 16:35:55 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?p=1</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -769,20 +769,12 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="category" nicename="miscellaneous"><![CDATA[Miscellaneous]]></category>
 		<category domain="post_tag" nicename="miscellaneous"><![CDATA[Miscellaneous]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[hello-world__trashed]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[219]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[hello-world__trashed]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -809,12 +801,20 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[219]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -822,7 +822,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/velusce-suscipit-quis-luctus/</link>
 		<pubDate>Fri, 15 Apr 2016 21:01:34 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/class-aptent-taciti-sociosqu-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/class-aptent-taciti-sociosqu-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -849,14 +849,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="category" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -893,16 +885,24 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[218]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[218]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
@@ -976,7 +976,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/sociosqu-ad-litora-torquent/</link>
 		<pubDate>Fri, 15 Apr 2016 21:04:06 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/velusce-suscipit-quis-luctus-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/velusce-suscipit-quis-luctus-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1002,22 +1002,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="travel-tips"><![CDATA[Travel Tips]]></category>
 		<category domain="post_tag" nicename="travel-tips"><![CDATA[Travel Tips]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[217]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1066,13 +1050,29 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[velusce-suscipit-quis-luctus-copy]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[217]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Tortor neque adpiscing diam</title>
 		<link>https://oceanwp.org/travel/tortor-neque-adpiscing-diam/</link>
 		<pubDate>Fri, 15 Apr 2016 21:05:39 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/sociosqu-ad-litora-torquent-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/sociosqu-ad-litora-torquent-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1098,10 +1098,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="miscellaneous"><![CDATA[Miscellaneous]]></category>
 		<category domain="post_tag" nicename="miscellaneous"><![CDATA[Miscellaneous]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1170,13 +1166,17 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Duis sagitis ipsum prasent</title>
 		<link>https://oceanwp.org/travel/duis-sagitis-ipsum-prasent/</link>
 		<pubDate>Fri, 15 Apr 2016 21:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/tortor-neque-adpiscing-diam-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/tortor-neque-adpiscing-diam-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1202,10 +1202,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[tortor-neque-adpiscing-diam-copy]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1267,6 +1263,10 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[tortor-neque-adpiscing-diam-copy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[215]]></wp:meta_value>
 		</wp:postmeta>
@@ -1288,7 +1288,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/vestibulum-sapin-prin-quam/</link>
 		<pubDate>Fri, 15 Apr 2016 21:09:40 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/duis-sagitis-ipsum-prasent-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/duis-sagitis-ipsum-prasent-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1387,20 +1387,20 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[duis-sagitis-ipsum-prasent-copy]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[214]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1408,7 +1408,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/neque-adipiscing-an-cursus/</link>
 		<pubDate>Fri, 15 Apr 2016 21:10:34 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/vestibulum-sapin-prin-quam-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/vestibulum-sapin-prin-quam-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1536,7 +1536,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/litora-torqent-per-conubia/</link>
 		<pubDate>Fri, 15 Apr 2016 21:18:22 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/neque-adipiscing-an-cursus-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/neque-adipiscing-an-cursus-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1672,7 +1672,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/praesent-libro-se-cursus-ante/</link>
 		<pubDate>Fri, 15 Apr 2016 21:20:49 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/litora-torqent-per-conubia-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1791,12 +1791,12 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[211]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[litora-torqent-per-conubia-copy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[211]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
@@ -1824,12 +1824,12 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>1</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1460827930.0116660594940185546875;s:5:"event";s:9:"check-ham";s:4:"user";s:4:"Nick";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
 				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1460827930.0116660594940185546875;s:5:"event";s:9:"check-ham";s:4:"user";s:4:"Nick";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
 		<wp:comment>
@@ -1882,7 +1882,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/metus-vitae-pharetra-auctor/</link>
 		<pubDate>Fri, 15 Apr 2016 21:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/litora-torqent-per-conubia-copy-2/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1909,18 +1909,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="category" nicename="travel-tips"><![CDATA[Travel Tips]]></category>
 		<category domain="post_tag" nicename="travel-tips"><![CDATA[Travel Tips]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[210]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -2017,6 +2005,18 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[litora-torqent-per-conubia-copy-2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[210]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
@@ -2026,7 +2026,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/interdum-magna-augue-eget/</link>
 		<pubDate>Fri, 15 Apr 2016 21:23:37 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/metus-vitae-pharetra-auctor-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/metus-vitae-pharetra-auctor-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2053,26 +2053,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="category" nicename="miscellaneous"><![CDATA[Miscellaneous]]></category>
 		<category domain="post_tag" nicename="miscellaneous"><![CDATA[Miscellaneous]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[209]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[metus-vitae-pharetra-auctor-copy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -2171,6 +2151,26 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[pluton_link_format_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[metus-vitae-pharetra-auctor-copy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[209]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>10</wp:comment_id>
@@ -2266,7 +2266,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/blog/</link>
 		<pubDate>Fri, 15 Apr 2016 21:29:14 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?page_id=84</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?page_id=84</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2316,7 +2316,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/86/</link>
 		<pubDate>Fri, 15 Apr 2016 21:30:33 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?p=86</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?p=86</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2333,10 +2333,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -2401,13 +2397,17 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Contact</title>
 		<link>https://oceanwp.org/travel/contact/</link>
 		<pubDate>Sun, 17 Apr 2016 10:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?page_id=116</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?page_id=116</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 					
@@ -2486,7 +2486,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/120/</link>
 		<pubDate>Sun, 17 Apr 2016 10:23:01 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?p=120</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?p=120</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2503,10 +2503,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -2571,13 +2567,17 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
 		<link>https://oceanwp.org/travel/124/</link>
 		<pubDate>Sun, 17 Apr 2016 13:10:46 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?p=124</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?p=124</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2595,8 +2595,40 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category_post]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
@@ -2627,40 +2659,8 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category_post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2668,7 +2668,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/travel/125/</link>
 		<pubDate>Sun, 17 Apr 2016 13:10:46 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?p=125</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2686,8 +2686,36 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category_post]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2698,38 +2726,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -2738,11 +2734,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2750,8 +2742,16 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category_post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3010,10 +3010,6 @@ Praesent libero sed cursus anted dapibus diam
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -3024,6 +3020,10 @@ Praesent libero sed cursus anted dapibus diam
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[171]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -3166,7 +3166,7 @@ Praesent libero sed cursus anted dapibus diam
 		<link>https://oceanwp.org/travel/?post_type=wpcf7_contact_form&#038;p=4</link>
 		<pubDate>Thu, 14 Apr 2016 16:40:56 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?post_type=wpcf7_contact_form&#038;p=4</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?post_type=wpcf7_contact_form&#038;p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="oceanwp-row clr">
 <div class="span_1_of_2 col col-1 clr">Your Name <span class="required">*</span><br />
@@ -3182,8 +3182,10 @@ Praesent libero sed cursus anted dapibus diam
     [textarea your-message]</p>
 
 <p>[submit "Send"]</p>
+1
 Travel "[your-subject]"
 [your-name] 
+support@contact.com
 From: [your-name] 
 Subject: [your-subject]
 
@@ -3191,8 +3193,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Travel (https://plutonwp.com/travel)
-contact@support.com
+This e-mail was sent from a contact form on Travel (https://oceanwpe.org/travel)
 Reply-To: [your-email]
 
 
@@ -3200,12 +3201,12 @@ Reply-To: [your-email]
 
 Travel "[your-subject]"
 Travel 
+[your-email]
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Travel (https://plutonwp.com/travel)
-[your-email]
+This e-mail was sent from a contact form on Travel (https://oceanwp.org/travel)
 Reply-To: plutontheme@gmail.com
 
 
@@ -3265,22 +3266,22 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:23:"Travel "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@plutonwp.com>";s:4:"body";s:171:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Travel "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:171:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Travel (https://plutonwp.com/travel)";s:9:"recipient";s:19:"contact@support.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Travel (https://oceanwpe.org/travel)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Travel "[your-subject]"";s:6:"sender";s:31:"Travel <wordpress@plutonwp.com>";s:4:"body";s:113:"Message Body:
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Travel "[your-subject]"";s:6:"sender";s:31:"Travel <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:112:"Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Travel (https://plutonwp.com/travel)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Travel (https://oceanwp.org/travel)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -3298,17 +3299,13 @@ This e-mail was sent from a contact form on Travel (https://plutonwp.com/travel)
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:88:"http://contactform7.com/configuration-errors/#mail.sender:error_email_not_in_site_domain";}}}}]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>Torquent per conubia nostra</title>
 		<link>https://oceanwp.org/travel/torquent-per-conubia-nostra/</link>
 		<pubDate>Fri, 15 Apr 2016 21:25:56 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/interdum-magna-augue-eget-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/interdum-magna-augue-eget-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3334,22 +3331,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[208]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -3461,6 +3442,22 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[interdum-magna-augue-eget-copy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[208]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>5</wp:comment_id>

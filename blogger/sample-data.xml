@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7" created="2016-12-18 23:19" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-13 22:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Blogger</title>
 	<link>https://oceanwp.org/blogger</link>
 	<description>Demo for the free OceanWP WordPress theme</description>
-	<pubDate>Sun, 18 Dec 2016 23:19:43 +0000</pubDate>
+	<pubDate>Mon, 13 Mar 2017 22:42:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
 	<wp:base_blog_url>https://oceanwp.org/blogger</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Nick]]></wp:author_login><wp:author_email><![CDATA[oceanwptheme@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Nicolas]]></wp:author_display_name><wp:author_first_name><![CDATA[Nicolas]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Nick]]></wp:author_login><wp:author_email><![CDATA[oceanwptheme@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Nicolas Lecocq]]></wp:author_display_name><wp:author_first_name><![CDATA[Nicolas]]></wp:author_first_name><wp:author_last_name><![CDATA[Lecocq]]></wp:author_last_name></wp:author>
 
 	<wp:category>
 		<wp:term_id>3</wp:term_id>
@@ -213,16 +213,47 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
-	<url>https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/11/cropped-favicon-150x150.png</url>
+	<url>https://cdn.oceanwp.org/blogger/wp-content/uploads/sites/11/2016/11/cropped-favicon-150x150.png</url>
 	<title>Blogger</title>
 	<link>https://oceanwp.org/blogger</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
+	<item>
+		<title>about-me</title>
+		<link>https://oceanwp.org/blogger/about-me/</link>
+		<pubDate>Sat, 12 Nov 2016 18:54:39 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/11/about-me.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-12 18:54:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-12 18:54:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-me]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/11/about-me.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/11/about-me.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:125;s:6:"height";i:125;s:4:"file";s:20:"2016/11/about-me.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 	<item>
 		<title>favicon</title>
 		<link>https://oceanwp.org/blogger/favicon/</link>
@@ -383,130 +414,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>img_87456321</title>
-		<link>https://oceanwp.org/blogger/aliquet-et-iaculis-et-viverra-vitae-ligula/img_87456321/</link>
-		<pubDate>Sun, 13 Nov 2016 00:31:37 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_87456321.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>155</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-13 00:31:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-13 00:31:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img_87456321]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>77</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_87456321.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:916;s:4:"file";s:24:"2016/07/img_87456321.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_87456321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_87456321-278x300.jpg";s:5:"width";i:278;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_87456321-768x830.jpg";s:5:"width";i:768;s:6:"height";i:830;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_87456321-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/07/img_87456321.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>img_85201476</title>
-		<link>https://oceanwp.org/blogger/curae-morbi-lacinia-molestie-dui-praesent-blandit/img_85201476/</link>
-		<pubDate>Sun, 13 Nov 2016 00:33:15 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_85201476.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-13 00:33:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-13 00:33:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img_85201476]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>66</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_85201476.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:566;s:4:"file";s:24:"2016/07/img_85201476.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_85201476-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_85201476-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_85201476-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_85201476-640x566.jpg";s:5:"width";i:640;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/07/img_85201476.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>img_98745630</title>
-		<link>https://oceanwp.org/blogger/ultrices-ultrices-enim-curabitur/img_98745630/</link>
-		<pubDate>Sun, 13 Nov 2016 00:34:54 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_98745630.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-13 00:34:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-13 00:34:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img_98745630]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>56</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_98745630.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:566;s:4:"file";s:24:"2016/07/img_98745630.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_98745630-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_98745630-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_98745630-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_98745630-640x566.jpg";s:5:"width";i:640;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/07/img_98745630.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>img_02365418</title>
-		<link>https://oceanwp.org/blogger/morbi-lacinia-molestie-dui-praesent/img_02365418/</link>
-		<pubDate>Sun, 13 Nov 2016 00:36:45 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_02365418.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-13 00:36:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-13 00:36:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img_02365418]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>51</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_02365418.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:1084;s:4:"file";s:24:"2016/07/img_02365418.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_02365418-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_02365418-235x300.jpg";s:5:"width";i:235;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_02365418-768x982.jpg";s:5:"width";i:768;s:6:"height";i:982;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"img_02365418-801x1024.jpg";s:5:"width";i:801;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_02365418-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/07/img_02365418.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>img_58236410</title>
 		<link>https://oceanwp.org/blogger/lorem-ipsum-dolor-sit-amet-consectetur/img_58236410/</link>
 		<pubDate>Sun, 13 Nov 2016 00:19:27 +0000</pubDate>
@@ -560,12 +467,12 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_65412302.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:762;s:4:"file";s:24:"2016/07/img_65412302.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_65412302-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_65412302-300x270.jpg";s:5:"width";i:300;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_65412302-768x690.jpg";s:5:"width";i:768;s:6:"height";i:690;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_65412302-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/img_65412302.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:762;s:4:"file";s:24:"2016/07/img_65412302.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_65412302-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_65412302-300x270.jpg";s:5:"width";i:300;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_65412302-768x690.jpg";s:5:"width";i:768;s:6:"height";i:690;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_65412302-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -622,12 +529,136 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_95123687.jpg]]></wp:attachment_url>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/07/img_95123687.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:566;s:4:"file";s:24:"2016/07/img_95123687.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_95123687-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_95123687-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_95123687-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_95123687-640x566.jpg";s:5:"width";i:640;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>img_87456321</title>
+		<link>https://oceanwp.org/blogger/aliquet-et-iaculis-et-viverra-vitae-ligula/img_87456321/</link>
+		<pubDate>Sun, 13 Nov 2016 00:31:37 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_87456321.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>155</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-13 00:31:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-13 00:31:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[img_87456321]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>77</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_87456321.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/07/img_95123687.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2016/07/img_87456321.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:916;s:4:"file";s:24:"2016/07/img_87456321.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_87456321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_87456321-278x300.jpg";s:5:"width";i:278;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_87456321-768x830.jpg";s:5:"width";i:768;s:6:"height";i:830;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_87456321-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>img_85201476</title>
+		<link>https://oceanwp.org/blogger/curae-morbi-lacinia-molestie-dui-praesent-blandit/img_85201476/</link>
+		<pubDate>Sun, 13 Nov 2016 00:33:15 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_85201476.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>156</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-13 00:33:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-13 00:33:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[img_85201476]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>66</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_85201476.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/07/img_85201476.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:566;s:4:"file";s:24:"2016/07/img_85201476.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_85201476-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_85201476-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_85201476-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_85201476-640x566.jpg";s:5:"width";i:640;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>img_98745630</title>
+		<link>https://oceanwp.org/blogger/ultrices-ultrices-enim-curabitur/img_98745630/</link>
+		<pubDate>Sun, 13 Nov 2016 00:34:54 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_98745630.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-13 00:34:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-13 00:34:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[img_98745630]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>56</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_98745630.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/07/img_98745630.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:566;s:4:"file";s:24:"2016/07/img_98745630.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_98745630-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_98745630-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_98745630-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_98745630-640x566.jpg";s:5:"width";i:640;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>img_02365418</title>
+		<link>https://oceanwp.org/blogger/morbi-lacinia-molestie-dui-praesent/img_02365418/</link>
+		<pubDate>Sun, 13 Nov 2016 00:36:45 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_02365418.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>158</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-13 00:36:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-13 00:36:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[img_02365418]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>51</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/07/img_02365418.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/07/img_02365418.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:1084;s:4:"file";s:24:"2016/07/img_02365418.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_02365418-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_02365418-235x300.jpg";s:5:"width";i:235;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_02365418-768x982.jpg";s:5:"width";i:768;s:6:"height";i:982;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"img_02365418-801x1024.jpg";s:5:"width";i:801;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_02365418-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -755,37 +786,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>about-me</title>
-		<link>https://oceanwp.org/blogger/about-me/</link>
-		<pubDate>Sat, 12 Nov 2016 18:54:39 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/11/about-me.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>144</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-12 18:54:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-12 18:54:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-me]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/11/about-me.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/11/about-me.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:125;s:6:"height";i:125;s:4:"file";s:20:"2016/11/about-me.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>img_98745630</title>
 		<link>https://oceanwp.org/blogger/luctus-non-massa-fusce-ac-turpis-quis/img_98745630-2/</link>
 		<pubDate>Sun, 13 Nov 2016 00:56:43 +0000</pubDate>
@@ -852,7 +852,7 @@
 		<link>https://oceanwp.org/blogger/21/</link>
 		<pubDate>Fri, 29 Jul 2016 22:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=21</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -939,7 +939,7 @@
 		<link>https://oceanwp.org/blogger/22/</link>
 		<pubDate>Fri, 29 Jul 2016 22:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=22</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1026,7 +1026,7 @@
 		<link>https://oceanwp.org/blogger/23/</link>
 		<pubDate>Fri, 29 Jul 2016 22:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=23</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=23</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1113,7 +1113,7 @@
 		<link>https://oceanwp.org/blogger/24/</link>
 		<pubDate>Fri, 29 Jul 2016 22:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=24</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1491,12 +1491,12 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:attachment_url><![CDATA[https://oceanwp.org/blogger/wp-content/uploads/sites/11/2016/08/img_28943671.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:848;s:4:"file";s:24:"2016/08/img_28943671.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_28943671-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_28943671-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_28943671-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_28943671-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/08/img_28943671.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:848;s:6:"height";i:848;s:4:"file";s:24:"2016/08/img_28943671.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"img_28943671-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"img_28943671-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"img_28943671-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ocean_insta_square";a:4:{s:4:"file";s:24:"img_28943671-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1752,7 +1752,7 @@
 		<link>https://oceanwp.org/blogger/home/</link>
 		<pubDate>Fri, 29 Jul 2016 21:56:31 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?page_id=6</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1769,20 +1769,20 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
@@ -1794,7 +1794,7 @@
 		<link>https://oceanwp.org/blogger/contact/</link>
 		<pubDate>Fri, 29 Jul 2016 22:05:25 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?page_id=19</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?page_id=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[[contact-form-7 id="131" title="Contact form"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1836,7 +1836,7 @@
 		<link>https://oceanwp.org/blogger/proin-ligula-nunc-egestas-porttitor/</link>
 		<pubDate>Sun, 31 Jul 2016 16:42:31 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=30</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1902,7 +1902,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/maecenas-mattis-sed-convallis/</link>
 		<pubDate>Sun, 31 Jul 2016 16:49:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=34</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1989,7 +1989,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/integer-euismod-lacus-luctus-magna/</link>
 		<pubDate>Sun, 31 Jul 2016 16:52:42 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=37</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2053,7 +2053,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/pharetra-auctor-sem-massa-mattis-sem/</link>
 		<pubDate>Sun, 31 Jul 2016 16:57:18 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=40</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2185,7 +2185,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/vestibulum-ante-ipsum-primis/</link>
 		<pubDate>Sun, 31 Jul 2016 17:00:39 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=45</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2250,7 +2250,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/faucibus-orci-luctus-et-ultrices-posuere/</link>
 		<pubDate>Sun, 31 Jul 2016 17:03:15 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=48</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2380,7 +2380,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/morbi-lacinia-molestie-dui-praesent/</link>
 		<pubDate>Sun, 31 Jul 2016 17:06:10 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=51</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2446,7 +2446,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/carl-sandburg/</link>
 		<pubDate>Sun, 31 Jul 2016 17:13:43 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=54</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=54</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2495,20 +2495,20 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format]]></wp:meta_key>
-			<wp:meta_value><![CDATA[It's not that some people have willpower and you don't. It's that some people are ready to change and others are not.]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_quote_format]]></wp:meta_key>
+			<wp:meta_value><![CDATA[It's not that some people have willpower and you don't. It's that some people are ready to change and others are not.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2516,7 +2516,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/ultrices-ultrices-enim-curabitur/</link>
 		<pubDate>Sun, 31 Jul 2016 17:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=56</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2545,18 +2545,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="woman"><![CDATA[Woman]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -2576,13 +2564,25 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[pluton_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Aenean lectus elit fermentum non convallis</title>
 		<link>https://oceanwp.org/blogger/aenean-lectus-elit-fermentum-non-convallis/</link>
 		<pubDate>Sun, 31 Jul 2016 22:37:03 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=60</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2647,7 +2647,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/nunc-feugiat-mi-a-tellus-consequat/</link>
 		<pubDate>Sun, 31 Jul 2016 22:40:36 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=63</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2799,7 +2799,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/curae-morbi-lacinia-molestie-dui-praesent-blandit/</link>
 		<pubDate>Sun, 31 Jul 2016 22:47:53 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=66</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2828,18 +2828,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="woman"><![CDATA[Woman]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -2857,6 +2845,18 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[pluton_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
@@ -2953,7 +2953,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/quisque-nisl-felis-venenatis-tristique/</link>
 		<pubDate>Sun, 31 Jul 2016 22:51:47 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=69</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3018,7 +3018,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/sagittis-at-neque-nullam-mauris-orci/</link>
 		<pubDate>Sun, 31 Jul 2016 22:53:23 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=72</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3082,7 +3082,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/aliquet-et-iaculis-et-viverra-vitae-ligula/</link>
 		<pubDate>Sun, 31 Jul 2016 22:58:19 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=77</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=77</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3110,18 +3110,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3141,13 +3129,25 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[pluton_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Integer nec odio praesent libero sed cursus</title>
 		<link>https://oceanwp.org/blogger/integer-nec-odio-praesent-libero-sed-cursus/</link>
 		<pubDate>Sun, 31 Jul 2016 22:59:38 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=80</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=80</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3212,7 +3212,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/elementum-imperdiet-duis-sagittis-ipsum/</link>
 		<pubDate>Sun, 31 Jul 2016 23:03:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=83</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=83</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3276,7 +3276,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/tincidunt-malesuada-tellus-ut-ultrices-ultrices-enim/</link>
 		<pubDate>Sun, 31 Jul 2016 23:05:11 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=86</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=86</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3304,18 +3304,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="woman"><![CDATA[Woman]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3335,13 +3323,25 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[pluton_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Mattis sem interdum magna augue eget diam</title>
 		<link>https://oceanwp.org/blogger/mattis-sem-interdum-magna-augue-eget-diam/</link>
 		<pubDate>Sun, 31 Jul 2016 23:06:36 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=89</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=89</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3406,7 +3406,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/integer-lacinia-sollicitudin-massa/</link>
 		<pubDate>Sun, 31 Jul 2016 23:09:11 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=92</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=92</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3471,7 +3471,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/chuck-thompson/</link>
 		<pubDate>Sun, 31 Jul 2016 23:12:38 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=95</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=95</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3520,20 +3520,20 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format]]></wp:meta_key>
-			<wp:meta_value><![CDATA[No place is ever as bad as they tell you it’s going to be.]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+			<wp:meta_key><![CDATA[ocean_quote_format]]></wp:meta_key>
+			<wp:meta_value><![CDATA[No place is ever as bad as they tell you it’s going to be.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3541,7 +3541,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/pharetra-auctor-sem-massa-mattis-sem-2/</link>
 		<pubDate>Sun, 31 Jul 2016 23:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=97</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=97</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3568,18 +3568,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3599,13 +3587,25 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[pluton_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Conubia nostra per inceptos himenaeos</title>
 		<link>https://oceanwp.org/blogger/conubia-nostra-per-inceptos-himenaeos/</link>
 		<pubDate>Sun, 31 Jul 2016 23:18:52 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=101</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=101</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3714,7 +3714,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/lacinia-nunc-curabitur-tortor-pellentesque-nibh/</link>
 		<pubDate>Sun, 31 Jul 2016 23:22:27 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=104</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=104</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3844,7 +3844,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/pellentesque-nibh-aenean-quam-in-scelerisque/</link>
 		<pubDate>Sun, 31 Jul 2016 23:36:45 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=107</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=107</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3896,12 +3896,12 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3909,7 +3909,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/luctus-non-massa-fusce-ac-turpis-quis/</link>
 		<pubDate>Sun, 31 Jul 2016 23:39:29 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=110</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=110</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -3974,7 +3974,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/nulla-metus-metus-ullamcorper-vel-tincidunt/</link>
 		<pubDate>Sun, 31 Jul 2016 23:42:06 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=113</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=113</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -4038,7 +4038,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/quis-ligula-lacinia-aliquet-mauris-ipsum/</link>
 		<pubDate>Mon, 01 Aug 2016 00:26:32 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=116</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=116</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -4103,7 +4103,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/cras-metus-sed-aliquet-risus-a-tortor/</link>
 		<pubDate>Mon, 01 Aug 2016 00:29:48 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=119</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=119</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -4167,7 +4167,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/lorem-ipsum-dolor-sit-amet-consectetur/</link>
 		<pubDate>Mon, 01 Aug 2016 00:37:47 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=122</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=122</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -4195,18 +4195,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="woman"><![CDATA[Woman]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -4224,6 +4212,18 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[pluton_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
@@ -4276,7 +4276,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/rachel-zoe/</link>
 		<pubDate>Mon, 01 Aug 2016 00:44:41 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=125</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -4305,18 +4305,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
 		<category domain="post_tag" nicename="quote"><![CDATA[Quote]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Style is a way to say who you are without having to speak.]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -4337,6 +4325,18 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Style is a way to say who you are without having to speak.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
@@ -4346,7 +4346,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/dapibus-diam-sed-nisi-nulla-quis-sem/</link>
 		<pubDate>Mon, 01 Aug 2016 00:46:08 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?p=127</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?p=127</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -4419,12 +4419,12 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>1</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1470058051.889460086822509765625;s:5:"event";s:9:"check-ham";s:4:"user";s:4:"Nick";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
 				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1470058051.889460086822509765625;s:5:"event";s:9:"check-ham";s:4:"user";s:4:"Nick";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
 		<wp:comment>
@@ -4455,7 +4455,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/blogger/?post_type=wpcf7_contact_form&#038;p=131</link>
 		<pubDate>Mon, 01 Aug 2016 12:50:49 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/blogger/?post_type=wpcf7_contact_form&#038;p=131</guid>
+		<guid isPermaLink="false">https://oceanwp.org/blogger/?post_type=wpcf7_contact_form&#038;p=131</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div style="width: 840px;margin: 0 auto">
 <div class="oceanwp-row clr">
@@ -4469,8 +4469,10 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 
 <p>[submit "Send Message"]</p>
 </div>
+1
 Blogger "[your-subject]"
 [your-name] 
+support@contact.com
 From: [your-name] 
 Subject: [your-subject]
 
@@ -4478,8 +4480,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Blogger (https://plutonwp.com/blogger)
-plutontheme@gmail.com
+This e-mail was sent from a contact form on Blogger (https://oceanwpe.org/blogger)
 Reply-To: [your-email]
 
 
@@ -4487,12 +4488,12 @@ Reply-To: [your-email]
 
 Blogger "[your-subject]"
 Blogger 
+[your-email]
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Blogger (https://plutonwp.com/blogger)
-[your-email]
+This e-mail was sent from a contact form on Blogger (https://oceanwp.org/blogger)
 Reply-To: plutontheme@gmail.com
 
 
@@ -4550,22 +4551,22 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@plutonwp.com>";s:4:"body";s:173:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:173:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Blogger (https://plutonwp.com/blogger)";s:9:"recipient";s:21:"plutontheme@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Blogger (https://oceanwpe.org/blogger)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:32:"Blogger <wordpress@plutonwp.com>";s:4:"body";s:115:"Message Body:
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:32:"Blogger <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:114:"Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Blogger (https://plutonwp.com/blogger)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Blogger (https://oceanwp.org/blogger)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -4578,10 +4579,6 @@ This e-mail was sent from a contact form on Blogger (https://plutonwp.com/blogge
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:88:"http://contactform7.com/configuration-errors/#mail.sender:error_email_not_in_site_domain";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

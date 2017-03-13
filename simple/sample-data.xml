@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.2" created="2017-03-05 16:02" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-13 22:41" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Simple</title>
 	<link>https://oceanwp.org/simple</link>
 	<description>Demo for the free OceanWP WordPress theme</description>
-	<pubDate>Sun, 05 Mar 2017 16:02:39 +0000</pubDate>
+	<pubDate>Mon, 13 Mar 2017 22:41:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
@@ -183,7 +183,7 @@
 	<wp:term><wp:term_id>14</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[sticky-footer]]></wp:term_slug><wp:term_name><![CDATA[Sticky Footer]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
 	<url>https://cdn.oceanwp.org/simple/wp-content/uploads/sites/13/2017/02/cropped-site-icon-150x150.png</url>
@@ -2310,7 +2310,7 @@
 		<link>https://oceanwp.org/simple/shop/</link>
 		<pubDate>Mon, 22 Aug 2016 00:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/shop/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2336,7 +2336,7 @@
 		<link>https://oceanwp.org/simple/cart/</link>
 		<pubDate>Mon, 22 Aug 2016 00:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/cart/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[woocommerce_cart]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2362,7 +2362,7 @@
 		<link>https://oceanwp.org/simple/checkout/</link>
 		<pubDate>Mon, 22 Aug 2016 00:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/checkout/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[woocommerce_checkout]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2388,7 +2388,7 @@
 		<link>https://oceanwp.org/simple/my-account/</link>
 		<pubDate>Mon, 22 Aug 2016 00:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/my-account/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[woocommerce_my_account]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2414,7 +2414,7 @@
 		<link>https://oceanwp.org/simple/collection/</link>
 		<pubDate>Mon, 22 Aug 2016 00:23:32 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/?p=14</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2505,7 +2505,7 @@
 		<link>https://oceanwp.org/simple/</link>
 		<pubDate>Mon, 22 Aug 2016 00:24:31 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/?page_id=17</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?page_id=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 			<a href="#">
@@ -2632,7 +2632,7 @@
 		<link>https://oceanwp.org/simple/19/</link>
 		<pubDate>Mon, 22 Aug 2016 00:25:04 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/?p=19</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?p=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2723,7 +2723,7 @@
 		<link>https://oceanwp.org/simple/contact/</link>
 		<pubDate>Mon, 22 Aug 2016 00:37:01 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/?page_id=21</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?page_id=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 			<h2>Contact Us</h2>		
@@ -3520,7 +3520,7 @@
 		<link>https://oceanwp.org/simple/?post_type=wpcf7_contact_form&#038;p=6</link>
 		<pubDate>Mon, 22 Aug 2016 00:11:27 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/?post_type=wpcf7_contact_form&#038;p=6</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?post_type=wpcf7_contact_form&#038;p=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="oceanwp-row clr">
 <div class="span_1_of_2 col col-1 clr">Your Name <span class="required" style="color: #fe5252">*</span><br />
@@ -3536,8 +3536,10 @@
     [textarea your-message]</p>
 
 <p>[submit "Send Message"]</p>
+1
 Simple "[your-subject]"
 [your-name] 
+support@contact.com
 From: [your-name] 
 Subject: [your-subject]
 
@@ -3545,8 +3547,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Simple (https://plutonwp.com/simple)
-contact@support.com
+This e-mail was sent from a contact form on Simple (https://oceanwpe.org/simple)
 Reply-To: [your-email]
 
 
@@ -3554,12 +3555,12 @@ Reply-To: [your-email]
 
 Simple "[your-subject]"
 Simple 
+[your-email]
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Simple (https://plutonwp.com/simple)
-[your-email]
+This e-mail was sent from a contact form on Simple (https://oceanwp.org/simple)
 Reply-To: plutontheme@gmail.com
 
 
@@ -3619,22 +3620,22 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:23:"Simple "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@plutonwp.com>";s:4:"body";s:171:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Simple "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:171:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Simple (https://plutonwp.com/simple)";s:9:"recipient";s:19:"contact@support.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Simple (https://oceanwpe.org/simple)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Simple "[your-subject]"";s:6:"sender";s:31:"Simple <wordpress@plutonwp.com>";s:4:"body";s:113:"Message Body:
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Simple "[your-subject]"";s:6:"sender";s:31:"Simple <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:112:"Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Simple (https://plutonwp.com/simple)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Simple (https://oceanwp.org/simple)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -3652,17 +3653,13 @@ This e-mail was sent from a contact form on Simple (https://plutonwp.com/simple)
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:88:"http://contactform7.com/configuration-errors/#mail.sender:error_email_not_in_site_domain";}}}}]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>Epic Blazer</title>
 		<link>https://oceanwp.org/simple/product/epic-blazer/</link>
 		<pubDate>Mon, 22 Aug 2016 20:08:47 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/?post_type=product&#038;p=51</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?post_type=product&#038;p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -3945,7 +3942,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/grey-blazer-no/</link>
 		<pubDate>Mon, 22 Aug 2016 21:34:17 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/gold-diamonds-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/gold-diamonds-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -4168,7 +4165,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/shdone-myloiver-navy-waistcoat/</link>
 		<pubDate>Mon, 22 Aug 2016 21:37:51 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/gold-and-steel-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/gold-and-steel-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -4391,7 +4388,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/jjprroy-blazer-noos/</link>
 		<pubDate>Mon, 22 Aug 2016 21:44:40 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/black-gold-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/black-gold-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -4614,7 +4611,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/einar-linen-blazer/</link>
 		<pubDate>Mon, 22 Aug 2016 21:46:39 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/steel-watch-leather-strap/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/steel-watch-leather-strap/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -4867,7 +4864,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/taxkit-mid-grey-blazer/</link>
 		<pubDate>Mon, 22 Aug 2016 21:48:33 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/mens-chronograph-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/mens-chronograph-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -5090,7 +5087,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/myloiver-navy-blazer/</link>
 		<pubDate>Mon, 22 Aug 2016 21:52:27 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/speedmaster-moon-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/speedmaster-moon-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -5313,7 +5310,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/vigo-washed-flannel-blazer/</link>
 		<pubDate>Mon, 22 Aug 2016 21:53:54 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/electric-leather-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/electric-leather-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -5536,7 +5533,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/slim-fit-suit-jacket/</link>
 		<pubDate>Mon, 22 Aug 2016 21:56:54 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/integral-gold-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/integral-gold-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -5789,7 +5786,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/birdseye-suit-jacket/</link>
 		<pubDate>Mon, 22 Aug 2016 21:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/breitling-chronograph-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/breitling-chronograph-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -6042,7 +6039,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/slim-fit-tweed-blazer/</link>
 		<pubDate>Mon, 22 Aug 2016 22:01:48 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/steel-aquaracer-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/steel-aquaracer-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 
@@ -6265,7 +6262,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<link>https://oceanwp.org/simple/product/ultra-skinny-fit-suit/</link>
 		<pubDate>Mon, 22 Aug 2016 22:03:25 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/simple/product/superocean-heritage-watch/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/simple/product/superocean-heritage-watch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis.
 

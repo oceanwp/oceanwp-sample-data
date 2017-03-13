@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-03-07 13:23" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-13 22:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Personal</title>
 	<link>https://oceanwp.org/personal</link>
 	<description>Demo for the free OceanWP WordPress theme</description>
-	<pubDate>Tue, 07 Mar 2017 13:23:43 +0000</pubDate>
+	<pubDate>Mon, 13 Mar 2017 22:43:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
@@ -146,7 +146,7 @@
 		<link>https://oceanwp.org/personal/home/</link>
 		<pubDate>Sun, 21 Aug 2016 21:50:51 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=213</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=213</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -233,7 +233,7 @@
 		<link>https://oceanwp.org/personal/about/</link>
 		<pubDate>Sun, 21 Aug 2016 21:50:51 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=214</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=214</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -320,7 +320,7 @@
 		<link>https://oceanwp.org/personal/contact/</link>
 		<pubDate>Sun, 21 Aug 2016 21:50:51 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=215</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=215</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -407,7 +407,7 @@
 		<link>https://oceanwp.org/personal/lifestyle/</link>
 		<pubDate>Sun, 21 Aug 2016 21:50:51 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=216</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=216</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -494,7 +494,7 @@
 		<link>https://oceanwp.org/personal/fashion/</link>
 		<pubDate>Sun, 21 Aug 2016 21:50:51 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=217</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=217</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1042,7 +1042,7 @@
 		<link>https://oceanwp.org/personal/velusce-suscipit-quis-luctus/</link>
 		<pubDate>Fri, 15 Apr 2016 21:01:34 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/class-aptent-taciti-sociosqu-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/class-aptent-taciti-sociosqu-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1212,7 +1212,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/tortor-neque-adpiscing-diam/</link>
 		<pubDate>Fri, 15 Apr 2016 21:05:39 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/sociosqu-ad-litora-torquent-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/sociosqu-ad-litora-torquent-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1332,7 +1332,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/vestibulum-sapin-prin-quam/</link>
 		<pubDate>Fri, 15 Apr 2016 21:09:40 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/duis-sagitis-ipsum-prasent-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/duis-sagitis-ipsum-prasent-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1468,7 +1468,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/neque-adipiscing-an-cursus/</link>
 		<pubDate>Fri, 15 Apr 2016 21:10:34 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/vestibulum-sapin-prin-quam-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/vestibulum-sapin-prin-quam-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1612,7 +1612,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/litora-torqent-per-conubia/</link>
 		<pubDate>Fri, 15 Apr 2016 21:18:22 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/neque-adipiscing-an-cursus-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/neque-adipiscing-an-cursus-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1764,7 +1764,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/praesent-libro-se-cursus-ante/</link>
 		<pubDate>Fri, 15 Apr 2016 21:20:49 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/litora-torqent-per-conubia-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -1990,7 +1990,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/metus-vitae-pharetra-auctor/</link>
 		<pubDate>Fri, 15 Apr 2016 21:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/2016/04/15/litora-torqent-per-conubia-copy-2/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2150,7 +2150,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/interdum-magna-augue-eget/</link>
 		<pubDate>Fri, 15 Apr 2016 21:23:37 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/metus-vitae-pharetra-auctor-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/metus-vitae-pharetra-auctor-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2406,7 +2406,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/torquent-per-conubia-nostra/</link>
 		<pubDate>Fri, 15 Apr 2016 21:25:56 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/interdum-magna-augue-eget-copy/</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/interdum-magna-augue-eget-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
@@ -2648,7 +2648,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/home/</link>
 		<pubDate>Fri, 15 Apr 2016 21:41:56 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?page_id=87</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?page_id=87</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2666,7 +2666,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1463931555281{padding-top: 150px !important;padding-bottom: 150px !important;background-image: url(https://plutonwp.com/travel/wp-content/uploads/sites/4/2016/04/img_754585695.jpg?id=146) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463425171571{border-bottom-width: 1px !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427162153{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427172344{border-top-width: 1px !important;border-bottom-width: 1px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f9f9f9 !important;border-top-color: #e9e9e9 !important;border-top-style: solid !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427184650{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427197378{padding-top: 80px !important;padding-bottom: 80px !important;background: #f5f3f4 url(https://plutonwp.com/travel/wp-content/uploads/sites/4/2016/04/img_135928532.png?id=96) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1460898729526{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 37px !important;padding-left: 30px !important;background-color: rgba(0,0,0,0.5) !important;*background-color: rgb(0,0,0) !important;border-radius: 5px !important;}.vc_custom_1460829791097{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1463425830353{border-right-width: 1px !important;border-left-width: 1px !important;padding-top: 40px !important;padding-bottom: 10px !important;border-left-color: #e9e9e9 !important;border-left-style: solid !important;border-right-color: #e9e9e9 !important;border-right-style: solid !important;}.vc_custom_1463425836738{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1460814531644{margin-bottom: 10px !important;}.vc_custom_1460814627625{margin-bottom: 25px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1463931555281{padding-top: 150px !important;padding-bottom: 150px !important;background-image: url(https://oceanwp.org/travel/wp-content/uploads/sites/4/2016/04/img_754585695.jpg?id=146) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463425171571{border-bottom-width: 1px !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427162153{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427172344{border-top-width: 1px !important;border-bottom-width: 1px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f9f9f9 !important;border-top-color: #e9e9e9 !important;border-top-style: solid !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427184650{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427197378{padding-top: 80px !important;padding-bottom: 80px !important;background: #f5f3f4 url(https://oceanwp.org/travel/wp-content/uploads/sites/4/2016/04/img_135928532.png?id=96) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1460898729526{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 37px !important;padding-left: 30px !important;background-color: rgba(0,0,0,0.5) !important;*background-color: rgb(0,0,0) !important;border-radius: 5px !important;}.vc_custom_1460829791097{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1463425830353{border-right-width: 1px !important;border-left-width: 1px !important;padding-top: 40px !important;padding-bottom: 10px !important;border-left-color: #e9e9e9 !important;border-left-style: solid !important;border-right-color: #e9e9e9 !important;border-right-style: solid !important;}.vc_custom_1463425836738{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1460814531644{margin-bottom: 10px !important;}.vc_custom_1460814627625{margin-bottom: 25px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
@@ -2718,7 +2718,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1463931555281{padding-top: 150px !important;padding-bottom: 150px !important;background-image: url(https://plutonwp.com/travel/wp-content/uploads/sites/4/2016/04/img_754585695.jpg?id=146) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463425171571{border-bottom-width: 1px !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427162153{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427172344{border-top-width: 1px !important;border-bottom-width: 1px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f9f9f9 !important;border-top-color: #e9e9e9 !important;border-top-style: solid !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427184650{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427197378{padding-top: 80px !important;padding-bottom: 80px !important;background: #f5f3f4 url(https://plutonwp.com/travel/wp-content/uploads/sites/4/2016/04/img_135928532.png?id=96) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1460898729526{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 37px !important;padding-left: 30px !important;background-color: rgba(0,0,0,0.5) !important;*background-color: rgb(0,0,0) !important;border-radius: 5px !important;}.vc_custom_1460829791097{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1463425830353{border-right-width: 1px !important;border-left-width: 1px !important;padding-top: 40px !important;padding-bottom: 10px !important;border-left-color: #e9e9e9 !important;border-left-style: solid !important;border-right-color: #e9e9e9 !important;border-right-style: solid !important;}.vc_custom_1463425836738{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1460814531644{margin-bottom: 10px !important;}.vc_custom_1460814627625{margin-bottom: 25px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1463931555281{padding-top: 150px !important;padding-bottom: 150px !important;background-image: url(https://oceanwp.org/travel/wp-content/uploads/sites/4/2016/04/img_754585695.jpg?id=146) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463425171571{border-bottom-width: 1px !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427162153{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427172344{border-top-width: 1px !important;border-bottom-width: 1px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f9f9f9 !important;border-top-color: #e9e9e9 !important;border-top-style: solid !important;border-bottom-color: #e9e9e9 !important;border-bottom-style: solid !important;}.vc_custom_1463427184650{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1463427197378{padding-top: 80px !important;padding-bottom: 80px !important;background: #f5f3f4 url(https://oceanwp.org/travel/wp-content/uploads/sites/4/2016/04/img_135928532.png?id=96) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1460898729526{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 37px !important;padding-left: 30px !important;background-color: rgba(0,0,0,0.5) !important;*background-color: rgb(0,0,0) !important;border-radius: 5px !important;}.vc_custom_1460829791097{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1463425830353{border-right-width: 1px !important;border-left-width: 1px !important;padding-top: 40px !important;padding-bottom: 10px !important;border-left-color: #e9e9e9 !important;border-left-style: solid !important;border-right-color: #e9e9e9 !important;border-right-style: solid !important;}.vc_custom_1463425836738{padding-top: 40px !important;padding-bottom: 10px !important;}.vc_custom_1460814531644{margin-bottom: 10px !important;}.vc_custom_1460814627625{margin-bottom: 25px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
@@ -2850,7 +2850,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/contact/</link>
 		<pubDate>Sun, 17 Apr 2016 10:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/travel/?page_id=116</guid>
+		<guid isPermaLink="false">https://oceanwp.org/travel/?page_id=116</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div style="max-width: 780px;margin: 0 auto">[contact-form-7 id="244" title="Contact form 1"]</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2964,7 +2964,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/218/</link>
 		<pubDate>Sun, 21 Aug 2016 21:53:16 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=218</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=218</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3051,7 +3051,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/219/</link>
 		<pubDate>Sun, 21 Aug 2016 21:53:16 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=219</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=219</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3138,7 +3138,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/242/</link>
 		<pubDate>Sun, 21 Aug 2016 22:09:52 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=242</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=242</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3225,7 +3225,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/243/</link>
 		<pubDate>Sun, 21 Aug 2016 22:09:52 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?p=243</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?p=243</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3312,7 +3312,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<link>https://oceanwp.org/personal/?post_type=wpcf7_contact_form&#038;p=244</link>
 		<pubDate>Sun, 21 Aug 2016 22:11:53 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/personal/?post_type=wpcf7_contact_form&#038;p=244</guid>
+		<guid isPermaLink="false">https://oceanwp.org/personal/?post_type=wpcf7_contact_form&#038;p=244</guid>
 		<description></description>
 		<content:encoded><![CDATA[[text* your-name placeholder "Your Name *"]
 
@@ -3323,30 +3323,31 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 [textarea your-message placeholder "Your Message"]
 
 [submit "Send Your Message"]
+1
 Personal "[your-subject]"
-[your-name] <wordpress@plutonwp.com>
-From: [your-name] <[your-email]>
+[your-name] 
+support@contact.com
+From: [your-name] 
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Personal (https://plutonwp.com/personal)
-contact@support.com
+This e-mail was sent from a contact form on Personal (https://oceanwpe.org/personal)
 Reply-To: [your-email]
 
 
 
 
 Personal "[your-subject]"
-Personal <wordpress@plutonwp.com>
+Personal 
+[your-email]
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Personal (https://plutonwp.com/personal)
-[your-email]
+This e-mail was sent from a contact form on Personal (https://oceanwp.org/personal)
 Reply-To: plutontheme@gmail.com
 
 
@@ -3401,22 +3402,22 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:25:"Personal "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@plutonwp.com>";s:4:"body";s:175:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:25:"Personal "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:175:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Personal (https://plutonwp.com/personal)";s:9:"recipient";s:19:"contact@support.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Personal (https://oceanwpe.org/personal)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"Personal "[your-subject]"";s:6:"sender";s:33:"Personal <wordpress@plutonwp.com>";s:4:"body";s:117:"Message Body:
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"Personal "[your-subject]"";s:6:"sender";s:33:"Personal <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:116:"Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Personal (https://plutonwp.com/personal)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Personal (https://oceanwp.org/personal)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
