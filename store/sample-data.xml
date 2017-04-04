@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-03-13 22:42" -->
+<!-- generator="WordPress/4.7.3" created="2017-04-04 16:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Store</title>
 	<link>https://oceanwp.org/store</link>
 	<description>Demo for the free OceanWP WordPress theme</description>
-	<pubDate>Mon, 13 Mar 2017 22:42:51 +0000</pubDate>
+	<pubDate>Tue, 04 Apr 2017 16:42:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
@@ -123,11 +123,32 @@
 		</wp:termmeta>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[48]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[exclude-from-catalog]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[exclude-from-catalog]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[47]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[exclude-from-search]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[exclude-from-search]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[5]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[external]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[external]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[49]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[featured]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[featured]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[3]]></wp:term_id>
@@ -178,6 +199,13 @@
 		<wp:term_description><![CDATA[Sidebar for the men menu item]]></wp:term_description>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[50]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[outofstock]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[46]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
@@ -194,6 +222,41 @@
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[51]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-1]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-1]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[52]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-2]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-2]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[53]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-3]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-3]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[54]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-4]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-4]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[55]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-5]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-5]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[34]]></wp:term_id>
@@ -8550,6 +8613,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="men"><![CDATA[Men]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="suit"><![CDATA[Suit]]></category>
 		<category domain="product_cat" nicename="men"><![CDATA[Men]]></category>
@@ -8729,14 +8793,14 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna class aptent taciti sociosqu ad litora torquent per conubia nostra.]]></content:encoded>
 		<excerpt:encoded><![CDATA[Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.
 
-<ul style="font-size:14px;margin:20px 0 0;">
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Made of 95% Polyester and 5% Elastane</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Elastic shoulder straps</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Measured from Small</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>V-neckline with lace portion at back</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Hand wash cold</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Form-fitting design with stretch</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Delivery 5-10 working days</li>
+<ul style="font-size:14px;margin:20px 0 0">
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Made of 95% Polyester and 5% Elastane</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Elastic shoulder straps</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Measured from Small</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>V-neckline with lace portion at back</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Hand wash cold</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Form-fitting design with stretch</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Delivery 5-10 working days</li>
 </ul>]]></excerpt:encoded>
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2016-04-08 13:01:36]]></wp:post_date>
@@ -8751,6 +8815,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_type" nicename="grouped"><![CDATA[grouped]]></category>
+		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="product_tag" nicename="top"><![CDATA[Top]]></category>
 		<category domain="product_tag" nicename="women"><![CDATA[Women]]></category>
 		<category domain="product_cat" nicename="tops"><![CDATA[Tops]]></category>
@@ -8828,10 +8893,6 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[40.46]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -8857,7 +8918,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.0.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -8886,6 +8947,74 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
 			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_title_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[400]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_children]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{i:0;i:69;i:1;i:101;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[40.46]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[44.95]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
@@ -10334,14 +10463,14 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna class aptent taciti sociosqu ad litora torquent per conubia nostra.]]></content:encoded>
 		<excerpt:encoded><![CDATA[Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.
 
-<ul style="font-size:14px;margin:20px 0 0;">
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Made of 95% Polyester and 5% Elastane</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Elastic shoulder straps</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Measured from Small</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>V-neckline with lace portion at back</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Hand wash cold</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Form-fitting design with stretch</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px;"></i>Delivery 5-10 working days</li>
+<ul style="font-size:14px;margin:20px 0 0">
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Made of 95% Polyester and 5% Elastane</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Elastic shoulder straps</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Measured from Small</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>V-neckline with lace portion at back</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Hand wash cold</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Form-fitting design with stretch</li>
+<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Delivery 5-10 working days</li>
 </ul>]]></excerpt:encoded>
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2016-04-08 13:12:55]]></wp:post_date>
@@ -10358,6 +10487,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<category domain="product_type" nicename="external"><![CDATA[external]]></category>
 		<category domain="product_tag" nicename="jacket"><![CDATA[Jacket]]></category>
 		<category domain="product_tag" nicename="men"><![CDATA[Men]]></category>
+		<category domain="product_visibility" nicename="rated-3"><![CDATA[rated-3]]></category>
 		<category domain="product_cat" nicename="jackets"><![CDATA[Jackets]]></category>
 		<category domain="product_cat" nicename="men"><![CDATA[Men]]></category>
 		<wp:postmeta>
@@ -10462,7 +10592,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2.6.14]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -10498,7 +10628,43 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_button_text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Buy Product]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_title_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[400]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
@@ -10565,6 +10731,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="dress"><![CDATA[Dress]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="women"><![CDATA[Women]]></category>
 		<category domain="product_cat" nicename="dresses"><![CDATA[Dresses]]></category>
@@ -10766,6 +10933,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="men"><![CDATA[Men]]></category>
+		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="product_tag" nicename="shirt"><![CDATA[Shirt]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="men"><![CDATA[Men]]></category>
@@ -10966,6 +11134,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_tag" nicename="shirt"><![CDATA[Shirt]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="women"><![CDATA[Women]]></category>
@@ -11167,6 +11336,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="sport"><![CDATA[Sport]]></category>
 		<category domain="product_tag" nicename="women"><![CDATA[Women]]></category>
@@ -11544,6 +11714,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="men"><![CDATA[Men]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="sport"><![CDATA[Sport]]></category>
 		<category domain="product_cat" nicename="men"><![CDATA[Men]]></category>
@@ -11890,7 +12061,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Variation #132 of Slim Credit</title>
+		<title>Slim Credit &#8211; Blue</title>
 		<link>https://oceanwp.org/store/product/slim-credit/?attribute_color=Blue</link>
 		<pubDate>Sat, 09 Apr 2016 14:36:16 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
@@ -12000,7 +12171,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Variation #133 of Slim Credit</title>
+		<title>Slim Credit &#8211; Black</title>
 		<link>https://oceanwp.org/store/product/slim-credit/?attribute_color=Black</link>
 		<pubDate>Sat, 09 Apr 2016 14:37:05 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>

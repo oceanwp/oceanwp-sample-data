@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-03-18 14:05" -->
+<!-- generator="WordPress/4.7.3" created="2017-04-04 16:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Simple</title>
 	<link>https://oceanwp.org/simple</link>
 	<description>Demo for the free OceanWP WordPress theme</description>
-	<pubDate>Sat, 18 Mar 2017 14:05:27 +0000</pubDate>
+	<pubDate>Tue, 04 Apr 2017 16:43:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
@@ -77,11 +77,32 @@
 		</wp:termmeta>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[exclude-from-catalog]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[exclude-from-catalog]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[exclude-from-search]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[exclude-from-search]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[5]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[external]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[external]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[featured]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[featured]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[8]]></wp:term_id>
@@ -124,11 +145,53 @@
 		</wp:termmeta>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[outofstock]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[16]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-1]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-1]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-2]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-2]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-3]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-3]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-4]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-4]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[25]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-5]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-5]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[2]]></wp:term_id>
@@ -3690,6 +3753,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
+		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
 		<wp:postmeta>
@@ -4642,6 +4706,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
 		<wp:postmeta>
@@ -5564,6 +5629,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
 		<wp:postmeta>
@@ -5817,6 +5883,7 @@ Images taken on the site: <a href="https://nlyman.com/" target="_blank">nlyman.c
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="mens-clothing"><![CDATA[Men's Clothing]]></category>
 		<wp:postmeta>

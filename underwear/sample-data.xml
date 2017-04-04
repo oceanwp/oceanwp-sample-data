@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-03-13 22:42" -->
+<!-- generator="WordPress/4.7.3" created="2017-04-04 16:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Lingerie</title>
 	<link>https://oceanwp.org/underwear</link>
 	<description>Demo for the free OceanWP WordPress theme</description>
-	<pubDate>Mon, 13 Mar 2017 22:42:58 +0000</pubDate>
+	<pubDate>Tue, 04 Apr 2017 16:43:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://oceanwp.org/</wp:base_site_url>
@@ -60,6 +60,20 @@
 		</wp:termmeta>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[exclude-from-catalog]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[exclude-from-catalog]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[exclude-from-search]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[exclude-from-search]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[5]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[external]]></wp:term_slug>
@@ -67,11 +81,25 @@
 		<wp:term_name><![CDATA[external]]></wp:term_name>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[featured]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[featured]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[3]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[grouped]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[grouped]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[outofstock]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[20]]></wp:term_id>
@@ -90,6 +118,41 @@
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[25]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-1]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-1]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[26]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-2]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-2]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-3]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-3]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[28]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-4]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-4]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[29]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rated-5]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rated-5]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[2]]></wp:term_id>
@@ -4745,6 +4808,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="bras"><![CDATA[Bras]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="underwear"><![CDATA[Underwear]]></category>
 		<category domain="product_cat" nicename="bras"><![CDATA[Bras]]></category>
@@ -5106,6 +5170,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="soft-bras"><![CDATA[Soft Bras]]></category>
 		<category domain="product_tag" nicename="string"><![CDATA[String]]></category>
@@ -5305,6 +5370,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="bras"><![CDATA[Bras]]></category>
+		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="string"><![CDATA[String]]></category>
 		<category domain="product_tag" nicename="underwear"><![CDATA[Underwear]]></category>
@@ -5502,6 +5568,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="soft-bras"><![CDATA[Soft Bras]]></category>
 		<category domain="product_tag" nicename="string"><![CDATA[String]]></category>
@@ -6033,6 +6100,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="bras"><![CDATA[Bras]]></category>
+		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="string"><![CDATA[String]]></category>
 		<category domain="product_tag" nicename="underwear"><![CDATA[Underwear]]></category>
