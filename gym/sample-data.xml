@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.5" created="2017-06-03 04:23" -->
+<!-- generator="WordPress/4.7.5" created="2017-06-04 02:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Gym</title>
 	<link>https://gym.oceanwp.org</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sat, 03 Jun 2017 04:23:53 +0000</pubDate>
+	<pubDate>Sun, 04 Jun 2017 02:05:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gym.oceanwp.org</wp:base_site_url>
@@ -1001,15 +1001,51 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_background]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://oceanwp.org/gym/wp-content/uploads/sites/8/2016/05/img_10245369.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[350px]]></wp:meta_value>
+			<wp:meta_value><![CDATA[258]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2756,8 +2792,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<guid isPermaLink="false">https://oceanwp.org/sport/?page_id=68</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-			<h2>Contact Us</h2>		
+		<content:encoded><![CDATA[			<h2>Contact Us</h2>		
 		<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra<br>
 per inceptos himenaeos nam nec ante sed lacinia.</p>[contact-form-7 id="4" title="Contact form 1"]		
 			<h2>Working Hours</h2>		
@@ -2856,12 +2891,8 @@ Florida, FL 54785</p>
 			<wp:meta_value><![CDATA[background-image]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[350px]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_background]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://oceanwp.org/gym/wp-content/uploads/sites/8/2016/05/img_24103654.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[252]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay_opacity]]></wp:meta_key>
@@ -2883,6 +2914,46 @@ Florida, FL 54785</p>
 			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0.5]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Trainers</title>
@@ -2891,8 +2962,7 @@ Florida, FL 54785</p>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<guid isPermaLink="false">https://oceanwp.org/gym/?page_id=168</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-			<h2>Discover our trainers</h2>		
+		<content:encoded><![CDATA[			<h2>Discover our trainers</h2>		
 		Pellentesque nibh aenean quam in scelerisque sem at dolor maecenas mattis sed convallis tristique sem proin ut ligula vel nunc egestas porttitor.		
 		<img width="250" height="256" src="https://cdn.oceanwp.org/gym/wp-content/uploads/sites/8/2016/05/img_01236521.jpg" alt="img_01236521" />		
 		<p style="font-weight: bold;font-size: 11px;color: #555;margin: 20px 0 5px;letter-spacing: 1px;text-align: center">Anthony Wright</p>
@@ -3010,11 +3080,7 @@ Florida, FL 54785</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_background]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://oceanwp.org/gym/wp-content/uploads/sites/8/2016/05/img_02365478.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[350px]]></wp:meta_value>
+			<wp:meta_value><![CDATA[273]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
@@ -3036,6 +3102,46 @@ Florida, FL 54785</p>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Membership</title>
@@ -3044,8 +3150,7 @@ Florida, FL 54785</p>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<guid isPermaLink="false">https://oceanwp.org/gym/?page_id=181</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-			<h2>Our pricing tables</h2>		
+		<content:encoded><![CDATA[			<h2>Our pricing tables</h2>		
 		Consectetur adipiscing elit integer nec odio praesent libero sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet.		
 				Basic
 					$39
@@ -3174,11 +3279,7 @@ Florida, FL 54785</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_background]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://oceanwp.org/gym/wp-content/uploads/sites/8/2016/05/img_98745874.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[350px]]></wp:meta_value>
+			<wp:meta_value><![CDATA[286]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
@@ -3196,6 +3297,42 @@ Florida, FL 54785</p>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>About Us</title>
@@ -3204,8 +3341,7 @@ Florida, FL 54785</p>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<guid isPermaLink="false">https://oceanwp.org/gym/?page_id=189</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-			<h2>Build your body by unleashing you</h2>		
+		<content:encoded><![CDATA[			<h2>Build your body by unleashing you</h2>		
 		Suspendisse potenti nunc feugiat mi a tellus consequat imperdiet vestibulum sapien proin quam etiam ultrices suspendisse in justo eu magna luctus.		
 				<h3>
 					Cardio training
@@ -3297,11 +3433,7 @@ Florida, FL 54785</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_background]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://oceanwp.org/gym/wp-content/uploads/sites/8/2016/05/img_41025836.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[350px]]></wp:meta_value>
+			<wp:meta_value><![CDATA[304]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
@@ -3322,6 +3454,42 @@ Florida, FL 54785</p>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
