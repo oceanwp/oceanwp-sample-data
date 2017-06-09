@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.5" created="2017-06-03 04:24" -->
+<!-- generator="WordPress/4.8" created="2017-06-09 20:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Simple</title>
 	<link>https://simple.oceanwp.org</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sat, 03 Jun 2017 04:24:28 +0000</pubDate>
+	<pubDate>Fri, 09 Jun 2017 20:24:40 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://simple.oceanwp.org</wp:base_site_url>
@@ -256,7 +256,7 @@
 	<wp:term><wp:term_id>26</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[sticky-footer]]></wp:term_slug><wp:term_name><![CDATA[Sticky Footer]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<generator>https://wordpress.org/?v=4.8</generator>
 
 <image>
 	<url>https://simple.oceanwp.org/wp-content/uploads/2017/02/cropped-site-icon-150x150.png</url>
@@ -772,7 +772,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_oceanwp]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1487951594]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1497039848]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
