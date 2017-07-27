@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.8" created="2017-06-09 20:24" -->
+<!-- generator="WordPress/4.8" created="2017-06-19 00:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Simple</title>
 	<link>https://simple.oceanwp.org</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 09 Jun 2017 20:24:40 +0000</pubDate>
+	<pubDate>Mon, 19 Jun 2017 00:16:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://simple.oceanwp.org</wp:base_site_url>

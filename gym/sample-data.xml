@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.5" created="2017-06-04 02:08" -->
+<!-- generator="WordPress/4.8" created="2017-07-27 14:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Gym</title>
 	<link>https://gym.oceanwp.org</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sun, 04 Jun 2017 02:08:00 +0000</pubDate>
+	<pubDate>Thu, 27 Jul 2017 14:00:04 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gym.oceanwp.org</wp:base_site_url>
@@ -64,7 +64,7 @@
 	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<generator>https://wordpress.org/?v=4.8</generator>
 
 <image>
 	<url>https://gym.oceanwp.org/wp-content/uploads/2016/11/cropped-favicon-32x32.png</url>
