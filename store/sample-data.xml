@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.5" created="2017-06-03 04:24" -->
+<!-- generator="WordPress/4.8.2" created="2017-10-11 20:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Store</title>
 	<link>https://store.oceanwp.org</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sat, 03 Jun 2017 04:24:18 +0000</pubDate>
+	<pubDate>Wed, 11 Oct 2017 20:59:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://store.oceanwp.org</wp:base_site_url>
@@ -584,7 +584,7 @@
 	<wp:term><wp:term_id>56</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
 	<url>https://store.oceanwp.org/wp-content/uploads/2016/11/cropped-favicon-150x150.png</url>
@@ -11727,8 +11727,8 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 <br>
 Praesent mauris. Fusce nec tellus sed augue semper porta.		
 			<a href="#">
-										Shop Now
-			</a>
+						Shop Now
+					</a>
 			<h2>Discover Our</h2>		
 			<h2>Best Selling</h2>		
 		[products columns="4" orderby="title" ids="79, 74, 69, 47"]		
@@ -11736,11 +11736,11 @@ Praesent mauris. Fusce nec tellus sed augue semper porta.
 			<h2>Summer Is Coming</h2>		
 		Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent.		
 			<a href="#">
-										Show All Products
-			</a>
+						Show All Products
+					</a>
 			<h2>Check Our</h2>		
 			<h2>New Arrivals</h2>		
-		[recent_products per_page="4" columns="4" orderby="date"]		
+		[products limit="4" orderby="date" order="DESC" columns="4"]		
 			<h2>Sign up for our monthly newsletter</h2>		
 				<form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
 					<input type="email" value="Enter your email address" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" name="EMAIL" id="mce-EMAIL">
@@ -11753,20 +11753,20 @@ Praesent mauris. Fusce nec tellus sed augue semper porta.
 			<h2>Women Shoes</h2>		
 			<h2>From $149.99</h2>		
 			<a href="#">
-										See Collection
-			</a>
+						See Collection
+					</a>
 			<h2>Women</h2>		
 			<h2>Sweater</h2>		
 			<h2>$69.90</h2>		
 			<a href="#">
-										Shop Now
-			</a>
+						Shop Now
+					</a>
 			<h2>Summer</h2>		
 			<h2>Clothes</h2>		
 			<h2>From $39.95</h2>		
 			<a href="#">
-										Shop Now
-			</a>
+						Shop Now
+					</a>
 			<h2>Latest News</h2>		
 			<h2>From The Blog</h2>		
 						<article id="post-113">
@@ -11878,7 +11878,7 @@ Praesent mauris. Fusce nec tellus sed augue semper porta.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"z6uj8ys","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":"640"},"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_85236941.jpg","id":427},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_opacity":{"unit":"px","size":"0.5"}},"elements":[{"id":"ix6xr75","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[],"isInner":false},{"id":"bdwthlz","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"yrejmau","elType":"widget","settings":{"title":"Fashion Style","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"18"},"typography_font_size_mobile":{"unit":"px","size":"14"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"10"},"_padding":{"unit":"px","top":"8","right":"0","bottom":"8","left":"0","isLinked":false},"_css_classes":"hero-title","_border_border":"double","_border_width":{"unit":"px","top":"3","right":"0","bottom":"3","left":"0","isLinked":false},"_border_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"5rqqq63","elType":"widget","settings":{"title":"Season Sale","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"80"},"typography_font_size_mobile":{"unit":"px","size":"40"},"typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_border_border":"double"},"elements":[],"widgetType":"heading"},{"id":"1inmes0","elType":"widget","settings":{"editor":"Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.\n<br>\nPraesent mauris. Fusce nec tellus sed augue semper porta.","align":"right","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"}},"elements":[],"widgetType":"text-editor"},{"id":"c1nb16e","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"13"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#fe5252","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#fe5252","button_background_hover_color":"#ffffff","button_hover_border_color":"#fe5252"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"17l3c36","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"124vqup","elType":"column","settings":{"_inline_size":"","_column_size":100},"elements":[{"id":"nje8e9h","elType":"widget","settings":{"title":"Discover Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"r0hzluw","elType":"widget","settings":{"title":"Best Selling","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"v5oon7a","elType":"widget","settings":{"shortcode":"[products columns=\"4\" orderby=\"title\" ids=\"79, 74, 69, 47\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"bmfvxvw","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_45120365.jpg","id":433},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"160","right":"0","bottom":"160","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"hide_mobile":"hidden-phone"},"elements":[{"id":"suo2d7q","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"9z8ribc","elType":"widget","settings":{"title":"New collection for summer clothing","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"26"},"typography_font_size_mobile":{"unit":"px","size":"18"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":"1.6"},"typography_letter_spacing":{"unit":"px","size":"0.6"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"907fg6n","elType":"widget","settings":{"title":"Summer Is Coming","title_color":"#9ae5b1","typography_typography":"custom","typography_font_size":{"unit":"px","size":"56"},"typography_font_size_mobile":{"unit":"px","size":"42"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"j2v2h6d","elType":"widget","settings":{"editor":"Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent.","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_animation":"fadeIn"},"elements":[],"widgetType":"text-editor"},{"id":"iee16ys","elType":"widget","settings":{"text":"Show All Products","button_text_color":"#17292d","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"rgba(255,255,255,0.53)","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"#17292d","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"30","bottom":"12","left":"30","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#17292d","_animation":"fadeIn"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"gg412zh","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[],"isInner":false}],"isInner":false},{"id":"m1ftxxd","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"waknl7r","elType":"column","settings":{"_inline_size":"","_column_size":100},"elements":[{"id":"46iqs1i","elType":"widget","settings":{"title":"Check Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"17809ip","elType":"widget","settings":{"title":"New Arrivals","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"k4lsqik","elType":"widget","settings":{"shortcode":"[recent_products per_page=\"4\" columns=\"4\" orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"no9fz0x","elType":"section","settings":{"structure":"20","background_background":"classic","background_color":"#221d1d","padding":{"unit":"px","top":"35","right":"0","bottom":"35","left":"0","isLinked":false}},"elements":[{"id":"rn4mapn","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"cq8bjlz","elType":"widget","settings":{"title":"Sign up for our monthly newsletter","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_font_size_tablet":{"unit":"px","size":"13"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","typography_font_size_mobile":{"unit":"px","size":"12"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"f4bg62q","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"094hp6y","elType":"widget","settings":{"mailchimp_form_action":"#","placeholder_text":"Enter your email address","submit_text":"Go","input_width":{"unit":"px","size":"580"},"input_color":"#e5e5e5","input_border":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"input_border_color":"rgba(255,255,255,0.2)","newsletter_input_line_height_tablet":{"unit":"em","size":""},"newsletter_input_line_height_mobile":{"unit":"em","size":""},"section_input_hover":"","section_input_focus":"","input_border_color_focus":"rgba(255,255,255,0.5)","btn_bg":"#614e4e","newsletter_btn_line_height_tablet":{"unit":"em","size":""},"newsletter_btn_line_height_mobile":{"unit":"em","size":""},"section_btn_hover":"","btn_hover_bg":"#443636","input_border_border":"solid","input_border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true}},"elements":[],"widgetType":"oew-newsletter"}],"isInner":false}],"isInner":false},{"id":"02yexcu","elType":"section","settings":{"layout":"full_width","structure":"30","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[{"id":"grsspkb","elType":"column","settings":{"_inline_size":"49.962","_column_size":33,"background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_01236547.jpg","id":432},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"5wmb7cp","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"xoqvcy9","elType":"widget","settings":{"title":"New Collection","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"gi5kxj3","elType":"widget","settings":{"title":"Women Shoes","title_color":"#d28aff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"ny5zdsu","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"l6q0f0o","elType":"widget","settings":{"title":"From $149.99","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"0dnn7cw","elType":"widget","settings":{"text":"See Collection","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#d28aff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#d28aff","button_background_hover_color":"#ffffff","button_hover_border_color":"#d28aff"},"elements":[],"widgetType":"button"},{"id":"gq4xqx2","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"fhqp5ld","elType":"column","settings":{"_inline_size":"25.019","_column_size":33,"background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_74102589.jpg","id":431},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"ysko6k8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"s2p8px5","elType":"widget","settings":{"title":"Women","align":"right","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"7j4sflz","elType":"widget","settings":{"title":"Sweater","align":"right","title_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"1ydznlq","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"fj412yg","elType":"widget","settings":{"title":"$69.90","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"j8sl7iv","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#d69567","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#d69567","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"oppufr8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"0rvx5pm","elType":"column","settings":{"_inline_size":"25.019","_column_size":33,"background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_41203658.jpg","id":430},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"qsy2wen","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"h2pag0f","elType":"widget","settings":{"title":"Summer","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"exb3s8c","elType":"widget","settings":{"title":"Clothes","title_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"efw9x8e","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"pe5pb23","elType":"widget","settings":{"title":"From $39.95","align":"left","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"q7uob5h","elType":"widget","settings":{"text":"Shop Now","align":"left","button_text_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#fe5252","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#fe5252","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"vx06ue8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"507ul9s","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"ondc122","elType":"column","settings":{"_inline_size":"","_column_size":100},"elements":[{"id":"2si83q4","elType":"widget","settings":{"title":"Latest News","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"lpqhde5","elType":"widget","settings":{"title":"From The Blog","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"67wvj6r","elType":"widget","settings":{"count":"3","readmore_text":"Learn More","author":"false","excerpt_length":"15"},"elements":[],"widgetType":"oew-blog-grid"}],"isInner":false}],"isInner":false},{"id":"xdpm8yw","elType":"section","settings":{"structure":"30","border_border":"solid","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9"},"elements":[{"id":"zfc8bxx","elType":"column","settings":{"_inline_size":null,"_column_size":33,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"v13ia5e","elType":"widget","settings":{"icon":"fa fa-globe","title_text":"Free Shipping Worldwide","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"p4zjg9l","elType":"column","settings":{"_inline_size":null,"_column_size":33,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"jximoje","elType":"widget","settings":{"icon":"fa fa-shopping-bag","title_text":"Returns and Exchanges","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"aeuomek","elType":"column","settings":{"_inline_size":null,"_column_size":33,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"lc8nkc5","elType":"widget","settings":{"icon":"fa fa-support","title_text":"24\/7 Customer Support","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[{"id":"z6uj8ys","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":"640"},"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_85236941.jpg","id":427},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_opacity":{"unit":"px","size":"0.5"}},"elements":[{"id":"ix6xr75","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false},{"id":"bdwthlz","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"yrejmau","elType":"widget","settings":{"title":"Fashion Style","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"18"},"typography_font_size_mobile":{"unit":"px","size":"14"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"10"},"_padding":{"unit":"px","top":"8","right":"0","bottom":"8","left":"0","isLinked":false},"_css_classes":"hero-title","_border_border":"double","_border_width":{"unit":"px","top":"3","right":"0","bottom":"3","left":"0","isLinked":false},"_border_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"5rqqq63","elType":"widget","settings":{"title":"Season Sale","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"80"},"typography_font_size_mobile":{"unit":"px","size":"40"},"typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_border_border":"double"},"elements":[],"widgetType":"heading"},{"id":"1inmes0","elType":"widget","settings":{"editor":"Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.\n<br>\nPraesent mauris. Fusce nec tellus sed augue semper porta.","align":"right","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"}},"elements":[],"widgetType":"text-editor"},{"id":"c1nb16e","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"13"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#fe5252","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#fe5252","button_background_hover_color":"#ffffff","button_hover_border_color":"#fe5252"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"17l3c36","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"124vqup","elType":"column","settings":{"_column_size":100},"elements":[{"id":"nje8e9h","elType":"widget","settings":{"title":"Discover Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"r0hzluw","elType":"widget","settings":{"title":"Best Selling","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"v5oon7a","elType":"widget","settings":{"shortcode":"[products columns=\"4\" orderby=\"title\" ids=\"79, 74, 69, 47\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"bmfvxvw","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_45120365.jpg","id":433},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"160","right":"0","bottom":"160","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"hide_mobile":"hidden-phone"},"elements":[{"id":"suo2d7q","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"9z8ribc","elType":"widget","settings":{"title":"New collection for summer clothing","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"26"},"typography_font_size_mobile":{"unit":"px","size":"18"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":"1.6"},"typography_letter_spacing":{"unit":"px","size":"0.6"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"907fg6n","elType":"widget","settings":{"title":"Summer Is Coming","title_color":"#9ae5b1","typography_typography":"custom","typography_font_size":{"unit":"px","size":"56"},"typography_font_size_mobile":{"unit":"px","size":"42"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"j2v2h6d","elType":"widget","settings":{"editor":"Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent.","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_animation":"fadeIn"},"elements":[],"widgetType":"text-editor"},{"id":"iee16ys","elType":"widget","settings":{"text":"Show All Products","button_text_color":"#17292d","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"rgba(255,255,255,0.53)","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"#17292d","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"30","bottom":"12","left":"30","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#17292d","_animation":"fadeIn"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"gg412zh","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false}],"isInner":false},{"id":"m1ftxxd","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"waknl7r","elType":"column","settings":{"_column_size":100},"elements":[{"id":"46iqs1i","elType":"widget","settings":{"title":"Check Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"17809ip","elType":"widget","settings":{"title":"New Arrivals","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"k4lsqik","elType":"widget","settings":{"shortcode":"[products limit=\"4\" orderby=\"date\" order=\"DESC\" columns=\"4\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"no9fz0x","elType":"section","settings":{"structure":"20","background_background":"classic","background_color":"#221d1d","padding":{"unit":"px","top":"35","right":"0","bottom":"35","left":"0","isLinked":false}},"elements":[{"id":"rn4mapn","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"cq8bjlz","elType":"widget","settings":{"title":"Sign up for our monthly newsletter","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_font_size_tablet":{"unit":"px","size":"13"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","typography_font_size_mobile":{"unit":"px","size":"12"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"f4bg62q","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"094hp6y","elType":"widget","settings":{"mailchimp_form_action":"#","placeholder_text":"Enter your email address","submit_text":"Go","input_width":{"unit":"px","size":"580"},"input_color":"#e5e5e5","input_border":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"input_border_color":"rgba(255,255,255,0.2)","newsletter_input_line_height_tablet":{"unit":"em","size":""},"newsletter_input_line_height_mobile":{"unit":"em","size":""},"section_input_hover":"","section_input_focus":"","input_border_color_focus":"rgba(255,255,255,0.5)","btn_bg":"#614e4e","newsletter_btn_line_height_tablet":{"unit":"em","size":""},"newsletter_btn_line_height_mobile":{"unit":"em","size":""},"section_btn_hover":"","btn_hover_bg":"#443636","input_border_border":"solid","input_border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true}},"elements":[],"widgetType":"oew-newsletter"}],"isInner":false}],"isInner":false},{"id":"02yexcu","elType":"section","settings":{"layout":"full_width","structure":"30","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[{"id":"grsspkb","elType":"column","settings":{"_column_size":33,"_inline_size":"49.962","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_01236547.jpg","id":432},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"5wmb7cp","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"xoqvcy9","elType":"widget","settings":{"title":"New Collection","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"gi5kxj3","elType":"widget","settings":{"title":"Women Shoes","title_color":"#d28aff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"ny5zdsu","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"l6q0f0o","elType":"widget","settings":{"title":"From $149.99","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"0dnn7cw","elType":"widget","settings":{"text":"See Collection","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#d28aff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#d28aff","button_background_hover_color":"#ffffff","button_hover_border_color":"#d28aff"},"elements":[],"widgetType":"button"},{"id":"gq4xqx2","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"fhqp5ld","elType":"column","settings":{"_column_size":33,"_inline_size":"25.019","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_74102589.jpg","id":431},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"ysko6k8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"s2p8px5","elType":"widget","settings":{"title":"Women","align":"right","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"7j4sflz","elType":"widget","settings":{"title":"Sweater","align":"right","title_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"1ydznlq","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"fj412yg","elType":"widget","settings":{"title":"$69.90","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"j8sl7iv","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#d69567","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#d69567","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"oppufr8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"0rvx5pm","elType":"column","settings":{"_column_size":33,"_inline_size":"25.019","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_41203658.jpg","id":430},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"qsy2wen","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"h2pag0f","elType":"widget","settings":{"title":"Summer","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"exb3s8c","elType":"widget","settings":{"title":"Clothes","title_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"efw9x8e","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"pe5pb23","elType":"widget","settings":{"title":"From $39.95","align":"left","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"q7uob5h","elType":"widget","settings":{"text":"Shop Now","align":"left","button_text_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#fe5252","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#fe5252","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"vx06ue8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"507ul9s","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"ondc122","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2si83q4","elType":"widget","settings":{"title":"Latest News","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"lpqhde5","elType":"widget","settings":{"title":"From The Blog","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"67wvj6r","elType":"widget","settings":{"count":"3","readmore_text":"Learn More","author":"false","excerpt_length":"15"},"elements":[],"widgetType":"oew-blog-grid"}],"isInner":false}],"isInner":false},{"id":"xdpm8yw","elType":"section","settings":{"structure":"30","border_border":"solid","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9"},"elements":[{"id":"zfc8bxx","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"v13ia5e","elType":"widget","settings":{"icon":"fa fa-globe","title_text":"Free Shipping Worldwide","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"p4zjg9l","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"jximoje","elType":"widget","settings":{"icon":"fa fa-shopping-bag","title_text":"Returns and Exchanges","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"aeuomek","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"lc8nkc5","elType":"widget","settings":{"icon":"fa fa-support","title_text":"24\/7 Customer Support","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -11922,7 +11922,7 @@ Praesent mauris. Fusce nec tellus sed augue semper porta.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"z6uj8ys","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":"640"},"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_85236941.jpg","id":427},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_opacity":{"unit":"px","size":"0.5"}},"elements":[{"id":"ix6xr75","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[],"isInner":false},{"id":"bdwthlz","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"yrejmau","elType":"widget","settings":{"title":"Fashion Style","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"18"},"typography_font_size_mobile":{"unit":"px","size":"14"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"10"},"_padding":{"unit":"px","top":"8","right":"0","bottom":"8","left":"0","isLinked":false},"_css_classes":"hero-title","_border_border":"double","_border_width":{"unit":"px","top":"3","right":"0","bottom":"3","left":"0","isLinked":false},"_border_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"5rqqq63","elType":"widget","settings":{"title":"Season Sale","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"80"},"typography_font_size_mobile":{"unit":"px","size":"40"},"typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_border_border":"double"},"elements":[],"widgetType":"heading"},{"id":"1inmes0","elType":"widget","settings":{"editor":"Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.\n<br>\nPraesent mauris. Fusce nec tellus sed augue semper porta.","align":"right","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"}},"elements":[],"widgetType":"text-editor"},{"id":"c1nb16e","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"13"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#fe5252","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#fe5252","button_background_hover_color":"#ffffff","button_hover_border_color":"#fe5252"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"17l3c36","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"124vqup","elType":"column","settings":{"_inline_size":"","_column_size":100},"elements":[{"id":"nje8e9h","elType":"widget","settings":{"title":"Discover Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"r0hzluw","elType":"widget","settings":{"title":"Best Selling","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"v5oon7a","elType":"widget","settings":{"shortcode":"[products columns=\"4\" orderby=\"title\" ids=\"79, 74, 69, 47\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"bmfvxvw","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_45120365.jpg","id":433},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"160","right":"0","bottom":"160","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"hide_mobile":"hidden-phone"},"elements":[{"id":"suo2d7q","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"9z8ribc","elType":"widget","settings":{"title":"New collection for summer clothing","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"26"},"typography_font_size_mobile":{"unit":"px","size":"18"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":"1.6"},"typography_letter_spacing":{"unit":"px","size":"0.6"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"907fg6n","elType":"widget","settings":{"title":"Summer Is Coming","title_color":"#9ae5b1","typography_typography":"custom","typography_font_size":{"unit":"px","size":"56"},"typography_font_size_mobile":{"unit":"px","size":"42"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"j2v2h6d","elType":"widget","settings":{"editor":"Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent.","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_animation":"fadeIn"},"elements":[],"widgetType":"text-editor"},{"id":"iee16ys","elType":"widget","settings":{"text":"Show All Products","button_text_color":"#17292d","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"rgba(255,255,255,0.53)","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"#17292d","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"30","bottom":"12","left":"30","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#17292d","_animation":"fadeIn"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"gg412zh","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[],"isInner":false}],"isInner":false},{"id":"m1ftxxd","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"waknl7r","elType":"column","settings":{"_inline_size":"","_column_size":100},"elements":[{"id":"46iqs1i","elType":"widget","settings":{"title":"Check Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"17809ip","elType":"widget","settings":{"title":"New Arrivals","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"k4lsqik","elType":"widget","settings":{"shortcode":"[recent_products per_page=\"4\" columns=\"4\" orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"no9fz0x","elType":"section","settings":{"structure":"20","background_background":"classic","background_color":"#221d1d","padding":{"unit":"px","top":"35","right":"0","bottom":"35","left":"0","isLinked":false}},"elements":[{"id":"rn4mapn","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"cq8bjlz","elType":"widget","settings":{"title":"Sign up for our monthly newsletter","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_font_size_tablet":{"unit":"px","size":"13"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","typography_font_size_mobile":{"unit":"px","size":"12"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"f4bg62q","elType":"column","settings":{"_inline_size":null,"_column_size":50},"elements":[{"id":"094hp6y","elType":"widget","settings":{"mailchimp_form_action":"#","placeholder_text":"Enter your email address","submit_text":"Go","input_width":{"unit":"px","size":"580"},"input_color":"#e5e5e5","input_border":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"input_border_color":"rgba(255,255,255,0.2)","newsletter_input_line_height_tablet":{"unit":"em","size":""},"newsletter_input_line_height_mobile":{"unit":"em","size":""},"section_input_hover":"","section_input_focus":"","input_border_color_focus":"rgba(255,255,255,0.5)","btn_bg":"#614e4e","newsletter_btn_line_height_tablet":{"unit":"em","size":""},"newsletter_btn_line_height_mobile":{"unit":"em","size":""},"section_btn_hover":"","btn_hover_bg":"#443636","input_border_border":"solid","input_border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true}},"elements":[],"widgetType":"oew-newsletter"}],"isInner":false}],"isInner":false},{"id":"02yexcu","elType":"section","settings":{"layout":"full_width","structure":"30","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[{"id":"grsspkb","elType":"column","settings":{"_inline_size":"49.962","_column_size":33,"background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_01236547.jpg","id":432},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"5wmb7cp","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"xoqvcy9","elType":"widget","settings":{"title":"New Collection","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"gi5kxj3","elType":"widget","settings":{"title":"Women Shoes","title_color":"#d28aff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"ny5zdsu","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"l6q0f0o","elType":"widget","settings":{"title":"From $149.99","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"0dnn7cw","elType":"widget","settings":{"text":"See Collection","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#d28aff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#d28aff","button_background_hover_color":"#ffffff","button_hover_border_color":"#d28aff"},"elements":[],"widgetType":"button"},{"id":"gq4xqx2","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"fhqp5ld","elType":"column","settings":{"_inline_size":"25.019","_column_size":33,"background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_74102589.jpg","id":431},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"ysko6k8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"s2p8px5","elType":"widget","settings":{"title":"Women","align":"right","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"7j4sflz","elType":"widget","settings":{"title":"Sweater","align":"right","title_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"1ydznlq","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"fj412yg","elType":"widget","settings":{"title":"$69.90","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"j8sl7iv","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#d69567","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#d69567","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"oppufr8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"0rvx5pm","elType":"column","settings":{"_inline_size":"25.019","_column_size":33,"background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_41203658.jpg","id":430},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"qsy2wen","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"h2pag0f","elType":"widget","settings":{"title":"Summer","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"exb3s8c","elType":"widget","settings":{"title":"Clothes","title_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"efw9x8e","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"pe5pb23","elType":"widget","settings":{"title":"From $39.95","align":"left","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"q7uob5h","elType":"widget","settings":{"text":"Shop Now","align":"left","button_text_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#fe5252","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#fe5252","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"vx06ue8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"507ul9s","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"ondc122","elType":"column","settings":{"_inline_size":"","_column_size":100},"elements":[{"id":"2si83q4","elType":"widget","settings":{"title":"Latest News","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"lpqhde5","elType":"widget","settings":{"title":"From The Blog","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"67wvj6r","elType":"widget","settings":{"count":"3","readmore_text":"Learn More","author":"false","excerpt_length":"15"},"elements":[],"widgetType":"oew-blog-grid"}],"isInner":false}],"isInner":false},{"id":"xdpm8yw","elType":"section","settings":{"structure":"30","border_border":"solid","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9"},"elements":[{"id":"zfc8bxx","elType":"column","settings":{"_inline_size":null,"_column_size":33,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"v13ia5e","elType":"widget","settings":{"icon":"fa fa-globe","title_text":"Free Shipping Worldwide","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"p4zjg9l","elType":"column","settings":{"_inline_size":null,"_column_size":33,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"jximoje","elType":"widget","settings":{"icon":"fa fa-shopping-bag","title_text":"Returns and Exchanges","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"aeuomek","elType":"column","settings":{"_inline_size":null,"_column_size":33,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"lc8nkc5","elType":"widget","settings":{"icon":"fa fa-support","title_text":"24\/7 Customer Support","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[{"id":"z6uj8ys","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":"640"},"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_85236941.jpg","id":427},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_opacity":{"unit":"px","size":"0.5"}},"elements":[{"id":"ix6xr75","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false},{"id":"bdwthlz","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"yrejmau","elType":"widget","settings":{"title":"Fashion Style","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"18"},"typography_font_size_mobile":{"unit":"px","size":"14"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"10"},"_padding":{"unit":"px","top":"8","right":"0","bottom":"8","left":"0","isLinked":false},"_css_classes":"hero-title","_border_border":"double","_border_width":{"unit":"px","top":"3","right":"0","bottom":"3","left":"0","isLinked":false},"_border_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"5rqqq63","elType":"widget","settings":{"title":"Season Sale","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"80"},"typography_font_size_mobile":{"unit":"px","size":"40"},"typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_border_border":"double"},"elements":[],"widgetType":"heading"},{"id":"1inmes0","elType":"widget","settings":{"editor":"Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.\n<br>\nPraesent mauris. Fusce nec tellus sed augue semper porta.","align":"right","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"15"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"}},"elements":[],"widgetType":"text-editor"},{"id":"c1nb16e","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"13"},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#fe5252","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#fe5252","button_background_hover_color":"#ffffff","button_hover_border_color":"#fe5252"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"17l3c36","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"124vqup","elType":"column","settings":{"_column_size":100},"elements":[{"id":"nje8e9h","elType":"widget","settings":{"title":"Discover Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"r0hzluw","elType":"widget","settings":{"title":"Best Selling","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"v5oon7a","elType":"widget","settings":{"shortcode":"[products columns=\"4\" orderby=\"title\" ids=\"79, 74, 69, 47\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"bmfvxvw","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_45120365.jpg","id":433},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"160","right":"0","bottom":"160","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"hide_mobile":"hidden-phone"},"elements":[{"id":"suo2d7q","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"9z8ribc","elType":"widget","settings":{"title":"New collection for summer clothing","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"26"},"typography_font_size_mobile":{"unit":"px","size":"18"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":"1.6"},"typography_letter_spacing":{"unit":"px","size":"0.6"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"907fg6n","elType":"widget","settings":{"title":"Summer Is Coming","title_color":"#9ae5b1","typography_typography":"custom","typography_font_size":{"unit":"px","size":"56"},"typography_font_size_mobile":{"unit":"px","size":"42"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_animation":"fadeIn"},"elements":[],"widgetType":"heading"},{"id":"j2v2h6d","elType":"widget","settings":{"editor":"Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent.","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"16"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_animation":"fadeIn"},"elements":[],"widgetType":"text-editor"},{"id":"iee16ys","elType":"widget","settings":{"text":"Show All Products","button_text_color":"#17292d","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"rgba(255,255,255,0.53)","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"#17292d","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"30","bottom":"12","left":"30","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#17292d","_animation":"fadeIn"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"gg412zh","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false}],"isInner":false},{"id":"m1ftxxd","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"waknl7r","elType":"column","settings":{"_column_size":100},"elements":[{"id":"46iqs1i","elType":"widget","settings":{"title":"Check Our","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"17809ip","elType":"widget","settings":{"title":"New Arrivals","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"k4lsqik","elType":"widget","settings":{"shortcode":"[products limit=\"4\" orderby=\"date\" order=\"DESC\" columns=\"4\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"no9fz0x","elType":"section","settings":{"structure":"20","background_background":"classic","background_color":"#221d1d","padding":{"unit":"px","top":"35","right":"0","bottom":"35","left":"0","isLinked":false}},"elements":[{"id":"rn4mapn","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"cq8bjlz","elType":"widget","settings":{"title":"Sign up for our monthly newsletter","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14"},"typography_font_size_tablet":{"unit":"px","size":"13"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","typography_font_size_mobile":{"unit":"px","size":"12"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"f4bg62q","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"094hp6y","elType":"widget","settings":{"mailchimp_form_action":"#","placeholder_text":"Enter your email address","submit_text":"Go","input_width":{"unit":"px","size":"580"},"input_color":"#e5e5e5","input_border":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"input_border_color":"rgba(255,255,255,0.2)","newsletter_input_line_height_tablet":{"unit":"em","size":""},"newsletter_input_line_height_mobile":{"unit":"em","size":""},"section_input_hover":"","section_input_focus":"","input_border_color_focus":"rgba(255,255,255,0.5)","btn_bg":"#614e4e","newsletter_btn_line_height_tablet":{"unit":"em","size":""},"newsletter_btn_line_height_mobile":{"unit":"em","size":""},"section_btn_hover":"","btn_hover_bg":"#443636","input_border_border":"solid","input_border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true}},"elements":[],"widgetType":"oew-newsletter"}],"isInner":false}],"isInner":false},{"id":"02yexcu","elType":"section","settings":{"layout":"full_width","structure":"30","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[{"id":"grsspkb","elType":"column","settings":{"_column_size":33,"_inline_size":"49.962","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_01236547.jpg","id":432},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"5wmb7cp","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"xoqvcy9","elType":"widget","settings":{"title":"New Collection","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"gi5kxj3","elType":"widget","settings":{"title":"Women Shoes","title_color":"#d28aff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"ny5zdsu","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"l6q0f0o","elType":"widget","settings":{"title":"From $149.99","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"0dnn7cw","elType":"widget","settings":{"text":"See Collection","button_text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#d28aff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#d28aff","button_background_hover_color":"#ffffff","button_hover_border_color":"#d28aff"},"elements":[],"widgetType":"button"},{"id":"gq4xqx2","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"fhqp5ld","elType":"column","settings":{"_column_size":33,"_inline_size":"25.019","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_74102589.jpg","id":431},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"ysko6k8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"s2p8px5","elType":"widget","settings":{"title":"Women","align":"right","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"7j4sflz","elType":"widget","settings":{"title":"Sweater","align":"right","title_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"1ydznlq","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"fj412yg","elType":"widget","settings":{"title":"$69.90","align":"right","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"j8sl7iv","elType":"widget","settings":{"text":"Shop Now","align":"right","button_text_color":"#d69567","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#d69567","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#d69567","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"oppufr8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"0rvx5pm","elType":"column","settings":{"_column_size":33,"_inline_size":"25.019","background_background":"classic","background_image":{"url":"https:\/\/store.oceanwp.org\/wp-content\/uploads\/2016\/11\/img_41203658.jpg","id":430},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"qsy2wen","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"h2pag0f","elType":"widget","settings":{"title":"Summer","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"36"},"typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"exb3s8c","elType":"widget","settings":{"title":"Clothes","title_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"50"},"typography_font_family":"Open Sans","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"}},"elements":[],"widgetType":"heading"},{"id":"efw9x8e","elType":"widget","settings":{"space":{"unit":"px","size":"180"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"pe5pb23","elType":"widget","settings":{"title":"From $39.95","align":"left","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"300","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"q7uob5h","elType":"widget","settings":{"text":"Shop Now","align":"left","button_text_color":"#fe5252","typography_typography":"custom","typography_font_size":{"unit":"px","size":"12"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#fe5252","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"26","bottom":"10","left":"26","isLinked":false},"section_hover":"","hover_color":"#ffffff","button_background_hover_color":"#fe5252","button_hover_border_color":"#ffffff"},"elements":[],"widgetType":"button"},{"id":"vx06ue8","elType":"widget","settings":{"space":{"unit":"px","size":"20"},"space_tablet":{"unit":"px","size":50},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"507ul9s","elType":"section","settings":{"padding":{"unit":"px","top":"60","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"ondc122","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2si83q4","elType":"widget","settings":{"title":"Latest News","align":"center","title_color":"#eeeeee","typography_typography":"custom","typography_font_size":{"unit":"px","size":"45"},"typography_font_size_mobile":{"unit":"px","size":"30"},"typography_font_family":"Open Sans","typography_font_weight":"900","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"lpqhde5","elType":"widget","settings":{"title":"From The Blog","align":"center","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"1"},"_margin":{"unit":"px","top":"-35","right":"0","bottom":"40","left":"0","isLinked":false},"_animation":"fadeIn","_margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"67wvj6r","elType":"widget","settings":{"count":"3","readmore_text":"Learn More","author":"false","excerpt_length":"15"},"elements":[],"widgetType":"oew-blog-grid"}],"isInner":false}],"isInner":false},{"id":"xdpm8yw","elType":"section","settings":{"structure":"30","border_border":"solid","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9"},"elements":[{"id":"zfc8bxx","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"v13ia5e","elType":"widget","settings":{"icon":"fa fa-globe","title_text":"Free Shipping Worldwide","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"p4zjg9l","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"1","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"jximoje","elType":"widget","settings":{"icon":"fa fa-shopping-bag","title_text":"Returns and Exchanges","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"aeuomek","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"#e9e9e9","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"lc8nkc5","elType":"widget","settings":{"icon":"fa fa-support","title_text":"24\/7 Customer Support","description_text":"","primary_color":"#fe5252","icon_size":{"unit":"px","size":"44"},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16"},"title_typography_text_transform":"uppercase","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":"0.8"},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_animation":"fadeIn"},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -12204,191 +12204,6 @@ Praesent mauris. Fusce nec tellus sed augue semper porta.
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[oe-icons]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:8:{s:4:"type";s:2:"fa";s:4:"icon";s:19:"fa-long-arrow-right";s:10:"hide_label";s:0:"";s:8:"position";s:5:"after";s:14:"vertical_align";s:6:"middle";s:9:"font_size";s:1:"1";s:9:"svg_width";s:1:"1";s:10:"image_size";s:9:"thumbnail";}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact form 1</title>
-		<link>https://store.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=6</link>
-		<pubDate>Thu, 07 Apr 2016 14:26:19 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/store/?post_type=wpcf7_contact_form&#038;p=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "First name"]</div>
-<div class="span_1_of_2 col clr">[text text-443 placeholder "Last name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Your email"]</div>
-<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your phone"]</div>
-</div>
-
-<p>[text your-subject placeholder "Your subject"]</p>
-
-<p>[textarea your-message placeholder "Your message "]</p>
-
-<p style="margin: 0">[submit class:full "Send Message"]</p>
-1
-Store "[your-subject]"
-[your-name] 
-support@contact.com
-From: [your-name] 
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Store (https://oceanwpe.org/store)
-Reply-To: [your-email]
-
-
-
-
-Store "[your-subject]"
-Store 
-[your-email]
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Store (https://oceanwp.org/store)
-Reply-To: plutontheme@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-07 14:26:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-07 14:26:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "First name"]</div>
-<div class="span_1_of_2 col clr">[text text-443 placeholder "Last name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Your email"]</div>
-<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your phone"]</div>
-</div>
-
-<p>[text your-subject placeholder "Your subject"]</p>
-
-<p>[textarea your-message placeholder "Your message "]</p>
-
-<p style="margin: 0;">[submit class:full "Send Message"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:169:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Store (https://oceanwpe.org/store)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:30:"Store <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:110:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Store (https://oceanwp.org/store)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "First name"]</div>
-<div class="span_1_of_2 col clr">[text text-443 placeholder "Last name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Your email"]</div>
-<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your phone"]</div>
-</div>
-
-<p>[text your-subject placeholder "Your subject"]</p>
-
-<p>[textarea your-message placeholder "Your message "]</p>
-
-<p style="margin: 0;">[submit class:full "Send Message"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:169:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Store (https://oceanwpe.org/store)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:30:"Store <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:110:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Store (https://oceanwp.org/store)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13180,15 +12995,14 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 
 Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna class aptent taciti sociosqu ad litora torquent per conubia nostra.]]></content:encoded>
 		<excerpt:encoded><![CDATA[Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.
-
-<ul style="font-size:14px;margin:20px 0 0">
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Made of 95% Polyester and 5% Elastane</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Elastic shoulder straps</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Measured from Small</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>V-neckline with lace portion at back</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Hand wash cold</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Form-fitting design with stretch</li>
-<li style="margin-bottom:8px"><i class="icon-check" style="color:#aaaaaa;margin-right:10px"></i>Delivery 5-10 working days</li>
+<ul style="font-size: 14px; margin: 20px 0 0;">
+ 	<li style="margin-bottom: 8px;"><i class="icon-check" style="color: #aaaaaa; margin-right: 10px;"></i>Made of 95% Polyester and 5% Elastane</li>
+ 	<li style="margin-bottom: 8px;"><i class="icon-check" style="color: #aaaaaa; margin-right: 10px;"></i>Elastic shoulder straps</li>
+ 	<li style="margin-bottom: 8px;"><i class="icon-check" style="color: #aaaaaa; margin-right: 10px;"></i>Measured from Small</li>
+ 	<li style="margin-bottom: 8px;"><i class="icon-check" style="color: #aaaaaa; margin-right: 10px;"></i>V-neckline with lace portion at back</li>
+ 	<li style="margin-bottom: 8px;"><i class="icon-check" style="color: #aaaaaa; margin-right: 10px;"></i>Hand wash cold</li>
+ 	<li style="margin-bottom: 8px;"><i class="icon-check" style="color: #aaaaaa; margin-right: 10px;"></i>Form-fitting design with stretch</li>
+ 	<li style="margin-bottom: 8px;"><i class="icon-check" style="color: #aaaaaa; margin-right: 10px;"></i>Delivery 5-10 working days</li>
 </ul>]]></excerpt:encoded>
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2016-04-08 13:12:55]]></wp:post_date>
@@ -13306,7 +13120,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.6.14]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.0.8]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -13338,7 +13152,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://oceanwp.org/demo/product/jacket-flushed/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://store.oceanwp.org/product/armor-twist/]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_button_text]]></wp:meta_key>
@@ -13482,7 +13296,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.6.14]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.0.8]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -13514,7 +13328,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://oceanwp.org/demo/product/jacket-flushed/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://store.oceanwp.org/product/armor-twist/]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_button_text]]></wp:meta_key>
@@ -13554,6 +13368,34 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
@@ -14376,7 +14218,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
@@ -14508,7 +14350,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
@@ -14698,7 +14540,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
@@ -14830,7 +14672,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
@@ -15015,7 +14857,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -15151,7 +14993,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -15811,7 +15653,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Slim Credit – Blue</title>
+		<title>Slim Credit - Blue</title>
 		<link>https://store.oceanwp.org/product/slim-credit/?attribute_color=Blue</link>
 		<pubDate>Sat, 09 Apr 2016 14:36:16 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
@@ -16009,7 +15851,7 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Slim Credit – Black</title>
+		<title>Slim Credit - Black</title>
 		<link>https://store.oceanwp.org/product/slim-credit/?attribute_color=Black</link>
 		<pubDate>Sat, 09 Apr 2016 14:37:05 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
@@ -17109,6 +16951,1091 @@ Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus cons
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; June 3, 2017 @ 05:10 PM</title>
+		<link>https://store.oceanwp.org/?post_type=shop_order&#038;p=536</link>
+		<pubDate>Sat, 03 Jun 2017 17:10:40 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://store.oceanwp.org/?post_type=shop_order&#038;p=536</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>536</wp:post_id>
+		<wp:post_date><![CDATA[2017-06-03 17:10:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-06-03 17:10:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jun-03-2017-0510-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-cancelled]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_5932ed908c5c6]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_5932ed908c3fd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[paypal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PayPal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_transaction_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[77.221.24.114]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[mozilla/5.0 (linux; android 4.4.2; d5103 build/18.1.a.1.21) applewebkit/537.36 (khtml, like gecko) chrome/58.0.3029.83 mobile safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_completed]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_completed_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_paid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_paid_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[d802987a85275242b99ff527be723a4e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Jsjc]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Hagax]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Yhan]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Dbab]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Agava]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[17482]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[DO]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[heyhey@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6298389468]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Jsjc]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Hagax]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Yhan]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Dbab]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Agava]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[17482]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[DO]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[141.93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3.0.7]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Jsjc Hagax  Yhan  Dbab Agava 17482 DO heyhey@gmail.com 6298389468]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Jsjc Hagax  Yhan  Dbab Agava 17482 DO]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:11:"flat_rate:1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>22</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@store.oceanwp.org]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-06-03 18:12:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-06-03 18:12:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Unpaid order cancelled - time limit reached. Order status changed from Pending payment to Cancelled.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; July 11, 2017 @ 06:33 PM</title>
+		<link>https://store.oceanwp.org/?post_type=shop_order&#038;p=542</link>
+		<pubDate>Tue, 11 Jul 2017 18:33:33 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://store.oceanwp.org/?post_type=shop_order&#038;p=542</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>542</wp:post_id>
+		<wp:post_date><![CDATA[2017-07-11 18:33:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-07-11 18:33:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jul-11-2017-0633-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_596519fd77ca3]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_596519fd77ada]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Check payments]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_transaction_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[68.187.6.82]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/59.0.3071.115 safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_completed]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_completed_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_paid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_paid_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7e756cf48e80aff52f77f12ec9171159]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Simpson]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[226 Test Street]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Belleville]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IL]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[62223]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test@me.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[618-5555555]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Simpson]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[226 Test Street]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Belleville]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IL]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[62223]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[29.99]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3.1.0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia Simpson  226 Test Street  Belleville IL 62223 US test@me.com 618-5555555]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia Simpson  226 Test Street  Belleville IL 62223 US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:11:"flat_rate:1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_coupon_usage_counts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>23</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@store.oceanwp.org]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-07-11 18:33:33]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-07-11 18:33:33]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting check payment Order status changed from Pending payment to On hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; July 11, 2017 @ 06:34 PM</title>
+		<link>https://store.oceanwp.org/?post_type=shop_order&#038;p=543</link>
+		<pubDate>Tue, 11 Jul 2017 18:34:23 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://store.oceanwp.org/?post_type=shop_order&#038;p=543</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>543</wp:post_id>
+		<wp:post_date><![CDATA[2017-07-11 18:34:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-07-11 18:34:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jul-11-2017-0634-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_59651a2fa3527]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_59651a2fa3299]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Check payments]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_transaction_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[68.187.6.82]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/59.0.3071.115 safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_completed]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_completed_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_paid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_paid_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[084ba3acb094a7f3b19c7c91d2fb8177]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Simpson]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[555 North Street]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Belleville]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IL]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[62223]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[simpson.alicia958@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5555555]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Simpson]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[555 North Street]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Belleville]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IL]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[62223]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[149.95]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3.1.0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia Simpson  555 North Street  Belleville IL 62223 US simpson.alicia958@gmail.com 5555555]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Alicia Simpson  555 North Street  Belleville IL 62223 US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:11:"flat_rate:1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_coupon_usage_counts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>24</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@store.oceanwp.org]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-07-11 18:34:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-07-11 18:34:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting check payment Order status changed from Pending payment to On hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; September 23, 2017 @ 05:13 PM</title>
+		<link>https://store.oceanwp.org/?post_type=shop_order&#038;p=554</link>
+		<pubDate>Sat, 23 Sep 2017 17:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://store.oceanwp.org/?post_type=shop_order&#038;p=554</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>554</wp:post_id>
+		<wp:post_date><![CDATA[2017-09-23 17:13:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-09-23 17:13:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-sep-23-2017-0513-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_59c6961ca312d]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_59c6961ca2fa7]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Check payments]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_transaction_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[73.85.30.162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[mozilla/5.0 (windows nt 6.1; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/60.0.3112.113 safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_completed]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_completed_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_paid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_paid_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cbd25f30b6f4b4a688d5d03541cb296f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1 ten st]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ny]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[NY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10501]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[tw@tw.co]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1231231234]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1 ten st]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ny]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[NY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10501]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[96.97]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test test test 1 ten st  ny NY 10501 US tw@tw.co 1231231234]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[test test test 1 ten st  ny NY 10501 US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:11:"flat_rate:1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_coupon_usage_counts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>25</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@store.oceanwp.org]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-09-23 17:13:00]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-09-23 17:13:00]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting check payment Order status changed from Pending payment to On hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Contact form 1</title>
+		<link>https://store.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=6</link>
+		<pubDate>Thu, 07 Apr 2016 14:26:19 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/store/?post_type=wpcf7_contact_form&#038;p=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="oceanwp-row clr">
+<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "First name"]</div>
+<div class="span_1_of_2 col clr">[text text-443 placeholder "Last name"]</div>
+<div class="span_1_of_2 col clr">[email* your-email placeholder "Your email"]</div>
+<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your phone"]</div>
+</div>
+
+<p>[text your-subject placeholder "Your subject"]</p>
+
+<p>[textarea your-message placeholder "Your message "]</p>
+
+<p style="margin: 0">[submit class:full "Send Message"]</p>
+1
+Store "[your-subject]"
+[your-name] 
+support@contact.com
+From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Store (https://oceanwpe.org/store)
+Reply-To: [your-email]
+
+
+
+
+Store "[your-subject]"
+Store 
+[your-email]
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Store (https://oceanwp.org/store)
+Reply-To: plutontheme@gmail.com
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+Your entered code is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-07 14:26:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-07 14:26:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
+<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "First name"]</div>
+<div class="span_1_of_2 col clr">[text text-443 placeholder "Last name"]</div>
+<div class="span_1_of_2 col clr">[email* your-email placeholder "Your email"]</div>
+<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your phone"]</div>
+</div>
+
+<p>[text your-subject placeholder "Your subject"]</p>
+
+<p>[textarea your-message placeholder "Your message "]</p>
+
+<p style="margin: 0;">[submit class:full "Send Message"]</p>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:169:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Store (https://oceanwpe.org/store)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:30:"Store <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:110:"Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Store (https://oceanwp.org/store)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
+<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "First name"]</div>
+<div class="span_1_of_2 col clr">[text text-443 placeholder "Last name"]</div>
+<div class="span_1_of_2 col clr">[email* your-email placeholder "Your email"]</div>
+<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your phone"]</div>
+</div>
+
+<p>[text your-subject placeholder "Your subject"]</p>
+
+<p>[textarea your-message placeholder "Your message "]</p>
+
+<p style="margin: 0;">[submit class:full "Send Message"]</p>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:169:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Store (https://oceanwpe.org/store)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:22:"Store "[your-subject]"";s:6:"sender";s:30:"Store <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:110:"Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Store (https://oceanwp.org/store)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 </channel>
 </rss>
