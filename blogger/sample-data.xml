@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.5" created="2017-06-03 04:23" -->
+<!-- generator="WordPress/4.9.4" created="2018-03-29 21:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Blogger</title>
 	<link>https://blogger.oceanwp.org</link>
-	<description>Just another WordPress site</description>
-	<pubDate>Sat, 03 Jun 2017 04:23:32 +0000</pubDate>
+	<description>WordPress Demo created with OceanWP</description>
+	<pubDate>Thu, 29 Mar 2018 21:36:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://blogger.oceanwp.org</wp:base_site_url>
@@ -226,7 +226,7 @@
 	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
 
 <image>
 	<url>https://blogger.oceanwp.org/wp-content/uploads/2016/11/cropped-favicon-32x32.png</url>
@@ -2245,7 +2245,7 @@
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<guid isPermaLink="false">https://oceanwp.org/blogger/?page_id=19</guid>
 		<description></description>
-		<content:encoded><![CDATA[[contact-form-7 id="131" title="Contact form"]]]></content:encoded>
+		<content:encoded><![CDATA[[contact-form-7 id="197" title="Contact Form"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2016-07-29 22:05:25]]></wp:post_date>
@@ -2274,6 +2274,70 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_second_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_center_header_left_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_custom_header_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[osh_disable_topbar_sticky]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[osh_disable_header_sticky]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3896,6 +3960,32 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>29</wp:comment_id>
+			<wp:comment_author><![CDATA[MyName]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[Email@required.co]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[108.210.152.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-10-04 18:26:01]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-10-04 18:26:01]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[And.......No place is ever as Good as they tell you it’s going to be.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1507141561.278332;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1507209647.267651;s:5:"event";s:15:"status-approved";s:4:"user";s:4:"Nick";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Pharetra auctor sem massa mattis sem</title>
@@ -4768,16 +4858,16 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:comment>
 	</item>
 	<item>
-		<title>Contact form</title>
-		<link>https://blogger.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=131</link>
-		<pubDate>Mon, 01 Aug 2016 12:50:49 +0000</pubDate>
+		<title>Contact Form</title>
+		<link>https://blogger.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=197</link>
+		<pubDate>Thu, 29 Mar 2018 21:36:33 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/blogger/?post_type=wpcf7_contact_form&#038;p=131</guid>
+		<guid isPermaLink="false">https://blogger.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=197</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div style="width: 840px;margin: 0 auto">
+		<content:encoded><![CDATA[<div style="width: 840px; margin: 0 auto;">
 <div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">Your Name <span style="color: #e05038">*</span><br />[text* your-name]</div>
-<div class="span_1_of_2 col clr">Your Email <span style="color: #e05038">*</span><br />[email* your-email]</div>
+<div class="span_1_of_2 col col-1 clr">Your Name <span style="color: #e05038;">*</span><br />[text* your-name]</div>
+<div class="span_1_of_2 col clr">Your Email <span style="color: #e05038;">*</span><br />[email* your-email]</div>
 </div>
 
 <p>Subject<br />[text your-subject]</p>
@@ -4788,30 +4878,30 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 </div>
 1
 Blogger "[your-subject]"
-[your-name] 
+[your-name] <wordpress@blogger.oceanwp.org>
 support@contact.com
-From: [your-name] 
+From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
---
-This e-mail was sent from a contact form on Blogger (https://oceanwpe.org/blogger)
+-- 
+This e-mail was sent from a contact form on Blogger (https://blogger.oceanwp.org)
 Reply-To: [your-email]
 
 
 
 
 Blogger "[your-subject]"
-Blogger 
+Blogger <wordpress@blogger.oceanwp.org>
 [your-email]
 Message Body:
 [your-message]
 
---
-This e-mail was sent from a contact form on Blogger (https://oceanwp.org/blogger)
-Reply-To: plutontheme@gmail.com
+-- 
+This e-mail was sent from a contact form on Blogger (https://blogger.oceanwp.org)
+Reply-To: oceanwptheme@gmail.com
 
 
 
@@ -4839,12 +4929,12 @@ The e-mail address entered is invalid.
 The URL is invalid.
 The telephone number is invalid.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>131</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-01 12:50:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-01 12:50:49]]></wp:post_date_gmt>
+		<wp:post_id>197</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-29 21:36:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-29 21:36:33]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1-2]]></wp:post_name>
+		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -4868,22 +4958,22 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:173:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:43:"[your-name] <wordpress@blogger.oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:173:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
---
-This e-mail was sent from a contact form on Blogger (https://oceanwpe.org/blogger)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+-- 
+This e-mail was sent from a contact form on Blogger (https://blogger.oceanwp.org)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:32:"Blogger <wordpress@plutonwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:114:"Message Body:
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:24:"Blogger "[your-subject]"";s:6:"sender";s:39:"Blogger <wordpress@blogger.oceanwp.org>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:115:"Message Body:
 [your-message]
 
---
-This e-mail was sent from a contact form on Blogger (https://oceanwp.org/blogger)";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+-- 
+This e-mail was sent from a contact form on Blogger (https://blogger.oceanwp.org)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
