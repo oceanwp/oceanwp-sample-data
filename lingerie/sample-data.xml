@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.6" created="2018-06-06 19:11" -->
+<!-- generator="WordPress/4.9.8" created="2018-09-05 18:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Lingerie</title>
 	<link>https://lingerie.oceanwp.org</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 06 Jun 2018 19:11:39 +0000</pubDate>
+	<pubDate>Wed, 05 Sep 2018 18:13:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://lingerie.oceanwp.org</wp:base_site_url>
@@ -333,7 +333,7 @@
 	<wp:term><wp:term_id>29</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
 	<url>https://lingerie.oceanwp.org/wp-content/uploads/2016/11/cropped-favicon-150x150.png</url>
@@ -3563,90 +3563,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Sociosqu ad litora torquent</title>
-		<link>https://lingerie.oceanwp.org/sociosqu-ad-litora-torquent/</link>
-		<pubDate>Sun, 24 Apr 2016 17:04:34 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/underwear/class-aptent-taciti-sociosqu-copy-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
-Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.
-
-Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.
-<h3>Vestibulum lacinia arcu</h3>
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.
-<blockquote>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</blockquote>
-Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 17:04:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 17:04:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sociosqu-ad-litora-torquent]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy-2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[285]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[self]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Blog</title>
 		<link>https://lingerie.oceanwp.org/blog/</link>
 		<pubDate>Sun, 24 Apr 2016 17:13:45 +0000</pubDate>
@@ -3762,29 +3678,29 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<guid isPermaLink="false">https://oceanwp.org/underwear/?page_id=161</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3>
-                    Drop Us A Line
-                </h3>
-                <p>Integer nec odio praesent libero sed cursus<br>
+					Drop Us A Line
+				</h3>
+				<p>Integer nec odio praesent libero sed cursus<br>
 ante dapibus diam nisi.
 <br>
 contact@store-shop.com</p>
-                <h3>
-                    Commercial
-                </h3>
-                <p>Integer nec odio praesent libero sed cursus<br>
+				<h3>
+					Commercial
+				</h3>
+				<p>Integer nec odio praesent libero sed cursus<br>
 ante dapibus diam nisi.
 <br>
 commercial@store-shop.com</p>
-                <h3>
-                    Visit Our Office
-                </h3>
-                <p>Integer nec odio praesent libero sed cursus<br>
+				<h3>
+					Visit Our Office
+				</h3>
+				<p>Integer nec odio praesent libero sed cursus<br>
 ante dapibus diam nisi.
 <br>
 (+55) 587 475 348</p>
 			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=New%20York&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" aria-label="New York"></iframe>		
 			<h2>Leave a message</h2>		
-		[contact-form-7 id="356" title="Contact form"]]]></content:encoded>
+			<form id="wpforms-form-358" data-formid="358" method="post" enctype="multipart/form-data" action="/wp-admin/admin-ajax.php"><label for="wpforms-358-field_0">Your Name *</label><input type="text" id="wpforms-358-field_0" name="wpforms[fields][0]" placeholder="Your Name" required><label for="wpforms-358-field_3">Last Name *</label><input type="text" id="wpforms-358-field_3" name="wpforms[fields][3]" placeholder="Last Name" required><label for="wpforms-358-field_4">Your Website</label><input type="text" id="wpforms-358-field_4" name="wpforms[fields][4]" placeholder="Your Website" ><label for="wpforms-358-field_1">Your Email *</label><input type="email" id="wpforms-358-field_1" name="wpforms[fields][1]" placeholder="Your Email" required><label for="wpforms-358-field_2">Your Message *</label><textarea id="wpforms-358-field_2" name="wpforms[fields][2]" placeholder="Your Message" required></textarea><label for="wpforms-field_hp">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-field_hp"><input type="hidden" name="wpforms[id]" value="358"><input type="hidden" name="wpforms[author]" value="1"><button type="submit" name="wpforms[submit]" id="wpforms-submit-358" value="wpforms-submit" data-alt-text="Sending...">Send Message</button></form>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2016-04-27 20:20:40]]></wp:post_date>
@@ -3840,7 +3756,7 @@ ante dapibus diam nisi.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"xr8fd0e","elType":"section","settings":{"section_layout":"","structure":"30","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"6d654sk","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"ur9mlcr","elType":"widget","settings":{"section_icon":"","view":"stacked","icon":"fa fa-pencil","title_text":"Drop Us A Line","description_text":"Integer nec odio praesent libero sed cursus<br>\nante dapibus diam nisi.\n<br>\n<span style=\"display: block; margin-top: 10px; color: #ff4a96\">contact@store-shop.com<\/span>","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#212121","icon_space":{"unit":"px","size":"20"},"icon_size":{"unit":"px","size":"40"},"icon_padding":{"unit":"px","size":"33"},"section_hover":"","hover_primary_color":"#ff4a96","section_style_content":"","heading_title":"","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"heading_description":"","description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"tp2b86y","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"3kz0ib1","elType":"widget","settings":{"section_icon":"","view":"stacked","title_text":"Commercial","description_text":"Integer nec odio praesent libero sed cursus<br>\nante dapibus diam nisi.\n<br>\n<span style=\"display: block; margin-top: 10px; color: #ff4a96\">commercial@store-shop.com<\/span>","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#212121","icon_space":{"unit":"px","size":"20"},"icon_size":{"unit":"px","size":"40"},"icon_padding":{"unit":"px","size":"33"},"section_hover":"","hover_primary_color":"#ff4a96","section_style_content":"","heading_title":"","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"heading_description":"","description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"ltxrqz4","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"prypn2m","elType":"widget","settings":{"section_icon":"","view":"stacked","icon":"fa fa-map-marker","title_text":"Visit Our Office","description_text":"Integer nec odio praesent libero sed cursus<br>\nante dapibus diam nisi.\n<br>\n<span style=\"display: block; margin-top: 10px; color: #ff4a96\">(+55) 587 475 348<\/span>","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#212121","icon_space":{"unit":"px","size":"20"},"icon_size":{"unit":"px","size":"40"},"icon_padding":{"unit":"px","size":"33"},"section_hover":"","hover_primary_color":"#ff4a96","section_style_content":"","heading_title":"","title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"heading_description":"","description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"y4ibx6t","elType":"section","settings":{"section_layout":"","layout":"full_width","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"w6cg0wk","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"iy2wy75","elType":"widget","settings":{"section_map":"","address":"New York","height":{"unit":"px","size":"400"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"o234arb","elType":"section","settings":{"section_layout":"","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"70","right":"0","bottom":"70","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"dkj2n7j","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"tm5wrcy","elType":"widget","settings":{"section_title":"","title":"Leave a message","link":{"is_external":"","url":""},"section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":"24"},"typography_text_transform":"uppercase","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"heading"},{"id":"ifhn8de","elType":"widget","settings":{"section_shortcode":"","shortcode":"[contact-form-7 id=\"356\" title=\"Contact form\"]","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[{"id":"xr8fd0e","elType":"section","settings":{"section_layout":"","structure":"30","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"6d654sk","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"ur9mlcr","elType":"widget","settings":{"section_icon":"","view":"stacked","icon":"fa fa-pencil","title_text":"Drop Us A Line","description_text":"Integer nec odio praesent libero sed cursus<br>\nante dapibus diam nisi.\n<br>\n<span style=\"display: block; margin-top: 10px; color: #ff4a96\">contact@store-shop.com<\/span>","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#212121","icon_space":{"unit":"px","size":"20"},"icon_size":{"unit":"px","size":"40"},"icon_padding":{"unit":"px","size":"33"},"section_hover":"","hover_primary_color":"#ff4a96","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"tp2b86y","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"3kz0ib1","elType":"widget","settings":{"section_icon":"","view":"stacked","title_text":"Commercial","description_text":"Integer nec odio praesent libero sed cursus<br>\nante dapibus diam nisi.\n<br>\n<span style=\"display: block; margin-top: 10px; color: #ff4a96\">commercial@store-shop.com<\/span>","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#212121","icon_space":{"unit":"px","size":"20"},"icon_size":{"unit":"px","size":"40"},"icon_padding":{"unit":"px","size":"33"},"section_hover":"","hover_primary_color":"#ff4a96","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"ltxrqz4","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"prypn2m","elType":"widget","settings":{"section_icon":"","view":"stacked","icon":"fa fa-map-marker","title_text":"Visit Our Office","description_text":"Integer nec odio praesent libero sed cursus<br>\nante dapibus diam nisi.\n<br>\n<span style=\"display: block; margin-top: 10px; color: #ff4a96\">(+55) 587 475 348<\/span>","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#212121","icon_space":{"unit":"px","size":"20"},"icon_size":{"unit":"px","size":"40"},"icon_padding":{"unit":"px","size":"33"},"section_hover":"","hover_primary_color":"#ff4a96","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"y4ibx6t","elType":"section","settings":{"section_layout":"","layout":"full_width","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"w6cg0wk","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"iy2wy75","elType":"widget","settings":{"section_map":"","address":"New York","height":{"unit":"px","size":"400"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"o234arb","elType":"section","settings":{"section_layout":"","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"70","right":"0","bottom":"70","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"dkj2n7j","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"tm5wrcy","elType":"widget","settings":{"section_title":"","title":"Leave a message","link":{"is_external":"","url":""},"section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":"24"},"typography_text_transform":"uppercase","_section_style":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"heading"},{"id":"01723dd","elType":"widget","settings":{"form":"358","hide_form_title_description":"yes","inputs_typo_typography":"custom","inputs_typo_font_size":{"unit":"px","size":15},"button_background_background":"classic","button_background_color":"#ff4a96","button_color":"#ffffff","button_hover_background_background":"classic","button_hover_background_color":"#ff64a5","button_typo_typography":"custom","button_typo_font_size":{"unit":"px","size":12},"button_typo_text_transform":"uppercase","button_typo_letter_spacing":{"unit":"px","size":1},"button_padding":{"unit":"px","top":"15","right":"25","bottom":"15","left":"25","isLinked":false}},"elements":[],"widgetType":"oew-wpforms"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -4841,6 +4757,112 @@ ante dapibus diam nisi.
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>WPForms Preview</title>
+		<link>https://lingerie.oceanwp.org/wpforms-preview/</link>
+		<pubDate>Wed, 05 Sep 2018 17:25:19 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://lingerie.oceanwp.org/wpforms-preview/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>This is the WPForms preview page. All your form previews will be handled on this page.</p><p>The page is set to private, so it is not publicly accessible. Please do not delete this page :) .</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>357</wp:post_id>
+		<wp:post_date><![CDATA[2018-09-05 17:25:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-09-05 17:25:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpforms-preview]]></wp:post_name>
+		<wp:status><![CDATA[private]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>Sociosqu ad litora torquent</title>
+		<link>https://lingerie.oceanwp.org/sociosqu-ad-litora-torquent/</link>
+		<pubDate>Sun, 24 Apr 2016 17:04:34 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/underwear/class-aptent-taciti-sociosqu-copy-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.
+
+Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.
+<h3>Vestibulum lacinia arcu</h3>
+Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.
+<blockquote>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</blockquote>
+Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 17:04:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 17:04:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sociosqu-ad-litora-torquent]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[class-aptent-taciti-sociosqu-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[285]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_link_format_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[self]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_quote_format_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -7421,230 +7443,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:comment>
 	</item>
 	<item>
-		<title>Order &#8211; November 3, 2017 @ 09:15 AM</title>
-		<link>https://lingerie.oceanwp.org/?post_type=shop_order&#038;p=347</link>
-		<pubDate>Fri, 03 Nov 2017 09:15:59 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://lingerie.oceanwp.org/?post_type=shop_order&#038;p=347</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>347</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-03 09:15:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-11-03 09:15:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[order-nov-03-2017-0915-am]]></wp:post_name>
-		<wp:status><![CDATA[wc-on-hold]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
-		<wp:post_password><![CDATA[order_59fc33cf7e87d]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
-			<wp:meta_value><![CDATA[wc_order_59fc33cf7e7a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
-			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Check payments]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_transaction_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
-			<wp:meta_value><![CDATA[117.96.226.155]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[mozilla/5.0 (macintosh; intel mac os x 10_12_6) applewebkit/604.1.38 (khtml, like gecko) version/11.0 safari/604.1.38]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
-			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_date_completed]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_completed_date]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_date_paid]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_paid_date]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
-			<wp:meta_value><![CDATA[955b0c6f1732b826ec09d5d6bcff5df5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[R]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[A]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
-			<wp:meta_value><![CDATA[sjadgja,]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
-			<wp:meta_value><![CDATA[nxbnm]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
-			<wp:meta_value><![CDATA[DL]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
-			<wp:meta_value><![CDATA[000000]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
-			<wp:meta_value><![CDATA[IN]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
-			<wp:meta_value><![CDATA[gemini.richa5@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
-			<wp:meta_value><![CDATA[9958819411]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[R]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[A]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
-			<wp:meta_value><![CDATA[sjadgja,]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
-			<wp:meta_value><![CDATA[nxbnm]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
-			<wp:meta_value><![CDATA[DL]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
-			<wp:meta_value><![CDATA[000000]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
-			<wp:meta_value><![CDATA[IN]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
-			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
-			<wp:meta_value><![CDATA[33.90]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.2.3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_billing_address_index]]></wp:meta_key>
-			<wp:meta_value><![CDATA[R A  sjadgja,  nxbnm DL 000000 IN gemini.richa5@gmail.com 9958819411]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_shipping_address_index]]></wp:meta_key>
-			<wp:meta_value><![CDATA[R A  sjadgja,  nxbnm DL 000000 IN]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_recorded_coupon_usage_counts]]></wp:meta_key>
-			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
-			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>9</wp:comment_id>
-			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[woocommerce@lingerie.oceanwp.org]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2017-11-03 09:15:59]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2017-11-03 09:15:59]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Awaiting check payment Order status changed from Pending payment to On hold.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
 		<title>Order &#8211; November 7, 2017 @ 07:51 PM</title>
 		<link>https://lingerie.oceanwp.org/?post_type=shop_order&#038;p=348</link>
 		<pubDate>Tue, 07 Nov 2017 19:51:16 +0000</pubDate>
@@ -8281,131 +8079,228 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:comment>
 	</item>
 	<item>
-		<title>Contact form</title>
-		<link>https://lingerie.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=356</link>
-		<pubDate>Thu, 29 Mar 2018 21:41:05 +0000</pubDate>
+		<title>Order &#8211; November 3, 2017 @ 09:15 AM</title>
+		<link>https://lingerie.oceanwp.org/?post_type=shop_order&#038;p=347</link>
+		<pubDate>Fri, 03 Nov 2017 09:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://lingerie.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=356</guid>
+		<guid isPermaLink="false">https://lingerie.oceanwp.org/?post_type=shop_order&#038;p=347</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Email Address"]</div>
-<div class="span_1_of_2 col clr">[url url-906 placeholder "Your Website"]</div>
-<div class="span_1_of_2 col clr">[text your-subject placeholder "Subject"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="margin: 0;">[submit "Send Message"]</p>
-1
-Lingerie "[your-subject]"
-[your-name] <wordpress@lingerie.oceanwp.org>
-support@contact.com
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Lingerie (https://lingerie.oceanwp.org)
-Reply-To: [your-email]
-
-
-
-
-Lingerie "[your-subject]"
-Lingerie <wordpress@lingerie.oceanwp.org>
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Lingerie (https://lingerie.oceanwp.org)
-Reply-To: oceanwptheme@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>356</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-29 21:41:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-29 21:41:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>347</wp:post_id>
+		<wp:post_date><![CDATA[2017-11-03 09:15:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-11-03 09:15:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[order-nov-03-2017-0915-am]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_59fc33cf7e87d]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Email Address"]</div>
-<div class="span_1_of_2 col clr">[url url-906 placeholder "Your Website"]</div>
-<div class="span_1_of_2 col clr">[text your-subject placeholder "Subject"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="margin: 0;">[submit "Send Message"]</p>]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_59fc33cf7e7a2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:25:"Lingerie "[your-subject]"";s:6:"sender";s:44:"[your-name] <wordpress@lingerie.oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:175:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Lingerie (https://lingerie.oceanwp.org)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"Lingerie "[your-subject]"";s:6:"sender";s:41:"Lingerie <wordpress@lingerie.oceanwp.org>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:117:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Lingerie (https://lingerie.oceanwp.org)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Check payments]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_transaction_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[117.96.226.155]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[mozilla/5.0 (macintosh; intel mac os x 10_12_6) applewebkit/604.1.38 (khtml, like gecko) version/11.0 safari/604.1.38]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_completed]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_completed_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_date_paid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_paid_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[955b0c6f1732b826ec09d5d6bcff5df5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[R]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[A]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sjadgja,]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[nxbnm]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[DL]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[000000]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[gemini.richa5@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9958819411]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[R]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[A]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sjadgja,]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[nxbnm]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[DL]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[000000]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[33.90]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3.2.3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[R A  sjadgja,  nxbnm DL 000000 IN gemini.richa5@gmail.com 9958819411]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_index]]></wp:meta_key>
+			<wp:meta_value><![CDATA[R A  sjadgja,  nxbnm DL 000000 IN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_coupon_usage_counts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>9</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@lingerie.oceanwp.org]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-11-03 09:15:59]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-11-03 09:15:59]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting check payment Order status changed from Pending payment to On hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
 	</item>
 </channel>
 </rss>

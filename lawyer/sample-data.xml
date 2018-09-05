@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.5" created="2017-06-03 04:24" -->
+<!-- generator="WordPress/4.9.8" created="2018-09-05 18:25" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Lawyer</title>
 	<link>https://lawyer.oceanwp.org</link>
-	<description>Just another WordPress site</description>
-	<pubDate>Sat, 03 Jun 2017 04:24:02 +0000</pubDate>
+	<description>WordPress Demo created with OceanWP</description>
+	<pubDate>Wed, 05 Sep 2018 18:25:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://lawyer.oceanwp.org</wp:base_site_url>
@@ -71,7 +71,7 @@
 	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
 	<url>https://lawyer.oceanwp.org/wp-content/uploads/2016/11/cropped-favicon-32x32.png</url>
@@ -1383,6 +1383,10 @@ div.wpcf7 img.ajax-loader { display: block; }
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_54d111720f5248e66a3d586043f89833]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3274,8 +3278,7 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?page_id=354</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-					
+		<content:encoded><![CDATA[<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=New%20York&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" aria-label="New York"></iframe>		
 				<h3>
 				</h3>
 				<p>Street Name, FL 54785
@@ -3291,7 +3294,7 @@ United States of America</p>
 				<p>Monday-Friday: 8am to 6pm
 <br>
 Saturday: 9am to 12am</p>
-		[contact-form-7 id="435" title="Contact form 1"]]]></content:encoded>
+			<form id="wpforms-form-664" data-formid="664" method="post" enctype="multipart/form-data" action="/wp-admin/admin-ajax.php"><label for="wpforms-664-field_0">First Name *</label><input type="text" id="wpforms-664-field_0" name="wpforms[fields][0]" placeholder="First Name" required><label for="wpforms-664-field_3">Last Name *</label><input type="text" id="wpforms-664-field_3" name="wpforms[fields][3]" placeholder="Last Name" required><label for="wpforms-664-field_1">Your Email *</label><input type="email" id="wpforms-664-field_1" name="wpforms[fields][1]" placeholder="Your Email" required><label for="wpforms-664-field_4">Your Phone</label><input type="text" id="wpforms-664-field_4" name="wpforms[fields][4]" placeholder="Your Phone" ><label for="wpforms-664-field_5">Your Subject</label><input type="text" id="wpforms-664-field_5" name="wpforms[fields][5]" placeholder="Your Subject" ><label for="wpforms-664-field_2">Your Message *</label><textarea id="wpforms-664-field_2" name="wpforms[fields][2]" placeholder="Your Message" required></textarea><label for="wpforms-field_hp">Email</label><input type="text" name="wpforms[hp]" id="wpforms-field_hp"><input type="hidden" name="wpforms[id]" value="664"><input type="hidden" name="wpforms[author]" value="1"><button type="submit" name="wpforms[submit]" id="wpforms-submit-664" value="wpforms-submit" data-alt-text="Sending...">Send Your Message</button></form>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>354</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-03 17:58:44]]></wp:post_date>
@@ -3327,7 +3330,7 @@ Saturday: 9am to 12am</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"hlt93es","elType":"section","settings":{"section_layout":"","stretch_section":"","layout":"full_width","content_width":{"unit":"px","size":""},"gap":"default","height":"default","custom_height":{"unit":"px","size":400},"column_position":"middle","content_position":"","structure":"10","section_background":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"background_overlay_section":"","background_overlay_background":"","background_overlay_color":"","background_overlay_image":{"url":"","id":""},"background_overlay_position":"","background_overlay_attachment":"","background_overlay_repeat":"","background_overlay_size":"","background_overlay_video_link":"","background_overlay_video_fallback":{"url":"","id":""},"background_overlay_opacity":{"unit":"px","size":0.5},"section_border":"","border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","_section_responsive":"","reverse_order_mobile":"","heading_visibility":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[{"id":"e9sgetw","elType":"column","settings":{"_inline_size":"","_column_size":100,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"zhkzbdk","elType":"widget","settings":{"section_map":"","address":"New York","zoom":{"unit":"px","size":10},"height":{"unit":"px","size":"450"},"prevent_scroll":"yes","view":"traditional","_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"lh8ypsj","elType":"section","settings":{"section_layout":"","stretch_section":"","layout":"boxed","content_width":{"unit":"px","size":""},"gap":"default","height":"default","custom_height":{"unit":"px","size":400},"column_position":"middle","content_position":"","structure":"30","section_background":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"background_overlay_section":"","background_overlay_background":"","background_overlay_color":"","background_overlay_image":{"url":"","id":""},"background_overlay_position":"","background_overlay_attachment":"","background_overlay_repeat":"","background_overlay_size":"","background_overlay_video_link":"","background_overlay_video_fallback":{"url":"","id":""},"background_overlay_opacity":{"unit":"px","size":0.5},"section_border":"","border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","_section_responsive":"","reverse_order_mobile":"","heading_visibility":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[{"id":"h3u9tf3","elType":"column","settings":{"_inline_size":null,"_column_size":33,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"l1pycqz","elType":"widget","settings":{"section_icon":"","view":"default","icon":"fa fa-map-marker","shape":"circle","title_text":"","description_text":"Street Name, FL 54785\n<br>\nUnited States of America","link":{"is_external":"","url":""},"position":"top","title_size":"h3","section_style_icon":"","primary_color":"#cca876","secondary_color":"","icon_space":{"unit":"px","size":"8"},"icon_size":{"unit":"px","size":""},"icon_padding":{"unit":"px","size":""},"rotate":{"unit":"deg","size":0},"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"section_hover":"","hover_primary_color":"","hover_secondary_color":"","hover_animation":"","section_style_content":"","text_align":"","text_align_tablet":"","text_align_mobile":"","content_vertical_alignment":"top","heading_title":"","title_bottom_space":{"unit":"px","size":""},"title_bottom_space_tablet":{"unit":"px","size":""},"title_bottom_space_mobile":{"unit":"px","size":""},"title_color":"","title_typography_typography":"","title_typography_font_size":{"unit":"px","size":""},"title_typography_font_size_tablet":{"unit":"px","size":""},"title_typography_font_size_mobile":{"unit":"px","size":""},"title_typography_font_family":"","title_typography_font_weight":"","title_typography_text_transform":"","title_typography_font_style":"","title_typography_line_height":{"unit":"em","size":""},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":""},"title_typography_letter_spacing_tablet":{"unit":"px","size":""},"title_typography_letter_spacing_mobile":{"unit":"px","size":""},"heading_description":"","description_color":"","description_typography_typography":"","description_typography_font_size":{"unit":"px","size":""},"description_typography_font_size_tablet":{"unit":"px","size":""},"description_typography_font_size_mobile":{"unit":"px","size":""},"description_typography_font_family":"","description_typography_font_weight":"","description_typography_text_transform":"","description_typography_font_style":"","description_typography_line_height":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_letter_spacing":{"unit":"px","size":""},"description_typography_letter_spacing_tablet":{"unit":"px","size":""},"description_typography_letter_spacing_mobile":{"unit":"px","size":""},"_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"re222k6","elType":"column","settings":{"_inline_size":null,"_column_size":33,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"y6efdo4","elType":"widget","settings":{"section_icon":"","view":"default","icon":"fa fa-phone","shape":"circle","title_text":"","description_text":"555-452-3014\n<br>\n621-254-2147","link":{"is_external":"","url":""},"position":"top","title_size":"h3","section_style_icon":"","primary_color":"#cca876","secondary_color":"","icon_space":{"unit":"px","size":"8"},"icon_size":{"unit":"px","size":""},"icon_padding":{"unit":"px","size":""},"rotate":{"unit":"deg","size":0},"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"section_hover":"","hover_primary_color":"","hover_secondary_color":"","hover_animation":"","section_style_content":"","text_align":"","text_align_tablet":"","text_align_mobile":"","content_vertical_alignment":"top","heading_title":"","title_bottom_space":{"unit":"px","size":""},"title_bottom_space_tablet":{"unit":"px","size":""},"title_bottom_space_mobile":{"unit":"px","size":""},"title_color":"","title_typography_typography":"","title_typography_font_size":{"unit":"px","size":""},"title_typography_font_size_tablet":{"unit":"px","size":""},"title_typography_font_size_mobile":{"unit":"px","size":""},"title_typography_font_family":"","title_typography_font_weight":"","title_typography_text_transform":"","title_typography_font_style":"","title_typography_line_height":{"unit":"em","size":""},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":""},"title_typography_letter_spacing_tablet":{"unit":"px","size":""},"title_typography_letter_spacing_mobile":{"unit":"px","size":""},"heading_description":"","description_color":"","description_typography_typography":"","description_typography_font_size":{"unit":"px","size":""},"description_typography_font_size_tablet":{"unit":"px","size":""},"description_typography_font_size_mobile":{"unit":"px","size":""},"description_typography_font_family":"","description_typography_font_weight":"","description_typography_text_transform":"","description_typography_font_style":"","description_typography_line_height":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_letter_spacing":{"unit":"px","size":""},"description_typography_letter_spacing_tablet":{"unit":"px","size":""},"description_typography_letter_spacing_mobile":{"unit":"px","size":""},"_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"up4gpqk","elType":"column","settings":{"_inline_size":null,"_column_size":33,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"hdgm6hk","elType":"widget","settings":{"section_icon":"","view":"default","icon":"fa fa-clock-o","shape":"circle","title_text":"","description_text":"Monday-Friday: 8am to 6pm\n<br>\nSaturday: 9am to 12am","link":{"is_external":"","url":""},"position":"top","title_size":"h3","section_style_icon":"","primary_color":"#cca876","secondary_color":"","icon_space":{"unit":"px","size":"8"},"icon_size":{"unit":"px","size":""},"icon_padding":{"unit":"px","size":""},"rotate":{"unit":"deg","size":0},"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"section_hover":"","hover_primary_color":"","hover_secondary_color":"","hover_animation":"","section_style_content":"","text_align":"","text_align_tablet":"","text_align_mobile":"","content_vertical_alignment":"top","heading_title":"","title_bottom_space":{"unit":"px","size":""},"title_bottom_space_tablet":{"unit":"px","size":""},"title_bottom_space_mobile":{"unit":"px","size":""},"title_color":"","title_typography_typography":"","title_typography_font_size":{"unit":"px","size":""},"title_typography_font_size_tablet":{"unit":"px","size":""},"title_typography_font_size_mobile":{"unit":"px","size":""},"title_typography_font_family":"","title_typography_font_weight":"","title_typography_text_transform":"","title_typography_font_style":"","title_typography_line_height":{"unit":"em","size":""},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":""},"title_typography_letter_spacing_tablet":{"unit":"px","size":""},"title_typography_letter_spacing_mobile":{"unit":"px","size":""},"heading_description":"","description_color":"","description_typography_typography":"","description_typography_font_size":{"unit":"px","size":""},"description_typography_font_size_tablet":{"unit":"px","size":""},"description_typography_font_size_mobile":{"unit":"px","size":""},"description_typography_font_family":"","description_typography_font_weight":"","description_typography_text_transform":"","description_typography_font_style":"","description_typography_line_height":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_letter_spacing":{"unit":"px","size":""},"description_typography_letter_spacing_tablet":{"unit":"px","size":""},"description_typography_letter_spacing_mobile":{"unit":"px","size":""},"_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"pb273dg","elType":"section","settings":{"section_layout":"","stretch_section":"","layout":"boxed","content_width":{"unit":"px","size":""},"gap":"default","height":"default","custom_height":{"unit":"px","size":400},"column_position":"middle","content_position":"","structure":"10","section_background":"","background_background":"classic","background_color":"#f5f5f5","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"background_overlay_section":"","background_overlay_background":"","background_overlay_color":"","background_overlay_image":{"url":"","id":""},"background_overlay_position":"","background_overlay_attachment":"","background_overlay_repeat":"","background_overlay_size":"","background_overlay_video_link":"","background_overlay_video_fallback":{"url":"","id":""},"background_overlay_opacity":{"unit":"px","size":0.5},"section_border":"","border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"50","right":"0","bottom":"34","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","_section_responsive":"","reverse_order_mobile":"","heading_visibility":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[{"id":"4jv80hw","elType":"column","settings":{"_inline_size":"","_column_size":100,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"dqqqjal","elType":"widget","settings":{"section_shortcode":"","shortcode":"[contact-form-7 id=\"435\" title=\"Contact form 1\"]","_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[{"id":"hlt93es","elType":"section","settings":{"section_layout":"","layout":"full_width","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"e9sgetw","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"zhkzbdk","elType":"widget","settings":{"section_map":"","address":"New York","height":{"unit":"px","size":"450"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"lh8ypsj","elType":"section","settings":{"section_layout":"","structure":"30","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"h3u9tf3","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"l1pycqz","elType":"widget","settings":{"section_icon":"","icon":"fa fa-map-marker","title_text":"","description_text":"Street Name, FL 54785\n<br>\nUnited States of America","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#cca876","icon_space":{"unit":"px","size":"8"},"section_hover":"","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"re222k6","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"y6efdo4","elType":"widget","settings":{"section_icon":"","icon":"fa fa-phone","title_text":"","description_text":"555-452-3014\n<br>\n621-254-2147","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#cca876","icon_space":{"unit":"px","size":"8"},"section_hover":"","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"up4gpqk","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"hdgm6hk","elType":"widget","settings":{"section_icon":"","icon":"fa fa-clock-o","title_text":"","description_text":"Monday-Friday: 8am to 6pm\n<br>\nSaturday: 9am to 12am","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#cca876","icon_space":{"unit":"px","size":"8"},"section_hover":"","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"pb273dg","elType":"section","settings":{"section_layout":"","section_background":"","background_background":"classic","background_color":"#f5f5f5","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"50","right":"0","bottom":"34","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"4jv80hw","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"ad802d3","elType":"widget","settings":{"form":"664","hide_form_title_description":"yes","inputs_background_background":"classic","inputs_background_color":"#ffffff","inputs_focus_border_color":"#e0e0e0","inputs_typo_typography":"custom","inputs_typo_font_size":{"unit":"px","size":15},"inputs_border_border":"solid","inputs_border_width":{"unit":"px","top":"1","right":"1","bottom":"4","left":"1","isLinked":false},"inputs_border_color":"#ededed","button_background_background":"classic","button_background_color":"#cca876","button_color":"#ffffff","button_hover_background_background":"classic","button_hover_background_color":"#92754c","button_typo_typography":"custom","button_typo_font_size":{"unit":"px","size":12},"button_typo_text_transform":"uppercase","button_typo_letter_spacing":{"unit":"px","size":1},"button_padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},"button_fullwidth":"block"},"elements":[],"widgetType":"oew-wpforms"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -3355,7 +3358,7 @@ Saturday: 9am to 12am</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"hlt93es","elType":"section","settings":{"section_layout":"","stretch_section":"","layout":"full_width","content_width":{"unit":"px","size":""},"gap":"default","height":"default","custom_height":{"unit":"px","size":400},"column_position":"middle","content_position":"","structure":"10","section_background":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"background_overlay_section":"","background_overlay_background":"","background_overlay_color":"","background_overlay_image":{"url":"","id":""},"background_overlay_position":"","background_overlay_attachment":"","background_overlay_repeat":"","background_overlay_size":"","background_overlay_video_link":"","background_overlay_video_fallback":{"url":"","id":""},"background_overlay_opacity":{"unit":"px","size":0.5},"section_border":"","border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","_section_responsive":"","reverse_order_mobile":"","heading_visibility":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[{"id":"e9sgetw","elType":"column","settings":{"_inline_size":"","_column_size":100,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"zhkzbdk","elType":"widget","settings":{"section_map":"","address":"New York","zoom":{"unit":"px","size":10},"height":{"unit":"px","size":"450"},"prevent_scroll":"yes","view":"traditional","_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"lh8ypsj","elType":"section","settings":{"section_layout":"","stretch_section":"","layout":"boxed","content_width":{"unit":"px","size":""},"gap":"default","height":"default","custom_height":{"unit":"px","size":400},"column_position":"middle","content_position":"","structure":"30","section_background":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"background_overlay_section":"","background_overlay_background":"","background_overlay_color":"","background_overlay_image":{"url":"","id":""},"background_overlay_position":"","background_overlay_attachment":"","background_overlay_repeat":"","background_overlay_size":"","background_overlay_video_link":"","background_overlay_video_fallback":{"url":"","id":""},"background_overlay_opacity":{"unit":"px","size":0.5},"section_border":"","border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","_section_responsive":"","reverse_order_mobile":"","heading_visibility":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[{"id":"h3u9tf3","elType":"column","settings":{"_inline_size":null,"_column_size":33,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"l1pycqz","elType":"widget","settings":{"section_icon":"","view":"default","icon":"fa fa-map-marker","shape":"circle","title_text":"","description_text":"Street Name, FL 54785\n<br>\nUnited States of America","link":{"is_external":"","url":""},"position":"top","title_size":"h3","section_style_icon":"","primary_color":"#cca876","secondary_color":"","icon_space":{"unit":"px","size":"8"},"icon_size":{"unit":"px","size":""},"icon_padding":{"unit":"px","size":""},"rotate":{"unit":"deg","size":0},"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"section_hover":"","hover_primary_color":"","hover_secondary_color":"","hover_animation":"","section_style_content":"","text_align":"","text_align_tablet":"","text_align_mobile":"","content_vertical_alignment":"top","heading_title":"","title_bottom_space":{"unit":"px","size":""},"title_bottom_space_tablet":{"unit":"px","size":""},"title_bottom_space_mobile":{"unit":"px","size":""},"title_color":"","title_typography_typography":"","title_typography_font_size":{"unit":"px","size":""},"title_typography_font_size_tablet":{"unit":"px","size":""},"title_typography_font_size_mobile":{"unit":"px","size":""},"title_typography_font_family":"","title_typography_font_weight":"","title_typography_text_transform":"","title_typography_font_style":"","title_typography_line_height":{"unit":"em","size":""},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":""},"title_typography_letter_spacing_tablet":{"unit":"px","size":""},"title_typography_letter_spacing_mobile":{"unit":"px","size":""},"heading_description":"","description_color":"","description_typography_typography":"","description_typography_font_size":{"unit":"px","size":""},"description_typography_font_size_tablet":{"unit":"px","size":""},"description_typography_font_size_mobile":{"unit":"px","size":""},"description_typography_font_family":"","description_typography_font_weight":"","description_typography_text_transform":"","description_typography_font_style":"","description_typography_line_height":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_letter_spacing":{"unit":"px","size":""},"description_typography_letter_spacing_tablet":{"unit":"px","size":""},"description_typography_letter_spacing_mobile":{"unit":"px","size":""},"_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"re222k6","elType":"column","settings":{"_inline_size":null,"_column_size":33,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"y6efdo4","elType":"widget","settings":{"section_icon":"","view":"default","icon":"fa fa-phone","shape":"circle","title_text":"","description_text":"555-452-3014\n<br>\n621-254-2147","link":{"is_external":"","url":""},"position":"top","title_size":"h3","section_style_icon":"","primary_color":"#cca876","secondary_color":"","icon_space":{"unit":"px","size":"8"},"icon_size":{"unit":"px","size":""},"icon_padding":{"unit":"px","size":""},"rotate":{"unit":"deg","size":0},"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"section_hover":"","hover_primary_color":"","hover_secondary_color":"","hover_animation":"","section_style_content":"","text_align":"","text_align_tablet":"","text_align_mobile":"","content_vertical_alignment":"top","heading_title":"","title_bottom_space":{"unit":"px","size":""},"title_bottom_space_tablet":{"unit":"px","size":""},"title_bottom_space_mobile":{"unit":"px","size":""},"title_color":"","title_typography_typography":"","title_typography_font_size":{"unit":"px","size":""},"title_typography_font_size_tablet":{"unit":"px","size":""},"title_typography_font_size_mobile":{"unit":"px","size":""},"title_typography_font_family":"","title_typography_font_weight":"","title_typography_text_transform":"","title_typography_font_style":"","title_typography_line_height":{"unit":"em","size":""},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":""},"title_typography_letter_spacing_tablet":{"unit":"px","size":""},"title_typography_letter_spacing_mobile":{"unit":"px","size":""},"heading_description":"","description_color":"","description_typography_typography":"","description_typography_font_size":{"unit":"px","size":""},"description_typography_font_size_tablet":{"unit":"px","size":""},"description_typography_font_size_mobile":{"unit":"px","size":""},"description_typography_font_family":"","description_typography_font_weight":"","description_typography_text_transform":"","description_typography_font_style":"","description_typography_line_height":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_letter_spacing":{"unit":"px","size":""},"description_typography_letter_spacing_tablet":{"unit":"px","size":""},"description_typography_letter_spacing_mobile":{"unit":"px","size":""},"_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"up4gpqk","elType":"column","settings":{"_inline_size":null,"_column_size":33,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"hdgm6hk","elType":"widget","settings":{"section_icon":"","view":"default","icon":"fa fa-clock-o","shape":"circle","title_text":"","description_text":"Monday-Friday: 8am to 6pm\n<br>\nSaturday: 9am to 12am","link":{"is_external":"","url":""},"position":"top","title_size":"h3","section_style_icon":"","primary_color":"#cca876","secondary_color":"","icon_space":{"unit":"px","size":"8"},"icon_size":{"unit":"px","size":""},"icon_padding":{"unit":"px","size":""},"rotate":{"unit":"deg","size":0},"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"section_hover":"","hover_primary_color":"","hover_secondary_color":"","hover_animation":"","section_style_content":"","text_align":"","text_align_tablet":"","text_align_mobile":"","content_vertical_alignment":"top","heading_title":"","title_bottom_space":{"unit":"px","size":""},"title_bottom_space_tablet":{"unit":"px","size":""},"title_bottom_space_mobile":{"unit":"px","size":""},"title_color":"","title_typography_typography":"","title_typography_font_size":{"unit":"px","size":""},"title_typography_font_size_tablet":{"unit":"px","size":""},"title_typography_font_size_mobile":{"unit":"px","size":""},"title_typography_font_family":"","title_typography_font_weight":"","title_typography_text_transform":"","title_typography_font_style":"","title_typography_line_height":{"unit":"em","size":""},"title_typography_line_height_tablet":{"unit":"em","size":""},"title_typography_line_height_mobile":{"unit":"em","size":""},"title_typography_letter_spacing":{"unit":"px","size":""},"title_typography_letter_spacing_tablet":{"unit":"px","size":""},"title_typography_letter_spacing_mobile":{"unit":"px","size":""},"heading_description":"","description_color":"","description_typography_typography":"","description_typography_font_size":{"unit":"px","size":""},"description_typography_font_size_tablet":{"unit":"px","size":""},"description_typography_font_size_mobile":{"unit":"px","size":""},"description_typography_font_family":"","description_typography_font_weight":"","description_typography_text_transform":"","description_typography_font_style":"","description_typography_line_height":{"unit":"em","size":""},"description_typography_line_height_tablet":{"unit":"em","size":""},"description_typography_line_height_mobile":{"unit":"em","size":""},"description_typography_letter_spacing":{"unit":"px","size":""},"description_typography_letter_spacing_tablet":{"unit":"px","size":""},"description_typography_letter_spacing_mobile":{"unit":"px","size":""},"_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"pb273dg","elType":"section","settings":{"section_layout":"","stretch_section":"","layout":"boxed","content_width":{"unit":"px","size":""},"gap":"default","height":"default","custom_height":{"unit":"px","size":400},"column_position":"middle","content_position":"","structure":"10","section_background":"","background_background":"classic","background_color":"#f5f5f5","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"background_overlay_section":"","background_overlay_background":"","background_overlay_color":"","background_overlay_image":{"url":"","id":""},"background_overlay_position":"","background_overlay_attachment":"","background_overlay_repeat":"","background_overlay_size":"","background_overlay_video_link":"","background_overlay_video_fallback":{"url":"","id":""},"background_overlay_opacity":{"unit":"px","size":0.5},"section_border":"","border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"50","right":"0","bottom":"34","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","_section_responsive":"","reverse_order_mobile":"","heading_visibility":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[{"id":"4jv80hw","elType":"column","settings":{"_inline_size":"","_column_size":100,"section_style":"","background_background":"","background_color":"","background_image":{"url":"","id":""},"background_position":"","background_attachment":"","background_repeat":"","background_size":"","background_video_link":"","background_video_fallback":{"url":"","id":""},"border_border":"","border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"border_color":"","border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"box_shadow_box_shadow_type":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","heading_color":"","color_text":"","color_link":"","color_link_hover":"","text_align":"","section_advanced":"","margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"animation":"","animation_duration":"","css_classes":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"dqqqjal","elType":"widget","settings":{"section_shortcode":"","shortcode":"[contact-form-7 id=\"435\" title=\"Contact form 1\"]","_section_style":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_animation":"","animation_duration":"","_css_classes":"","_section_background":"","_background_background":"","_background_color":"","_background_image":{"url":"","id":""},"_background_position":"","_background_attachment":"","_background_repeat":"","_background_size":"","_background_video_link":"","_background_video_fallback":{"url":"","id":""},"_border_border":"","_border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_color":"","_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","hide_desktop":"","hide_tablet":"","hide_mobile":""},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[{"id":"hlt93es","elType":"section","settings":{"section_layout":"","layout":"full_width","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"e9sgetw","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"zhkzbdk","elType":"widget","settings":{"section_map":"","address":"New York","height":{"unit":"px","size":"450"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"lh8ypsj","elType":"section","settings":{"section_layout":"","structure":"30","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"h3u9tf3","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"l1pycqz","elType":"widget","settings":{"section_icon":"","icon":"fa fa-map-marker","title_text":"","description_text":"Street Name, FL 54785\n<br>\nUnited States of America","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#cca876","icon_space":{"unit":"px","size":"8"},"section_hover":"","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"re222k6","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"y6efdo4","elType":"widget","settings":{"section_icon":"","icon":"fa fa-phone","title_text":"","description_text":"555-452-3014\n<br>\n621-254-2147","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#cca876","icon_space":{"unit":"px","size":"8"},"section_hover":"","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"up4gpqk","elType":"column","settings":{"_column_size":33,"_inline_size":null,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"hdgm6hk","elType":"widget","settings":{"section_icon":"","icon":"fa fa-clock-o","title_text":"","description_text":"Monday-Friday: 8am to 6pm\n<br>\nSaturday: 9am to 12am","link":{"is_external":"","url":""},"section_style_icon":"","primary_color":"#cca876","icon_space":{"unit":"px","size":"8"},"section_hover":"","section_style_content":"","heading_title":"","heading_description":"","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"pb273dg","elType":"section","settings":{"section_layout":"","section_background":"","background_background":"classic","background_color":"#f5f5f5","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"50","right":"0","bottom":"34","left":"0","isLinked":false},"_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"4jv80hw","elType":"column","settings":{"_column_size":100,"section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","section_responsive":"","screen_sm":"default","screen_sm_width":"100","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"ad802d3","elType":"widget","settings":{"form":"664","hide_form_title_description":"yes","inputs_background_background":"classic","inputs_background_color":"#ffffff","inputs_focus_border_color":"#e0e0e0","inputs_typo_typography":"custom","inputs_typo_font_size":{"unit":"px","size":15},"inputs_border_border":"solid","inputs_border_width":{"unit":"px","top":"1","right":"1","bottom":"4","left":"1","isLinked":false},"inputs_border_color":"#ededed","button_background_background":"classic","button_background_color":"#cca876","button_color":"#ffffff","button_hover_background_background":"classic","button_hover_background_color":"#92754c","button_typo_typography":"custom","button_typo_font_size":{"unit":"px","size":12},"button_typo_text_transform":"uppercase","button_typo_letter_spacing":{"unit":"px","size":1},"button_padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},"button_fullwidth":"block"},"elements":[],"widgetType":"oew-wpforms"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -3506,517 +3509,26 @@ Saturday: 9am to 12am</p>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Contact form 1</title>
-		<link>https://lawyer.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=435</link>
-		<pubDate>Fri, 04 Nov 2016 15:36:17 +0000</pubDate>
+		<title>WPForms Preview</title>
+		<link>https://lawyer.oceanwp.org/wpforms-preview/</link>
+		<pubDate>Wed, 05 Sep 2018 17:25:20 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?post_type=wpcf7_contact_form&#038;p=435</guid>
+		<guid isPermaLink="false">https://lawyer.oceanwp.org/wpforms-preview/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_3 col col-1 clr">[text* your-name placeholder "First Name"]</div>
-<div class="span_1_of_3 col clr">[text text-443 placeholder "Last Name"]</div>
-<div class="span_1_of_3 col clr">[email* your-email placeholder "Your Email"]</div>
-<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your Phone"]</div>
-<div class="span_1_of_2 col clr">[text text-453 placeholder "Your Subject"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="text-align: center;margin: 0">[submit "Send Your Message"]</p>
-1
-Lawyer "[your-subject]"
-[your-name] 
-support@contact.com
-From: [your-name] 
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)
-Reply-To: [your-email]
-
-
-
-
-Lawyer "[your-subject]"
-Lawyer 
-[your-email]
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)
-Reply-To: oceanwptheme@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
+		<content:encoded><![CDATA[<p>This is the WPForms preview page. All your form previews will be handled on this page.</p><p>The page is set to private, so it is not publicly accessible. Please do not delete this page :) .</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>435</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-04 15:36:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-04 15:36:17]]></wp:post_date_gmt>
+		<wp:post_id>662</wp:post_id>
+		<wp:post_date><![CDATA[2018-09-05 17:25:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-09-05 17:25:20]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[wpforms-preview]]></wp:post_name>
+		<wp:status><![CDATA[private]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_3 col col-1 clr">[text* your-name placeholder "First Name"]</div>
-<div class="span_1_of_3 col clr">[text text-443 placeholder "Last Name"]</div>
-<div class="span_1_of_3 col clr">[email* your-email placeholder "Your Email"]</div>
-<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your Phone"]</div>
-<div class="span_1_of_2 col clr">[text text-453 placeholder "Your Subject"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="text-align: center; margin: 0;">[submit "Send Your Message"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:170:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:42:"Lawyer <wordpress@lawyer2.mythemecloud.io>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:116:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_3 col col-1 clr">[text* your-name placeholder "First Name"]</div>
-<div class="span_1_of_3 col clr">[text text-443 placeholder "Last Name"]</div>
-<div class="span_1_of_3 col clr">[email* your-email placeholder "Your Email"]</div>
-<div class="span_1_of_2 col clr">[tel tel-531 placeholder "Your Phone"]</div>
-<div class="span_1_of_2 col clr">[text text-453 placeholder "Your Subject"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="text-align: center; margin: 0;">[submit "Send Your Message"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:170:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:42:"Lawyer <wordpress@lawyer2.mythemecloud.io>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:116:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact Form 2</title>
-		<link>https://lawyer.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=453</link>
-		<pubDate>Fri, 04 Nov 2016 16:36:00 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?post_type=wpcf7_contact_form&#038;p=453</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Your Email"]</div>
-</div>
-
-<p>[text text-453 placeholder "Your Subject"]</p>
-
-<p>[textarea your-message placeholder "Your Question is..."]</p>
-
-<p style="text-align: center;margin: 0">[submit "Send Your Question"]</p>
-1
-Lawyer "[your-subject]"
-[your-name] 
-support@contact.com
-From: [your-name] 
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)
-Reply-To: [your-email]
-
-
-
-
-Lawyer "[your-subject]"
-Lawyer 
-[your-email]
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)
-Reply-To: oceanwptheme@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>453</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-04 16:36:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-04 16:36:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Your Email"]</div>
-</div>
-
-<p>[text text-453 placeholder "Your Subject"]</p>
-
-<p>[textarea your-message placeholder "Your Question is..."]</p>
-
-<p style="text-align: center; margin: 0;">[submit "Send Your Question"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:170:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:42:"Lawyer <wordpress@lawyer2.mythemecloud.io>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:116:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Your Email"]</div>
-</div>
-
-<p>[text text-453 placeholder "Your Subject"]</p>
-
-<p>[textarea your-message placeholder "Your Question is..."]</p>
-
-<p style="text-align: center; margin: 0;">[submit "Send Your Question"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:170:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:42:"Lawyer <wordpress@lawyer2.mythemecloud.io>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:116:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact Form 3</title>
-		<link>https://lawyer.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=510</link>
-		<pubDate>Fri, 04 Nov 2016 22:41:43 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?post_type=wpcf7_contact_form&#038;p=510</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_3 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_3 col clr">[email* your-email placeholder "Your Email"]</div>
-<div class="span_1_of_3 col clr">[select menu-142 "Family Law" "Divorce Law" "Criminal Law" "Drug Control Law"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Describe your case"]</p>
-
-<p style="text-align: center;margin: 0">[submit "Send Request"]</p>
-1
-Lawyer "[your-subject]"
-[your-name] 
-support@contact.com
-From: [your-name] 
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)
-Reply-To: [your-email]
-
-
-
-
-Lawyer "[your-subject]"
-Lawyer 
-[your-email]
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)
-Reply-To: oceanwptheme@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>510</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-04 22:41:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-04 22:41:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_3 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_3 col clr">[email* your-email placeholder "Your Email"]</div>
-<div class="span_1_of_3 col clr">[select menu-142 "Family Law" "Divorce Law" "Criminal Law" "Drug Control Law"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Describe your case"]</p>
-
-<p style="text-align: center; margin: 0;">[submit "Send Request"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:170:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:42:"Lawyer <wordpress@lawyer2.mythemecloud.io>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:116:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_3 col col-1 clr">[text* your-name placeholder "Your Name"]</div>
-<div class="span_1_of_3 col clr">[email* your-email placeholder "Your Email"]</div>
-<div class="span_1_of_3 col clr">[select menu-142 "Family Law" "Divorce Law" "Criminal Law" "Drug Control Law"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Describe your case"]</p>
-
-<p style="text-align: center; margin: 0;">[submit "Send Request"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:35:"[your-name] <wordpress@oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:170:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (https://oceanwp.org/lawyer)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:23:"Lawyer "[your-subject]"";s:6:"sender";s:42:"Lawyer <wordpress@lawyer2.mythemecloud.io>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:116:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lawyer (http://lawyer2.mythemecloud.io)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 </channel>
 </rss>

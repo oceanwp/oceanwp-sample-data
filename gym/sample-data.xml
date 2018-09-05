@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.4" created="2018-03-29 21:38" -->
+<!-- generator="WordPress/4.9.8" created="2018-09-05 18:34" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Gym</title>
 	<link>https://gym.oceanwp.org</link>
 	<description>WordPress Demo created with OceanWP</description>
-	<pubDate>Thu, 29 Mar 2018 21:38:50 +0000</pubDate>
+	<pubDate>Wed, 05 Sep 2018 18:34:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gym.oceanwp.org</wp:base_site_url>
@@ -61,10 +61,17 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[section]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[section]]></wp:term_name>
+	</wp:term>
 	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
 	<url>https://gym.oceanwp.org/wp-content/uploads/2016/11/cropped-favicon-32x32.png</url>
@@ -935,120 +942,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>News</title>
-		<link>https://gym.oceanwp.org/news/</link>
-		<pubDate>Thu, 05 May 2016 20:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://oceanwp.org/sport/?page_id=59</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>59</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-05 20:04:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-05 20:04:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[news]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_title_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[background-image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_title_background]]></wp:meta_key>
-			<wp:meta_value><![CDATA[69]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_title_background_overlay]]></wp:meta_key>
-			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_subheading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Discover Our Latest Articles]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_title_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[350px]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[background-image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_background]]></wp:meta_key>
-			<wp:meta_value><![CDATA[258]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0.5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
-			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>img_54781236</title>
 		<link>https://gym.oceanwp.org/about-us/img_54781236/</link>
 		<pubDate>Sun, 06 Nov 2016 17:42:20 +0000</pubDate>
@@ -1533,11 +1426,6 @@
 
 /* Margin bottom to the subscribe title */
 .elementor-widget.subscribe-tilte { margin: 0 0 10px; }
-
-/* Social icons to the contact page */
-.elementor-element.contact-social .elementor-social-icon { width: 78px; height: 78px; line-height: 78px; margin: 0 5px 5px 0 !important; }
-.elementor-element.contact-social .elementor-social-icon:last-child,
-.elementor-element.contact-social .elementor-social-icon:nth-child(4) { margin-right: 0 !important; }
 
 /* Placeholders color*/
 #searchform-dropdown input::-webkit-input-placeholder,
@@ -2183,6 +2071,28 @@ body .sidr-class-mobile-searchform input:-ms-input-placeholder { color: #81e4cf;
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>WPForms Preview</title>
+		<link>https://gym.oceanwp.org/wpforms-preview/</link>
+		<pubDate>Wed, 05 Sep 2018 17:25:23 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://gym.oceanwp.org/wpforms-preview/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>This is the WPForms preview page. All your form previews will be handled on this page.</p><p>The page is set to private, so it is not publicly accessible. Please do not delete this page :) .</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>360</wp:post_id>
+		<wp:post_date><![CDATA[2018-09-05 17:25:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-09-05 17:25:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpforms-preview]]></wp:post_name>
+		<wp:status><![CDATA[private]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
 		<title>Torquent per conubia nostra</title>
 		<link>https://gym.oceanwp.org/torquent-per-conubia-nostra/</link>
 		<pubDate>Tue, 03 May 2016 15:40:14 +0000</pubDate>
@@ -2655,6 +2565,120 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>News</title>
+		<link>https://gym.oceanwp.org/news/</link>
+		<pubDate>Thu, 05 May 2016 20:04:21 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://oceanwp.org/sport/?page_id=59</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-05 20:04:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-05 20:04:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[news]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_title_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[background-image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_title_background]]></wp:meta_key>
+			<wp:meta_value><![CDATA[69]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_title_background_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_subheading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Discover Our Latest Articles]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_title_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[350px]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_title_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[background-image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_title_background]]></wp:meta_key>
+			<wp:meta_value><![CDATA[258]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_post_title_bg_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Contact Us</title>
 		<link>https://gym.oceanwp.org/contact-us/</link>
 		<pubDate>Thu, 05 May 2016 21:08:49 +0000</pubDate>
@@ -2663,7 +2687,8 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<description></description>
 		<content:encoded><![CDATA[<h2>Contact Us</h2>		
 		<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra<br>
-per inceptos himenaeos nam nec ante sed lacinia.</p>[contact-form-7 id="359" title="Contact form"]		
+per inceptos himenaeos nam nec ante sed lacinia.</p>		
+			<form id="wpforms-form-362" data-formid="362" method="post" enctype="multipart/form-data" action="/wp-admin/admin-ajax.php"><label for="wpforms-362-field_0">Name *</label><input type="text" id="wpforms-362-field_0" name="wpforms[fields][0][first]" placeholder="First Name" required><label for="wpforms-362-field_0">First</label><input type="text" id="wpforms-362-field_0-last" name="wpforms[fields][0][last]" placeholder="Last Name" required><label for="wpforms-362-field_0-last">Last</label><label for="wpforms-362-field_1">Your Email *</label><input type="email" id="wpforms-362-field_1" name="wpforms[fields][1]" placeholder="Your Email" required><label for="wpforms-362-field_2">Your Message *</label><textarea id="wpforms-362-field_2" name="wpforms[fields][2]" placeholder="Your Message" required></textarea><label for="wpforms-field_hp">Email</label><input type="text" name="wpforms[hp]" id="wpforms-field_hp"><input type="hidden" name="wpforms[id]" value="362"><input type="hidden" name="wpforms[author]" value="1"><button type="submit" name="wpforms[submit]" id="wpforms-submit-362" value="wpforms-submit" data-alt-text="Sending...">Send Message</button></form>		
 			<h2>Working Hours</h2>		
 		<p>Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor.</p>
 <p style="margin-bottom: 15px;">4582 North Street Name,<br>
@@ -2780,7 +2805,7 @@ Florida, FL 54785</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"008t7ul","elType":"section","settings":{"section_layout":"","structure":"20","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"d0o1myu","elType":"column","settings":{"_column_size":50,"_inline_size":"66.574","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"p6ndti2","elType":"widget","settings":{"section_title":"","title":"Contact Us","link":{"is_external":"","url":""},"section_title_style":"","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"40"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"heading"},{"id":"v720hwe","elType":"widget","settings":{"section_editor":"","editor":"<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra<br>\nper inceptos himenaeos nam nec ante sed lacinia.<\/p>","section_style":"","text_color":"#929292","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"text-editor"},{"id":"1jvjram","elType":"widget","settings":{"section_shortcode":"","shortcode":"[contact-form-7 id=\"359\" title=\"Contact form\"]","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"op7g7wp","elType":"column","settings":{"_column_size":50,"_inline_size":"33.425","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"3hduy1x","elType":"widget","settings":{"section_title":"","title":"Working Hours","link":{"is_external":"","url":""},"section_title_style":"","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_section_style":"","_css_classes":"margin-mobile","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"heading"},{"id":"zfp558x","elType":"widget","settings":{"section_editor":"","editor":"<p>Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor.<\/p>\n<p style=\"margin-bottom: 15px;\">4582 North Street Name,<br>\nFlorida, FL 54785<\/p>\n<p style=\"margin: 0;\">Phone: 621-254-2147<\/p>\n<p style=\"margin: 0;\">Email: <a href=\"#\">contact@support.com<\/a><\/p>\n<p>Web: <a href=\"#\">oceanwp.org<\/a><\/p>","section_style":"","text_color":"#929292","typography_line_height_tablet":{"unit":"em","size":""},"typography_line_height_mobile":{"unit":"em","size":""},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"text-editor"},{"id":"3xpietc","elType":"widget","settings":{"section_social_icon":"","social_icon_list":[{"social":"fa fa-twitter","link":{"url":"#"},"_id":"c43f8c1"},{"social":"fa fa-facebook","link":{"url":"#"},"_id":"61266e2"},{"social":"fa fa-google-plus","link":{"url":"#"},"_id":"894a2cb"},{"social":"fa fa-dribbble","link":{"url":"#","is_external":"true"},"_id":"115bc21"},{"social":"fa fa-pinterest","link":{"url":"#","is_external":"true"},"_id":"37f7c65"},{"social":"fa fa-instagram","link":{"url":"#","is_external":"true"},"_id":"7932285"},{"social":"fa fa-youtube","link":{"url":"#","is_external":"true"},"_id":"bdb6d4f"},{"social":"fa fa-vimeo","link":{"url":"#","is_external":"true"},"_id":"6e57bab"}],"shape":"square","align_tablet":"center","align_mobile":"center","section_social_style":"","icon_size":{"unit":"px","size":"24"},"icon_padding":{"unit":"em","size":0},"icon_spacing":{"unit":"px","size":0},"border_radius":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"_section_style":"","_css_classes":"contact-social","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[{"id":"008t7ul","elType":"section","settings":{"section_layout":"","structure":"20","section_background":"","background_overlay_section":"","section_border":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","_section_responsive":"","heading_visibility":"","responsive_description":""},"elements":[{"id":"d0o1myu","elType":"column","settings":{"_column_size":50,"_inline_size":"66.574","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"p6ndti2","elType":"widget","settings":{"section_title":"","title":"Contact Us","link":{"is_external":"","url":""},"section_title_style":"","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"40"},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"heading"},{"id":"v720hwe","elType":"widget","settings":{"section_editor":"","editor":"<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra<br>\nper inceptos himenaeos nam nec ante sed lacinia.<\/p>","section_style":"","text_color":"#929292","typography_typography":"custom","typography_font_size":{"unit":"px","size":"20"},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"text-editor"},{"id":"c83964b","elType":"widget","settings":{"form":"362","hide_form_title_description":"yes","inputs_background_background":"classic","inputs_background_color":"#f6f6f6","inputs_focus_border_color":"#e0e0e0","inputs_typo_typography":"custom","inputs_typo_font_size":{"unit":"px","size":15},"inputs_border_border":"solid","inputs_border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"inputs_border_color":"#f6f6f6","button_background_background":"classic","button_background_color":"#0eb290","button_color":"#ffffff","button_hover_background_background":"classic","button_hover_background_color":"#00967d","button_typo_typography":"custom","button_typo_font_size":{"unit":"px","size":12},"button_typo_text_transform":"uppercase","button_typo_letter_spacing":{"unit":"px","size":1},"button_padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true}},"elements":[],"widgetType":"oew-wpforms"}],"isInner":false},{"id":"op7g7wp","elType":"column","settings":{"_column_size":50,"_inline_size":"33.425","section_style":"","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"section_typo":"","section_advanced":"","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"section_responsive":"","screen_xs":"default","screen_xs_width":"100"},"elements":[{"id":"3hduy1x","elType":"widget","settings":{"section_title":"","title":"Working Hours","link":{"is_external":"","url":""},"section_title_style":"","title_color":"#333333","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30"},"typography_letter_spacing":{"unit":"px","size":"0.4"},"_section_style":"","_css_classes":"margin-mobile","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"heading"},{"id":"zfp558x","elType":"widget","settings":{"section_editor":"","editor":"<p>Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor.<\/p>\n<p style=\"margin-bottom: 15px;\">4582 North Street Name,<br>\nFlorida, FL 54785<\/p>\n<p style=\"margin: 0;\">Phone: 621-254-2147<\/p>\n<p style=\"margin: 0;\">Email: <a href=\"#\">contact@support.com<\/a><\/p>\n<p>Web: <a href=\"#\">oceanwp.org<\/a><\/p>","section_style":"","text_color":"#929292","_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"text-editor"},{"id":"3xpietc","elType":"widget","settings":{"section_social_icon":"","social_icon_list":[{"social":"fa fa-twitter","link":{"url":"#"},"_id":"c43f8c1"},{"social":"fa fa-facebook","link":{"url":"#"},"_id":"61266e2"},{"social":"fa fa-google-plus","link":{"url":"#"},"_id":"894a2cb"},{"social":"fa fa-dribbble","link":{"url":"#","is_external":"true"},"_id":"115bc21"},{"social":"fa fa-pinterest","link":{"url":"#","is_external":"true"},"_id":"37f7c65"},{"social":"fa fa-instagram","link":{"url":"#","is_external":"true"},"_id":"7932285"},{"social":"fa fa-youtube","link":{"url":"#","is_external":"true"},"_id":"bdb6d4f"},{"social":"fa fa-vimeo","link":{"url":"#","is_external":"true"},"_id":"6e57bab"}],"shape":"square","align_tablet":"center","align_mobile":"center","section_social_style":"","icon_size":{"unit":"px","size":24},"icon_padding":{"unit":"em","size":1.2},"icon_spacing":{"unit":"px","size":0},"_section_style":"","_css_classes":"contact-social","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -2829,6 +2854,10 @@ Florida, FL 54785</p>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3645,133 +3674,6 @@ fusce tellus sed augue semper.
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact form</title>
-		<link>https://gym.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=359</link>
-		<pubDate>Thu, 29 Mar 2018 21:38:20 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://gym.oceanwp.org/?post_type=wpcf7_contact_form&#038;p=359</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "Your Name*"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Email Address*"]</div>
-<div class="span_1_of_2 col clr">[url url-822 placeholder "Your Website"]</div>
-<div class="span_1_of_2 col clr">[text your-subject placeholder "Subject"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="margin: 0;">[submit "Send Message"]</p>
-1
-Gym "[your-subject]"
-[your-name] <wordpress@gym.oceanwp.org>
-support@contact.com
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Gym (https://gym.oceanwp.org)
-Reply-To: [your-email]
-
-
-
-
-Gym "[your-subject]"
-Gym <wordpress@gym.oceanwp.org>
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Gym (https://gym.oceanwp.org)
-Reply-To: oceanwptheme@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>359</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-29 21:38:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-29 21:38:20]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="oceanwp-row clr">
-<div class="span_1_of_2 col col-1 clr">[text* your-name placeholder "Your Name*"]</div>
-<div class="span_1_of_2 col clr">[email* your-email placeholder "Email Address*"]</div>
-<div class="span_1_of_2 col clr">[url url-822 placeholder "Your Website"]</div>
-<div class="span_1_of_2 col clr">[text your-subject placeholder "Subject"]</div>
-</div>
-
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="margin: 0;">[submit "Send Message"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:20:"Gym "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@gym.oceanwp.org>";s:9:"recipient";s:19:"support@contact.com";s:4:"body";s:165:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Gym (https://gym.oceanwp.org)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:20:"Gym "[your-subject]"";s:6:"sender";s:31:"Gym <wordpress@gym.oceanwp.org>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:107:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Gym (https://gym.oceanwp.org)";s:18:"additional_headers";s:32:"Reply-To: oceanwptheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
