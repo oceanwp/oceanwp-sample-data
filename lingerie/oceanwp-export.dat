@@ -1,0 +1,119 @@
+a:3:{s:4:"mods";a:107:{i:0;b:0;s:18:"custom_css_post_id";i:324;s:18:"nav_menu_locations";a:3:{s:9:"main_menu";i:28;s:11:"topbar_menu";i:29;s:11:"footer_menu";i:27;}s:19:"ocean_primary_color";s:7:"#ff4a96";s:25:"ocean_hover_primary_color";s:7:"#ff64a5";s:23:"ocean_page_header_style";s:16:"centered-minimal";s:22:"ocean_scroll_top_arrow";s:19:"fa fa-long-arrow-up";s:15:"ocean_onsale_bg";s:7:"#3fc387";s:14:"ofc_callout_bg";s:7:"#1b1b1b";s:18:"ofc_callout_border";s:7:"#1b1b1b";s:21:"ocean_scroll_top_size";s:2:"50";s:30:"ocean_scroll_top_border_radius";s:2:"50";s:19:"ocean_scroll_top_bg";s:7:"#212121";s:25:"ocean_scroll_top_bg_hover";s:7:"#ff4a96";s:19:"ocean_input_padding";s:9:"15px 20px";s:15:"body_typography";a:1:{s:11:"font-family";s:7:"Raleway";}s:19:"top_menu_typography";a:2:{s:14:"text-transform";s:9:"uppercase";s:14:"letter-spacing";s:3:"0.6";}s:15:"menu_typography";a:3:{s:14:"text-transform";s:9:"uppercase";s:9:"font-size";s:2:"12";s:14:"letter-spacing";s:1:"1";}s:16:"ocean_top_bar_bg";s:7:"#ff4a96";s:26:"ocean_top_bar_border_color";s:7:"#ff4a96";s:24:"ocean_top_bar_text_color";s:7:"#ffffff";s:24:"ocean_top_bar_link_color";s:7:"#ffffff";s:30:"ocean_top_bar_link_color_hover";s:7:"#4c0631";s:21:"ocean_top_bar_content";s:0:"";s:27:"ocean_top_bar_social_target";s:4:"self";s:32:"ocean_top_bar_social_links_color";s:7:"#ffffff";s:29:"ocean_top_bar_social_profiles";a:10:{s:7:"twitter";s:1:"#";s:8:"facebook";s:1:"#";s:10:"googleplus";s:1:"#";s:9:"pinterest";s:1:"#";s:8:"dribbble";s:1:"#";s:9:"instagram";s:1:"#";s:8:"linkedin";s:1:"#";s:6:"flickr";s:1:"#";s:7:"youtube";s:1:"#";s:3:"rss";s:1:"#";}s:11:"custom_logo";i:314;s:19:"ocean_header_height";s:2:"85";s:30:"ocean_has_header_border_bottom";b:0;s:23:"ocean_header_background";s:7:"#212121";s:26:"ocean_header_border_bottom";s:7:"#212121";s:17:"ocean_retina_logo";s:80:"https://lingerie.oceanwp.org/wp-content/uploads/2016/11/lingerie-retina-logo.png";s:17:"ocean_logo_height";s:2:"18";s:16:"ocean_logo_width";s:3:"126";s:16:"ocean_logo_color";s:7:"#ffffff";s:23:"ocean_menu_search_style";s:14:"header_replace";s:21:"ocean_menu_link_color";s:7:"#aaaaaa";s:27:"ocean_menu_link_color_hover";s:7:"#ff4a96";s:28:"ocean_menu_link_color_active";s:7:"#ffffff";s:26:"ocean_menu_link_background";s:0:"";s:32:"ocean_menu_link_hover_background";s:0:"";s:33:"ocean_menu_link_active_background";s:0:"";s:30:"ocean_dropdown_menu_background";s:7:"#212121";s:27:"ocean_dropdown_menu_borders";s:7:"#000000";s:30:"ocean_dropdown_menu_link_color";s:7:"#aaaaaa";s:36:"ocean_dropdown_menu_link_color_hover";s:7:"#ffffff";s:33:"ocean_dropdown_menu_link_hover_bg";s:7:"#111111";s:46:"ocean_mobile_menu_sidr_close_button_background";s:7:"#111111";s:33:"ocean_mobile_menu_sidr_background";s:7:"#212121";s:30:"ocean_mobile_menu_sidr_borders";s:7:"#333333";s:23:"ocean_mobile_menu_links";s:7:"#aaaaaa";s:29:"ocean_mobile_menu_links_hover";s:7:"#ffffff";s:43:"ocean_mobile_menu_sidr_dropdowns_background";s:7:"#111111";s:32:"ocean_mobile_menu_sidr_search_bg";s:7:"#111111";s:35:"ocean_mobile_menu_sidr_search_color";s:7:"#ffffff";s:42:"ocean_mobile_menu_sidr_search_border_color";s:7:"#111111";s:48:"ocean_mobile_menu_sidr_search_border_color_focus";s:7:"#000000";s:42:"ocean_mobile_menu_sidr_search_button_color";s:7:"#aaaaaa";s:48:"ocean_mobile_menu_sidr_search_button_hover_color";s:7:"#ffffff";s:28:"ocean_footer_widgets_page_id";s:0:"";s:20:"ocean_footer_padding";s:6:"50px 0";s:23:"ocean_footer_background";s:7:"#212121";s:18:"ocean_footer_color";s:7:"#aaaaaa";s:23:"ocean_footer_link_color";s:7:"#aaaaaa";s:29:"ocean_footer_link_color_hover";s:7:"#ffffff";s:28:"ocean_footer_widgets_columns";s:1:"3";s:19:"ocean_footer_bottom";b:1;s:16:"ofc_callout_text";s:955:"<div class="lingerie-callout oceanwp-row clr">
+<div class="span_1_of_4 col col-1 clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-globe-alt"></span></div>
+<div class="icon-box-heading clr">Worldwide shipping</div>
+</a>
+</div>
+</div>
+<div class="span_1_of_4 col clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-anchor"></span></div>
+<div class="icon-box-heading clr">Fast delivery</div>
+</a>
+</div>
+</div>
+<div class="span_1_of_4 col clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-lock"></span></div>
+<div class="icon-box-heading clr">Secure payment</div>
+</a>
+</div>
+</div>
+<div class="span_1_of_4 col clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-heart"></span></div>
+<div class="icon-box-heading clr">Fashion destination</div>
+</a>
+</div>
+</div>
+</div>";s:18:"ofc_callout_button";b:0;s:29:"osh_shrink_header_logo_height";s:2:"14";s:27:"ocean_search_custom_sidebar";b:0;s:27:"ocean_footer_copyright_text";s:52:"Copyright 2016 - OceanWP theme - All Rights Reserved";s:27:"ocean_bottom_footer_padding";s:0:"";s:30:"ocean_bottom_footer_background";s:7:"#212121";s:25:"ocean_bottom_footer_color";s:7:"#777777";s:30:"ocean_bottom_footer_link_color";s:7:"#aaaaaa";s:36:"ocean_bottom_footer_link_color_hover";s:7:"#ffffff";s:38:"ocean_top_bar_social_hover_links_color";s:7:"#4c0631";s:26:"ofc_callout_bottom_padding";s:2:"10";s:29:"ofc_callout_links_color_hover";s:7:"#aaaaaa";s:30:"footer_widget_title_typography";a:3:{s:11:"font-family";s:10:"Montserrat";s:14:"text-transform";s:10:"capitalize";s:9:"font-size";s:2:"18";}s:19:"ofc_callout_page_id";s:0:"";s:37:"ocean_woocommerce_tablet_shop_columns";s:1:"3";s:17:"owp_popup_display";s:10:"switch-one";s:22:"owp_popup_checkmark_bg";s:7:"#ff4a96";s:24:"owp_popup_cart_btn_color";s:7:"#ff4a96";s:31:"owp_popup_cart_btn_border_color";s:7:"#ff4a96";s:30:"owp_popup_cart_btn_hover_color";s:7:"#ffffff";s:37:"owp_popup_cart_btn_hover_border_color";s:7:"#ff4a96";s:27:"owp_popup_cart_btn_hover_bg";s:7:"#ff4a96";s:28:"owp_popup_continue_btn_color";s:7:"#212121";s:35:"owp_popup_continue_btn_border_color";s:7:"#212121";s:31:"owp_popup_continue_btn_hover_bg";s:7:"#212121";s:41:"owp_popup_continue_btn_hover_border_color";s:7:"#212121";s:34:"ocean_woo_cart_dropdown_link_color";s:7:"#ffffff";s:47:"ocean_woo_cart_dropdown_remove_link_color_hover";s:7:"#ffffff";s:38:"ocean_woo_cart_dropdown_subtotal_color";s:7:"#ffffff";s:42:"ocean_woo_cart_dropdown_checkout_button_bg";s:7:"#ff4a96";s:40:"ocean_woo_cart_dropdown_link_color_hover";s:7:"#ff4a96";s:22:"oss_social_share_sites";a:7:{i:0;s:7:"twitter";i:1;s:8:"facebook";i:2;s:11:"google_plus";i:3;s:9:"pinterest";i:4;s:8:"linkedin";i:5;s:5:"viber";i:6;s:2:"vk";}s:21:"oss_social_share_name";b:0;s:22:"oss_social_share_style";s:4:"dark";s:36:"oss_social_share_style_border_radius";s:3:"3px";s:35:"ocean_woo_cart_dropdown_subtotal_bg";s:7:"#000000";s:54:"ocean_woo_cart_dropdown_cart_button_hover_border_color";s:7:"#ffffff";s:48:"ocean_woo_cart_dropdown_checkout_button_hover_bg";s:7:"#ff64a5";}s:7:"options";a:107:{i:0;b:0;s:18:"custom_css_post_id";i:324;s:18:"nav_menu_locations";a:3:{s:9:"main_menu";i:28;s:11:"topbar_menu";i:29;s:11:"footer_menu";i:27;}s:19:"ocean_primary_color";s:7:"#ff4a96";s:25:"ocean_hover_primary_color";s:7:"#ff64a5";s:23:"ocean_page_header_style";s:16:"centered-minimal";s:22:"ocean_scroll_top_arrow";s:19:"fa fa-long-arrow-up";s:15:"ocean_onsale_bg";s:7:"#3fc387";s:14:"ofc_callout_bg";s:7:"#1b1b1b";s:18:"ofc_callout_border";s:7:"#1b1b1b";s:21:"ocean_scroll_top_size";s:2:"50";s:30:"ocean_scroll_top_border_radius";s:2:"50";s:19:"ocean_scroll_top_bg";s:7:"#212121";s:25:"ocean_scroll_top_bg_hover";s:7:"#ff4a96";s:19:"ocean_input_padding";s:9:"15px 20px";s:15:"body_typography";a:1:{s:11:"font-family";s:7:"Raleway";}s:19:"top_menu_typography";a:2:{s:14:"text-transform";s:9:"uppercase";s:14:"letter-spacing";s:3:"0.6";}s:15:"menu_typography";a:3:{s:14:"text-transform";s:9:"uppercase";s:9:"font-size";s:2:"12";s:14:"letter-spacing";s:1:"1";}s:16:"ocean_top_bar_bg";s:7:"#ff4a96";s:26:"ocean_top_bar_border_color";s:7:"#ff4a96";s:24:"ocean_top_bar_text_color";s:7:"#ffffff";s:24:"ocean_top_bar_link_color";s:7:"#ffffff";s:30:"ocean_top_bar_link_color_hover";s:7:"#4c0631";s:21:"ocean_top_bar_content";s:0:"";s:27:"ocean_top_bar_social_target";s:4:"self";s:32:"ocean_top_bar_social_links_color";s:7:"#ffffff";s:29:"ocean_top_bar_social_profiles";a:10:{s:7:"twitter";s:1:"#";s:8:"facebook";s:1:"#";s:10:"googleplus";s:1:"#";s:9:"pinterest";s:1:"#";s:8:"dribbble";s:1:"#";s:9:"instagram";s:1:"#";s:8:"linkedin";s:1:"#";s:6:"flickr";s:1:"#";s:7:"youtube";s:1:"#";s:3:"rss";s:1:"#";}s:11:"custom_logo";i:314;s:19:"ocean_header_height";s:2:"85";s:30:"ocean_has_header_border_bottom";b:0;s:23:"ocean_header_background";s:7:"#212121";s:26:"ocean_header_border_bottom";s:7:"#212121";s:17:"ocean_retina_logo";s:80:"https://lingerie.oceanwp.org/wp-content/uploads/2016/11/lingerie-retina-logo.png";s:17:"ocean_logo_height";s:2:"18";s:16:"ocean_logo_width";s:3:"126";s:16:"ocean_logo_color";s:7:"#ffffff";s:23:"ocean_menu_search_style";s:14:"header_replace";s:21:"ocean_menu_link_color";s:7:"#aaaaaa";s:27:"ocean_menu_link_color_hover";s:7:"#ff4a96";s:28:"ocean_menu_link_color_active";s:7:"#ffffff";s:26:"ocean_menu_link_background";s:0:"";s:32:"ocean_menu_link_hover_background";s:0:"";s:33:"ocean_menu_link_active_background";s:0:"";s:30:"ocean_dropdown_menu_background";s:7:"#212121";s:27:"ocean_dropdown_menu_borders";s:7:"#000000";s:30:"ocean_dropdown_menu_link_color";s:7:"#aaaaaa";s:36:"ocean_dropdown_menu_link_color_hover";s:7:"#ffffff";s:33:"ocean_dropdown_menu_link_hover_bg";s:7:"#111111";s:46:"ocean_mobile_menu_sidr_close_button_background";s:7:"#111111";s:33:"ocean_mobile_menu_sidr_background";s:7:"#212121";s:30:"ocean_mobile_menu_sidr_borders";s:7:"#333333";s:23:"ocean_mobile_menu_links";s:7:"#aaaaaa";s:29:"ocean_mobile_menu_links_hover";s:7:"#ffffff";s:43:"ocean_mobile_menu_sidr_dropdowns_background";s:7:"#111111";s:32:"ocean_mobile_menu_sidr_search_bg";s:7:"#111111";s:35:"ocean_mobile_menu_sidr_search_color";s:7:"#ffffff";s:42:"ocean_mobile_menu_sidr_search_border_color";s:7:"#111111";s:48:"ocean_mobile_menu_sidr_search_border_color_focus";s:7:"#000000";s:42:"ocean_mobile_menu_sidr_search_button_color";s:7:"#aaaaaa";s:48:"ocean_mobile_menu_sidr_search_button_hover_color";s:7:"#ffffff";s:28:"ocean_footer_widgets_page_id";s:0:"";s:20:"ocean_footer_padding";s:6:"50px 0";s:23:"ocean_footer_background";s:7:"#212121";s:18:"ocean_footer_color";s:7:"#aaaaaa";s:23:"ocean_footer_link_color";s:7:"#aaaaaa";s:29:"ocean_footer_link_color_hover";s:7:"#ffffff";s:28:"ocean_footer_widgets_columns";s:1:"3";s:19:"ocean_footer_bottom";b:1;s:16:"ofc_callout_text";s:955:"<div class="lingerie-callout oceanwp-row clr">
+<div class="span_1_of_4 col col-1 clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-globe-alt"></span></div>
+<div class="icon-box-heading clr">Worldwide shipping</div>
+</a>
+</div>
+</div>
+<div class="span_1_of_4 col clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-anchor"></span></div>
+<div class="icon-box-heading clr">Fast delivery</div>
+</a>
+</div>
+</div>
+<div class="span_1_of_4 col clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-lock"></span></div>
+<div class="icon-box-heading clr">Secure payment</div>
+</a>
+</div>
+</div>
+<div class="span_1_of_4 col clr">
+<div class="callout-content">
+<a href="#">
+<div class="icon-box-icon clr"><span class="icon-heart"></span></div>
+<div class="icon-box-heading clr">Fashion destination</div>
+</a>
+</div>
+</div>
+</div>";s:18:"ofc_callout_button";b:0;s:29:"osh_shrink_header_logo_height";s:2:"14";s:27:"ocean_search_custom_sidebar";b:0;s:27:"ocean_footer_copyright_text";s:52:"Copyright 2016 - OceanWP theme - All Rights Reserved";s:27:"ocean_bottom_footer_padding";s:0:"";s:30:"ocean_bottom_footer_background";s:7:"#212121";s:25:"ocean_bottom_footer_color";s:7:"#777777";s:30:"ocean_bottom_footer_link_color";s:7:"#aaaaaa";s:36:"ocean_bottom_footer_link_color_hover";s:7:"#ffffff";s:38:"ocean_top_bar_social_hover_links_color";s:7:"#4c0631";s:26:"ofc_callout_bottom_padding";s:2:"10";s:29:"ofc_callout_links_color_hover";s:7:"#aaaaaa";s:30:"footer_widget_title_typography";a:3:{s:11:"font-family";s:10:"Montserrat";s:14:"text-transform";s:10:"capitalize";s:9:"font-size";s:2:"18";}s:19:"ofc_callout_page_id";s:0:"";s:37:"ocean_woocommerce_tablet_shop_columns";s:1:"3";s:17:"owp_popup_display";s:10:"switch-one";s:22:"owp_popup_checkmark_bg";s:7:"#ff4a96";s:24:"owp_popup_cart_btn_color";s:7:"#ff4a96";s:31:"owp_popup_cart_btn_border_color";s:7:"#ff4a96";s:30:"owp_popup_cart_btn_hover_color";s:7:"#ffffff";s:37:"owp_popup_cart_btn_hover_border_color";s:7:"#ff4a96";s:27:"owp_popup_cart_btn_hover_bg";s:7:"#ff4a96";s:28:"owp_popup_continue_btn_color";s:7:"#212121";s:35:"owp_popup_continue_btn_border_color";s:7:"#212121";s:31:"owp_popup_continue_btn_hover_bg";s:7:"#212121";s:41:"owp_popup_continue_btn_hover_border_color";s:7:"#212121";s:34:"ocean_woo_cart_dropdown_link_color";s:7:"#ffffff";s:47:"ocean_woo_cart_dropdown_remove_link_color_hover";s:7:"#ffffff";s:38:"ocean_woo_cart_dropdown_subtotal_color";s:7:"#ffffff";s:42:"ocean_woo_cart_dropdown_checkout_button_bg";s:7:"#ff4a96";s:40:"ocean_woo_cart_dropdown_link_color_hover";s:7:"#ff4a96";s:22:"oss_social_share_sites";a:7:{i:0;s:7:"twitter";i:1;s:8:"facebook";i:2;s:11:"google_plus";i:3;s:9:"pinterest";i:4;s:8:"linkedin";i:5;s:5:"viber";i:6;s:2:"vk";}s:21:"oss_social_share_name";b:0;s:22:"oss_social_share_style";s:4:"dark";s:36:"oss_social_share_style_border_radius";s:3:"3px";s:35:"ocean_woo_cart_dropdown_subtotal_bg";s:7:"#000000";s:54:"ocean_woo_cart_dropdown_cart_button_hover_border_color";s:7:"#ffffff";s:48:"ocean_woo_cart_dropdown_checkout_button_hover_bg";s:7:"#ff64a5";}s:6:"wp_css";s:2897:"/* Titles margin bottom on the banner of the home page */
+.elementor-element.banner-margin { margin-bottom: 10px; }
+
+/* Footer Callout */
+.lingerie-callout .col { border-left: 1px solid #555; }
+.lingerie-callout .col-1 { border-left: 0; }
+.lingerie-callout .callout-content { line-height: 1; text-align: center; }
+.lingerie-callout .callout-content a { display: inline-block; }
+.lingerie-callout .icon-box-icon, .lingerie-callout .icon-box-heading { display: inline-block; vertical-align: middle; }
+.lingerie-callout .icon-box-icon { margin-right: 12px; }
+.lingerie-callout .icon-box-icon span { font-size: 22px; }
+.lingerie-callout .icon-box-heading { font-size: 16px; font-weight: 400; margin: 0; letter-spacing: 1px; text-transform: capitalize; }
+
+@media screen and (max-width: 767px) {
+    .lingerie-callout .col { border-left: 0 !important; }
+    .lingerie-callout .icon-box-icon { display: none; }
+    .lingerie-callout .icon-box-heading { display: block; }
+}
+
+/* Footer */
+#footer-widgets .footer-box { width: 25%; border-left: 1px solid #373737; padding-left: 60px; }
+#footer-widgets .footer-box.col-1 { width: 50%; border-left: 0; padding-left: 0 !important; }
+#footer-widgets .footer-box .footer-widget.social-widget { margin-bottom: 14px; }
+#footer-widgets .footer-box .widget-title { border: 0; padding-left: 0; }
+#footer-widgets .footer-box .social-widget .style-simple li a { font-size: 14px; width: 26px; }
+#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"] { background-color: #383838; color: #909090; border-color: #383838; font-size: 13px; padding: 6px 12px; height: 40px; border-radius: 20px; }
+#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus { border-color: #525252; }
+#footer-widgets .oceanwp-newsletter-form-wrap button { background-color: #212121; height: 36px; right: 2px; padding: 0 24px; border-radius: 20px; }
+#footer-widgets .oceanwp-newsletter-form-wrap button:hover { background-color: #ff4a96; }
+
+/* Footer Bottom */
+#footer-bottom { padding: 0; }
+#footer-bottom-inner { border-top: 1px solid #373737; padding: 20px 0; }
+#footer-bottom #copyright, #footer-bottom #footer-bottom-menu { float: none; width: 100%; text-align: center; padding: 0; }
+#footer-bottom #footer-bottom-menu { margin-bottom: 16px; }
+#footer-bottom a, #footer-bottom #footer-bottom-menu a { font-size: 13px; padding: 0 10px; }
+
+/* Responsive */
+@media screen and (max-width: 1280px) {
+    #footer-widgets .footer-box { padding-left: 20px; }
+}
+@media screen and (max-width: 959px) {
+    #footer-widgets .footer-box { padding-left: 10px; }
+}
+@media screen and (max-width: 767px) {
+    #footer-widgets .footer-box { border-left: 0; padding-left: 0; padding-top: 20px; }
+}
+@media screen and (max-width: 480px) {
+    #scroll-top { display: none !important; }
+}
+@media screen and (max-width: 320px) {
+    #site-logo #site-logo-inner a img { max-width: 150px; }
+}";}
